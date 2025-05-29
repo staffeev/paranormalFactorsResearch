@@ -1,0 +1,2789 @@
+Data File: CSAF2021 (Full Data Codebook)
+
+1) RESPID
+Respondent ID
+RANGE: 2 to 2019
+	N	Mean	Std. Deviation
+Total	1035	949.244	573.881
+
+
+2) Q1
+How religious do you consider yourself to be?
+RANGE: 1 to 4
+	N	Mean	Std. Deviation
+Total	1035	2.563	0.999
+1) Not at all religious	207	20.0
+2) Not too religious	220	21.3
+3) Somewhat religious	426	41.2
+4) Very religious	182	17.6
+
+
+3) Q2
+How often do you attend religious services at a church, mosque, synagogue or other place of worship?
+RANGE: 1 to 9
+	N	Mean	Std. Deviation
+Total	1035	4.045	2.714
+1) Never	169	16.3
+2) Only on special occasions (i.e. weddings, funerals, holidays)	341	32.9
+3) Less than once a year	46	4.4
+4) Once or twice a year	61	5.9
+5) Several times a year	102	9.9
+6) Once a month	30	2.9
+7) Two to three times a month	52	5.0
+8) Weekly	206	19.9
+9) Several times a week	28	2.7
+
+
+4) Q3
+Which one statement comes closest to your personal beliefs about the Christian Bible?
+RANGE: 1 to 5
+	N	Mean	Std. Deviation
+Total	1035	2.967	1.253
+1) The Bible means exactly what it says. It should be taken literally, word-for-word, on all subjects.	132	12.8
+2) The Bible is perfectly true, but it should not be taken literally, word-for-word. We must interpret its meaning.	317	30.6
+3) The Bible contains some human error.	155	15.0
+4) The Bible is an ancient book of history and legends.	315	30.4
+5) I don't know	116	11.2
+
+
+5) Q4
+How would you describe yourself politically?
+RANGE: 1 to 7
+	N	Mean	Std. Deviation
+Total	1035	4.009	1.541
+1) Extremely conservative	40	3.9
+2) Conservative	191	18.5
+3) Leaning conservative	103	10.0
+4) Moderate	349	33.7
+5) Leaning liberal	136	13.1
+6) Liberal	170	16.4
+7) Extremely liberal	46	4.4
+
+
+6) Q5
+Do you think of yourself as a Republican, Democrat or Independent?
+RANGE: 1 to 7
+	N	Mean	Std. Deviation
+Total	1035	4.27	1.804
+1) Strong Republican	85	8.2
+2) Moderate Republican	127	12.3
+3) Leaning Republican	81	7.8
+4) Independent	335	32.4
+5) Leaning Democrat	92	8.9
+6) Moderate Democrat	168	16.2
+7) Strong Democrat	147	14.2
+
+
+7) Q6
+Who did you vote for in the 2020 Presidential election?
+RANGE: -1 to 4
+	N	Mean	Std. Deviation
+Total	1035	1.999	0.929
+-1) Web blank	1	0.1
+1) Donald Trump, the Republican nominee	309	29.9
+2) Joseph Biden, the Democratic nominee	546	52.8
+3) Someone else	47	4.5
+4) Did not vote	132	12.8
+
+
+8) Q9A
+How often do you... Read a local newspaper from your hometown (in print or the digital version)?
+RANGE: -1 to 6
+	N	Mean	Std. Deviation
+Total	1035	3.925	1.764
+-1) Web blank	1	0.1
+1) Every day	136	13.1
+2) Most days	125	12.1
+3) Once or twice a week	161	15.6
+4) Once or twice a month	149	14.4
+5) Less than once a month but at least once a year	180	17.4
+6) Never	283	27.3
+
+
+9) Q9B
+How often do you... Read a national newspaper, such as USA Today, The Wall Street Journal or The New York Times (in print or the digital version, app, etc.)?
+RANGE: -1 to 6
+	N	Mean	Std. Deviation
+Total	1035	4.147	1.787
+-1) Web blank	1	0.1
+1) Every day	115	11.1
+2) Most days	130	12.6
+3) Once or twice a week	132	12.8
+4) Once or twice a month	122	11.8
+5) Less than once a month but at least once a year	176	17.0
+6) Never	359	34.7
+
+
+10) Q9C
+How often do you... Read online news websites (such as Yahoo News or Google)?
+RANGE: -1 to 6
+	N	Mean	Std. Deviation
+Total	1035	2.788	1.697
+-1) Web blank	2	0.2
+1) Every day	301	29.1
+2) Most days	248	24.0
+3) Once or twice a week	174	16.8
+4) Once or twice a month	103	10.0
+5) Less than once a month but at least once a year	85	8.2
+6) Never	122	11.8
+
+
+11) Q9D
+How often do you... Watch the national nightly network news (such as World News Tonight, CBS Evening News)?
+RANGE: 1 to 6
+	N	Mean	Std. Deviation
+Total	1035	3.811	1.808
+1) Every day	151	14.6
+2) Most days	156	15.1
+3) Once or twice a week	153	14.8
+4) Once or twice a month	133	12.9
+5) Less than once a month but at least once a year	162	15.7
+6) Never	280	27.1
+
+
+12) Q9E
+How often do you... Watch Fox News?
+RANGE: -1 to 6
+	N	Mean	Std. Deviation
+Total	1035	4.473	1.65
+-1) Web blank	2	0.2
+1) Every day	59	5.7
+2) Most days	113	10.9
+3) Once or twice a week	134	12.9
+4) Once or twice a month	111	10.7
+5) Less than once a month but at least once a year	195	18.8
+6) Never	421	40.7
+
+
+13) Q9F
+How often do you... Watch CNN?
+RANGE: -1 to 6
+	N	Mean	Std. Deviation
+Total	1035	4.294	1.701
+-1) Web blank	2	0.2
+1) Every day	89	8.6
+2) Most days	101	9.8
+3) Once or twice a week	146	14.1
+4) Once or twice a month	143	13.8
+5) Less than once a month but at least once a year	179	17.3
+6) Never	375	36.2
+
+
+14) Q9G
+How often do you... Watch MSNBC?
+RANGE: -1 to 6
+	N	Mean	Std. Deviation
+Total	1035	4.552	1.695
+-1) Web blank	3	0.3
+1) Every day	79	7.6
+2) Most days	88	8.5
+3) Once or twice a week	106	10.2
+4) Once or twice a month	123	11.9
+5) Less than once a month but at least once a year	167	16.1
+6) Never	469	45.3
+
+
+15) Q9H
+How often do you... Watch the local TV news to learn about your area?
+RANGE: -1 to 6
+	N	Mean	Std. Deviation
+Total	1035	3.037	1.759
+-1) Web blank	3	0.3
+1) Every day	262	25.3
+2) Most days	218	21.1
+3) Once or twice a week	165	15.9
+4) Once or twice a month	125	12.1
+5) Less than once a month but at least once a year	119	11.5
+6) Never	143	13.8
+
+
+16) Q9I
+How often do you... Watch daytime talk shows, such as The Ellen DeGeneres Show or The View?
+RANGE: -1 to 6
+	N	Mean	Std. Deviation
+Total	1035	5.209	1.295
+-1) Web blank	2	0.2
+1) Every day	24	2.3
+2) Most days	41	4.0
+3) Once or twice a week	55	5.3
+4) Once or twice a month	88	8.5
+5) Less than once a month but at least once a year	180	17.4
+6) Never	645	62.3
+
+
+17) Q9J
+How often do you... Listen to a talk radio show that discusses politics?
+RANGE: 1 to 6
+	N	Mean	Std. Deviation
+Total	1035	4.44	1.692
+1) Every day	74	7.1
+2) Most days	115	11.1
+3) Once or twice a week	127	12.3
+4) Once or twice a month	122	11.8
+5) Less than once a month but at least once a year	160	15.5
+6) Never	437	42.2
+
+
+18) Q9K
+How often do you... Get news from social media (e.g., Twitter, Facebook)?
+RANGE: -1 to 6
+	N	Mean	Std. Deviation
+Total	1035	3.214	1.963
+-1) Web blank	1	0.1
+1) Every day	272	26.3
+2) Most days	222	21.4
+3) Once or twice a week	139	13.4
+4) Once or twice a month	79	7.6
+5) Less than once a month but at least once a year	54	5.2
+6) Never	268	25.9
+
+
+19) Q10A
+How afraid are you of the following: Becoming seriously ill?
+RANGE: -1 to 4
+	N	Mean	Std. Deviation
+Total	1035	2.711	1.007
+-1) Web blank	2	0.2
+1) Very afraid	157	15.2
+2) Afraid	226	21.8
+3) Slightly afraid	401	38.7
+4) Not afraid	249	24.1
+
+
+20) Q10B
+How afraid are you of the following: People I love becoming seriously ill?
+RANGE: 1 to 4
+	N	Mean	Std. Deviation
+Total	1035	2.297	0.988
+1) Very afraid	274	26.5
+2) Afraid	303	29.3
+3) Slightly afraid	335	32.4
+4) Not afraid	123	11.9
+
+
+21) Q10C
+How afraid are you of the following: Dying?
+RANGE: 1 to 4
+	N	Mean	Std. Deviation
+Total	1035	2.973	0.985
+1) Very afraid	117	11.3
+2) Afraid	165	15.9
+3) Slightly afraid	382	36.9
+4) Not afraid	371	35.8
+
+
+22) Q10D
+How afraid are you of the following: People I love dying?
+RANGE: 1 to 4
+	N	Mean	Std. Deviation
+Total	1035	2.311	1.024
+1) Very afraid	286	27.6
+2) Afraid	286	27.6
+3) Slightly afraid	318	30.7
+4) Not afraid	145	14.0
+
+
+23) Q11A
+How many days during the past 30 days would you say... Your physical health was not good?
+RANGE: -1 to 30
+	N	Mean	Std. Deviation
+Total	1035	5.311	9.013
+-1) Web blank	2	0.2
+0) 	502	48.5
+1) 	77	7.4
+2) 	74	7.1
+3) 	48	4.6
+4) 	13	1.3
+5) 	85	8.2
+6) 	4	0.4
+7) 	14	1.4
+8) 	6	0.6
+10) 	43	4.2
+12) 	3	0.3
+14) 	1	0.1
+15) 	27	2.6
+18) 	2	0.2
+19) 	2	0.2
+20) 	33	3.2
+23) 	1	0.1
+25) 	19	1.8
+29) 	4	0.4
+30) 	75	7.2
+
+
+24) Q11B
+How many days during the past 30 days would you say... Your mental health was not good?
+RANGE: 0 to 30
+	N	Mean	Std. Deviation
+Total	1035	5.762	8.835
+0) 	472	45.6
+1) 	50	4.8
+2) 	73	7.1
+3) 	47	4.5
+4) 	23	2.2
+5) 	94	9.1
+6) 	7	0.7
+7) 	16	1.5
+8) 	5	0.5
+9) 	3	0.3
+10) 	55	5.3
+12) 	5	0.5
+14) 	2	0.2
+15) 	45	4.3
+16) 	2	0.2
+17) 	2	0.2
+18) 	3	0.3
+20) 	37	3.6
+22) 	1	0.1
+23) 	1	0.1
+24) 	1	0.1
+25) 	22	2.1
+28) 	8	0.8
+29) 	2	0.2
+30) 	59	5.7
+
+
+25) Q11C
+How many days during the past 30 days would you say... Physical pain made it difficult to perform usual activities?
+RANGE: -1 to 30
+	N	Mean	Std. Deviation
+Total	1035	4.418	8.311
+-1) Web blank	3	0.3
+0) 	565	54.6
+1) 	51	4.9
+2) 	90	8.7
+3) 	37	3.6
+4) 	19	1.8
+5) 	74	7.1
+6) 	10	1.0
+7) 	11	1.1
+8) 	8	0.8
+10) 	32	3.1
+12) 	3	0.3
+13) 	2	0.2
+14) 	2	0.2
+15) 	19	1.8
+17) 	1	0.1
+20) 	23	2.2
+21) 	2	0.2
+22) 	1	0.1
+23) 	1	0.1
+24) 	4	0.4
+25) 	14	1.4
+26) 	1	0.1
+28) 	2	0.2
+30) 	60	5.8
+
+
+26) Q11D
+How many days during the past 30 days would you say... You felt sad, blue, or depressed?
+RANGE: -1 to 30
+	N	Mean	Std. Deviation
+Total	1035	6.643	8.486
+-1) Web blank	1	0.1
+0) 	308	29.8
+1) 	81	7.8
+2) 	98	9.5
+3) 	62	6.0
+4) 	32	3.1
+5) 	116	11.2
+6) 	11	1.1
+7) 	15	1.4
+8) 	9	0.9
+9) 	1	0.1
+10) 	81	7.8
+11) 	2	0.2
+12) 	6	0.6
+13) 	1	0.1
+14) 	1	0.1
+15) 	62	6.0
+16) 	4	0.4
+17) 	3	0.3
+18) 	3	0.3
+20) 	54	5.2
+22) 	1	0.1
+23) 	2	0.2
+25) 	27	2.6
+26) 	2	0.2
+28) 	5	0.5
+29) 	1	0.1
+30) 	46	4.4
+
+
+27) Q11E
+How many days during the past 30 days would you say... You felt very healthy and full of energy?
+RANGE: -1 to 30
+	N	Mean	Std. Deviation
+Total	1035	17.217	10.627
+-1) Web blank	5	0.5
+0) 	100	9.7
+1) 	14	1.4
+2) 	30	2.9
+3) 	21	2.0
+4) 	11	1.1
+5) 	66	6.4
+6) 	4	0.4
+7) 	14	1.4
+8) 	9	0.9
+9) 	3	0.3
+10) 	92	8.9
+11) 	2	0.2
+12) 	7	0.7
+13) 	1	0.1
+14) 	3	0.3
+15) 	71	6.9
+16) 	2	0.2
+17) 	1	0.1
+18) 	3	0.3
+19) 	1	0.1
+20) 	132	12.8
+21) 	4	0.4
+22) 	3	0.3
+23) 	5	0.5
+24) 	2	0.2
+25) 	153	14.8
+26) 	15	1.4
+27) 	12	1.2
+28) 	59	5.7
+29) 	19	1.8
+30) 	171	16.5
+
+
+28) Q11F
+How many days during the past 30 days would you say... You have worried that you contracted the coronavirus (COVID-19)?
+RANGE: 0 to 30
+	N	Mean	Std. Deviation
+Total	1035	3.28	6.885
+0) 	579	55.9
+1) 	91	8.8
+2) 	82	7.9
+3) 	47	4.5
+4) 	13	1.3
+5) 	83	8.0
+6) 	5	0.5
+7) 	9	0.9
+8) 	2	0.2
+9) 	1	0.1
+10) 	37	3.6
+12) 	3	0.3
+13) 	1	0.1
+14) 	4	0.4
+15) 	14	1.4
+18) 	1	0.1
+20) 	15	1.4
+21) 	1	0.1
+25) 	4	0.4
+30) 	43	4.2
+
+
+29) Q11G
+How many days during the past 30 days would you say... You have worried that a loved one has contracted the coronavirus (COVID-19)?
+RANGE: -1 to 30
+	N	Mean	Std. Deviation
+Total	1035	6.238	9.736
+-1) Web blank	1	0.1
+0) 	451	43.6
+1) 	76	7.3
+2) 	76	7.3
+3) 	56	5.4
+4) 	12	1.2
+5) 	86	8.3
+6) 	3	0.3
+7) 	15	1.4
+8) 	6	0.6
+10) 	55	5.3
+12) 	6	0.6
+14) 	4	0.4
+15) 	40	3.9
+16) 	2	0.2
+20) 	20	1.9
+21) 	2	0.2
+25) 	11	1.1
+28) 	2	0.2
+29) 	1	0.1
+30) 	110	10.6
+
+
+30) Q13A
+How afraid are you of the following: Air pollution?
+RANGE: -1 to 4
+	N	Mean	Std. Deviation
+Total	1035	2.649	0.99
+-1) Web blank	1	0.1
+1) Very afraid	155	15.0
+2) Afraid	277	26.8
+3) Slightly afraid	374	36.1
+4) Not afraid	228	22.0
+
+
+31) Q13B
+How afraid are you of the following: Pollution of drinking water?
+RANGE: -1 to 4
+	N	Mean	Std. Deviation
+Total	1035	2.613	1.037
+-1) Web blank	2	0.2
+1) Very afraid	180	17.4
+2) Afraid	274	26.5
+3) Slightly afraid	338	32.7
+4) Not afraid	241	23.3
+
+
+32) Q13C
+How afraid are you of the following: Pollution of oceans, rivers and lakes?
+RANGE: 1 to 4
+	N	Mean	Std. Deviation
+Total	1035	2.438	1.018
+1) Very afraid	230	22.2
+2) Afraid	300	29.0
+3) Slightly afraid	327	31.6
+4) Not afraid	178	17.2
+
+
+33) Q13D
+How afraid are you of the following: Extinction of plant and animal species?
+RANGE: 1 to 4
+	N	Mean	Std. Deviation
+Total	1035	2.632	1.064
+1) Very afraid	195	18.8
+2) Afraid	261	25.2
+3) Slightly afraid	309	29.9
+4) Not afraid	270	26.1
+
+
+34) Q13E
+How afraid are you of the following: Oil spills?
+RANGE: 1 to 4
+	N	Mean	Std. Deviation
+Total	1035	2.887	0.98
+1) Very afraid	115	11.1
+2) Afraid	217	21.0
+3) Slightly afraid	373	36.0
+4) Not afraid	330	31.9
+
+
+35) Q13F
+How afraid are you of the following: Global warming and climate change?
+RANGE: -1 to 4
+	N	Mean	Std. Deviation
+Total	1035	2.481	1.127
+-1) Web blank	1	0.1
+1) Very afraid	262	25.3
+2) Afraid	268	25.9
+3) Slightly afraid	245	23.7
+4) Not afraid	259	25.0
+
+
+36) Q14A
+How afraid are you of the following: Not having enough money for the future?
+RANGE: -1 to 4
+	N	Mean	Std. Deviation
+Total	1035	2.554	1.111
+-1) Web blank	1	0.1
+1) Very afraid	254	24.5
+2) Afraid	200	19.3
+3) Slightly afraid	330	31.9
+4) Not afraid	250	24.2
+
+
+37) Q14B
+How afraid are you of the following: Not being able to pay off the college debt of myself or a family member?
+RANGE: 1 to 5
+	N	Mean	Std. Deviation
+Total	1035	4.013	1.338
+1) Very afraid	100	9.7
+2) Afraid	74	7.1
+3) Slightly afraid	97	9.4
+4) Not afraid	206	19.9
+5) Doesn't apply to me	558	53.9
+
+
+38) Q14C
+How afraid are you of the following: Not having enough to pay my rent or mortgage?
+RANGE: 1 to 5
+	N	Mean	Std. Deviation
+Total	1035	3.203	1.274
+1) Very afraid	170	16.4
+2) Afraid	117	11.3
+3) Slightly afraid	209	20.2
+4) Not afraid	411	39.7
+5) Doesn't apply to me	128	12.4
+
+
+39) Q14D
+How afraid are you of the following: Being unemployed?
+RANGE: 1 to 5
+	N	Mean	Std. Deviation
+Total	1035	3.391	1.372
+1) Very afraid	152	14.7
+2) Afraid	123	11.9
+3) Slightly afraid	199	19.2
+4) Not afraid	290	28.0
+5) Doesn't apply to me	271	26.2
+
+
+40) Q14E
+How afraid are you of the following: High medical bills?
+RANGE: 1 to 4
+	N	Mean	Std. Deviation
+Total	1035	2.709	1.118
+1) Very afraid	211	20.4
+2) Afraid	207	20.0
+3) Slightly afraid	289	27.9
+4) Not afraid	328	31.7
+
+
+41) Q14F
+How afraid are you of the following: Catching influenza (the seasonal flu)?
+RANGE: 1 to 4
+	N	Mean	Std. Deviation
+Total	1035	3.383	0.823
+1) Very afraid	42	4.1
+2) Afraid	102	9.9
+3) Slightly afraid	309	29.9
+4) Not afraid	582	56.2
+
+
+42) Q14G
+How afraid are you of the following: Catching the coronavirus (COVID-19)?
+RANGE: -1 to 4
+	N	Mean	Std. Deviation
+Total	1035	2.686	1.036
+-1) Web blank	1	0.1
+1) Very afraid	180	17.4
+2) Afraid	218	21.1
+3) Slightly afraid	379	36.6
+4) Not afraid	257	24.8
+
+
+43) Q14H
+How afraid are you of the following: Being caught in an embarrassing moment on Zoom or video conference?
+RANGE: 1 to 5
+	N	Mean	Std. Deviation
+Total	1035	3.881	0.985
+1) Very afraid	37	3.6
+2) Afraid	60	5.8
+3) Slightly afraid	168	16.2
+4) Not afraid	494	47.7
+5) Doesn't apply to me	276	26.7
+
+
+44) Q15A
+How afraid are you of the following: Computers replacing people in the workforce?
+RANGE: 1 to 4
+	N	Mean	Std. Deviation
+Total	1035	3.09	0.974
+1) Very afraid	91	8.8
+2) Afraid	175	16.9
+3) Slightly afraid	319	30.8
+4) Not afraid	450	43.5
+
+
+45) Q15B
+How afraid are you of the following: Technology that I don't understand?
+RANGE: -1 to 4
+	N	Mean	Std. Deviation
+Total	1035	3.355	0.851
+-1) Web blank	1	0.1
+1) Very afraid	46	4.4
+2) Afraid	108	10.4
+3) Slightly afraid	309	29.9
+4) Not afraid	571	55.2
+
+
+46) Q15C
+How afraid are you of the following: Cyber-terrorism?
+RANGE: 1 to 4
+	N	Mean	Std. Deviation
+Total	1035	2.424	0.981
+1) Very afraid	215	20.8
+2) Afraid	322	31.1
+3) Slightly afraid	342	33.0
+4) Not afraid	156	15.1
+
+
+47) Q15D
+How afraid are you of the following: Corporate tracking of personal data?
+RANGE: -1 to 4
+	N	Mean	Std. Deviation
+Total	1035	2.614	1.034
+-1) Web blank	1	0.1
+1) Very afraid	184	17.8
+2) Afraid	268	25.9
+3) Slightly afraid	342	33.0
+4) Not afraid	240	23.2
+
+
+48) Q15E
+How afraid are you of the following: Government tracking of personal data?
+RANGE: -1 to 4
+	N	Mean	Std. Deviation
+Total	1035	2.627	1.058
+-1) Web blank	1	0.1
+1) Very afraid	194	18.7
+2) Afraid	252	24.3
+3) Slightly afraid	330	31.9
+4) Not afraid	258	24.9
+
+
+49) Q16A
+How afraid are you of the following events: A devastating earthquake?
+RANGE: -1 to 4
+	N	Mean	Std. Deviation
+Total	1035	2.975	1.051
+-1) Web blank	1	0.1
+1) Very afraid	125	12.1
+2) Afraid	199	19.2
+3) Slightly afraid	283	27.3
+4) Not afraid	427	41.3
+
+
+50) Q16B
+How afraid are you of the following events: A devastating hurricane?
+RANGE: -1 to 4
+	N	Mean	Std. Deviation
+Total	1035	3.006	1.058
+-1) Web blank	1	0.1
+1) Very afraid	129	12.5
+2) Afraid	179	17.3
+3) Slightly afraid	279	27.0
+4) Not afraid	447	43.2
+
+
+51) Q16C
+How afraid are you of the following events: A devastating tornado?
+RANGE: 1 to 4
+	N	Mean	Std. Deviation
+Total	1035	3.046	1.005
+1) Very afraid	105	10.1
+2) Afraid	184	17.8
+3) Slightly afraid	304	29.4
+4) Not afraid	442	42.7
+
+
+52) Q16D
+How afraid are you of the following events: A devastating flood?
+RANGE: 1 to 4
+	N	Mean	Std. Deviation
+Total	1035	3.065	1.012
+1) Very afraid	110	10.6
+2) Afraid	168	16.2
+3) Slightly afraid	302	29.2
+4) Not afraid	455	44.0
+
+
+53) Q16E
+How afraid are you of the following events: A devastating blizzard/Winter storm?
+RANGE: -1 to 4
+	N	Mean	Std. Deviation
+Total	1035	3.173	0.977
+-1) Web blank	1	0.1
+1) Very afraid	84	8.1
+2) Afraid	157	15.2
+3) Slightly afraid	285	27.5
+4) Not afraid	508	49.1
+
+
+54) Q16F
+How afraid are you of the following events: A devastating drought?
+RANGE: 1 to 4
+	N	Mean	Std. Deviation
+Total	1035	2.879	1.019
+1) Very afraid	133	12.9
+2) Afraid	208	20.1
+3) Slightly afraid	345	33.3
+4) Not afraid	349	33.7
+
+
+55) Q16G
+How afraid are you of the following events: A devastating wildfire?
+RANGE: 1 to 4
+	N	Mean	Std. Deviation
+Total	1035	2.94	1.046
+1) Very afraid	132	12.8
+2) Afraid	202	19.5
+3) Slightly afraid	297	28.7
+4) Not afraid	404	39.0
+
+
+56) Q16H
+How afraid are you of the following events: A large volcanic eruption?
+RANGE: -1 to 4
+	N	Mean	Std. Deviation
+Total	1035	3.377	0.933
+-1) Web blank	1	0.1
+1) Very afraid	72	7.0
+2) Afraid	103	10.0
+3) Slightly afraid	218	21.1
+4) Not afraid	641	61.9
+
+
+57) Q16I
+How afraid are you of the following events: The collapse of the electrical grid?
+RANGE: -1 to 4
+	N	Mean	Std. Deviation
+Total	1035	2.745	1.01
+-1) Web blank	2	0.2
+1) Very afraid	152	14.7
+2) Afraid	217	21.0
+3) Slightly afraid	399	38.6
+4) Not afraid	265	25.6
+
+
+58) Q16J
+How afraid are you of the following events: A nuclear weapons attack?
+RANGE: -1 to 4
+	N	Mean	Std. Deviation
+Total	1035	2.668	1.09
+-1) Web blank	1	0.1
+1) Very afraid	212	20.5
+2) Afraid	197	19.0
+3) Slightly afraid	344	33.2
+4) Not afraid	281	27.1
+
+
+59) Q16K
+How afraid are you of the following events: A nuclear accident/meltdown
+RANGE: 1 to 4
+	N	Mean	Std. Deviation
+Total	1035	2.792	1.067
+1) Very afraid	175	16.9
+2) Afraid	193	18.6
+3) Slightly afraid	339	32.8
+4) Not afraid	328	31.7
+
+
+60) Q16L
+How afraid are you of the following events: Economic/financial collapse?
+RANGE: -1 to 4
+	N	Mean	Std. Deviation
+Total	1035	2.358	0.975
+-1) Web blank	1	0.1
+1) Very afraid	237	22.9
+2) Afraid	315	30.4
+3) Slightly afraid	353	34.1
+4) Not afraid	129	12.5
+
+
+61) Q16M
+How afraid are you of the following events: A pandemic or a major epidemic?
+RANGE: -1 to 4
+	N	Mean	Std. Deviation
+Total	1035	2.28	1.01
+-1) Web blank	1	0.1
+1) Very afraid	280	27.1
+2) Afraid	318	30.7
+3) Slightly afraid	299	28.9
+4) Not afraid	137	13.2
+
+
+62) Q16N
+How afraid are you of the following events: Widespread civil unrest?
+RANGE: 1 to 4
+	N	Mean	Std. Deviation
+Total	1035	2.307	0.967
+1) Very afraid	256	24.7
+2) Afraid	322	31.1
+3) Slightly afraid	340	32.9
+4) Not afraid	117	11.3
+
+
+63) Q16O
+How afraid are you of the following events: The US becoming involved in another world war?
+RANGE: -1 to 4
+	N	Mean	Std. Deviation
+Total	1035	2.506	1.048
+-1) Web blank	2	0.2
+1) Very afraid	224	21.6
+2) Afraid	258	24.9
+3) Slightly afraid	348	33.6
+4) Not afraid	203	19.6
+
+
+64) Q16P
+How afraid are you of the following events: Whites no longer being the majority in the US?
+RANGE: -1 to 4
+	N	Mean	Std. Deviation
+Total	1035	3.662	0.76
+-1) Web blank	1	0.1
+1) Very afraid	41	4.0
+2) Afraid	50	4.8
+3) Slightly afraid	122	11.8
+4) Not afraid	821	79.3
+
+
+65) Q16Q
+How afraid are you of the following events: Illegal immigration?
+RANGE: -1 to 4
+	N	Mean	Std. Deviation
+Total	1035	3.323	0.984
+-1) Web blank	2	0.2
+1) Very afraid	84	8.1
+2) Afraid	115	11.1
+3) Slightly afraid	209	20.2
+4) Not afraid	625	60.4
+
+
+66) Q16R
+How afraid are you of the following events: Biological warfare?
+RANGE: -1 to 4
+	N	Mean	Std. Deviation
+Total	1035	2.497	1.056
+-1) Web blank	1	0.1
+1) Very afraid	235	22.7
+2) Afraid	253	24.4
+3) Slightly afraid	340	32.9
+4) Not afraid	206	19.9
+
+
+67) Q16S
+How afraid are you of the following events: A terrorist attack?
+RANGE: 1 to 4
+	N	Mean	Std. Deviation
+Total	1035	2.494	0.997
+1) Very afraid	213	20.6
+2) Afraid	270	26.1
+3) Slightly afraid	380	36.7
+4) Not afraid	172	16.6
+
+
+68) Q16T
+How afraid are you of the following events: North Korea using nuclear weapons?
+RANGE: 1 to 4
+	N	Mean	Std. Deviation
+Total	1035	2.683	1.054
+1) Very afraid	194	18.7
+2) Afraid	208	20.1
+3) Slightly afraid	365	35.3
+4) Not afraid	268	25.9
+
+
+69) Q16U
+How afraid are you of the following events: Iran using nuclear weapons?
+RANGE: -1 to 4
+	N	Mean	Std. Deviation
+Total	1035	2.688	1.04
+-1) Web blank	1	0.1
+1) Very afraid	175	16.9
+2) Afraid	236	22.8
+3) Slightly afraid	356	34.4
+4) Not afraid	267	25.8
+
+
+70) Q17A
+How afraid are you of the following: Blood?
+RANGE: -1 to 4
+	N	Mean	Std. Deviation
+Total	1035	3.668	0.692
+-1) Web blank	2	0.2
+1) Very afraid	23	2.2
+2) Afraid	44	4.3
+3) Slightly afraid	177	17.1
+4) Not afraid	789	76.2
+
+
+71) Q17B
+How afraid are you of the following: Needles?
+RANGE: -1 to 4
+	N	Mean	Std. Deviation
+Total	1035	3.552	0.792
+-1) Web blank	1	0.1
+1) Very afraid	38	3.7
+2) Afraid	72	7.0
+3) Slightly afraid	201	19.4
+4) Not afraid	723	69.9
+
+
+72) Q17C
+How afraid are you of the following: Insects/arachnids (spiders, bees, etc.)?
+RANGE: -1 to 4
+	N	Mean	Std. Deviation
+Total	1035	3.17	0.922
+-1) Web blank	2	0.2
+1) Very afraid	70	6.8
+2) Afraid	136	13.1
+3) Slightly afraid	367	35.5
+4) Not afraid	460	44.4
+
+
+73) Q17D
+How afraid are you of the following: Reptiles (snakes, lizards, etc.)?
+RANGE: -1 to 4
+	N	Mean	Std. Deviation
+Total	1035	3.061	0.989
+-1) Web blank	1	0.1
+1) Very afraid	109	10.5
+2) Afraid	139	13.4
+3) Slightly afraid	362	35.0
+4) Not afraid	424	41.0
+
+
+74) Q17E
+How afraid are you of the following: Animals (dogs, rats, etc.)?
+RANGE: -1 to 4
+	N	Mean	Std. Deviation
+Total	1035	3.661	0.642
+-1) Web blank	1	0.1
+1) Very afraid	17	1.6
+2) Afraid	36	3.5
+3) Slightly afraid	223	21.5
+4) Not afraid	758	73.2
+
+
+75) Q17F
+How afraid are you of the following: Sharks?
+RANGE: 1 to 4
+	N	Mean	Std. Deviation
+Total	1035	3.065	1.019
+1) Very afraid	115	11.1
+2) Afraid	161	15.6
+3) Slightly afraid	301	29.1
+4) Not afraid	458	44.3
+
+
+76) Q17G
+How afraid are you of the following: Clowns?
+RANGE: -1 to 4
+	N	Mean	Std. Deviation
+Total	1035	3.762	0.656
+-1) Web blank	2	0.2
+1) Very afraid	25	2.4
+2) Afraid	34	3.3
+3) Slightly afraid	93	9.0
+4) Not afraid	881	85.1
+
+
+77) Q17H
+How afraid are you of the following: Germs?
+RANGE: -1 to 4
+	N	Mean	Std. Deviation
+Total	1035	3.174	0.901
+-1) Web blank	2	0.2
+1) Very afraid	63	6.1
+2) Afraid	136	13.1
+3) Slightly afraid	384	37.1
+4) Not afraid	450	43.5
+
+
+78) Q17I
+How afraid are you of the following: Deep lakes and oceans?
+RANGE: -1 to 4
+	N	Mean	Std. Deviation
+Total	1035	3.215	1.032
+-1) Web blank	2	0.2
+1) Very afraid	105	10.1
+2) Afraid	128	12.4
+3) Slightly afraid	231	22.3
+4) Not afraid	569	55.0
+
+
+79) Q17J
+How afraid are you of the following: Flying?
+RANGE: -1 to 4
+	N	Mean	Std. Deviation
+Total	1035	3.518	0.836
+-1) Web blank	2	0.2
+1) Very afraid	53	5.1
+2) Afraid	53	5.1
+3) Slightly afraid	224	21.6
+4) Not afraid	703	67.9
+
+
+80) Q17K
+How afraid are you of the following: Ghosts?
+RANGE: 1 to 4
+	N	Mean	Std. Deviation
+Total	1035	3.672	0.706
+1) Very afraid	34	3.3
+2) Afraid	42	4.1
+3) Slightly afraid	153	14.8
+4) Not afraid	806	77.9
+
+
+81) Q17L
+How afraid are you of the following: Murder hornets?
+RANGE: -1 to 4
+	N	Mean	Std. Deviation
+Total	1035	3.245	0.951
+-1) Web blank	1	0.1
+1) Very afraid	79	7.6
+2) Afraid	125	12.1
+3) Slightly afraid	289	27.9
+4) Not afraid	541	52.3
+
+
+82) Q17M
+How afraid are you of the following: Heights?
+RANGE: 1 to 4
+	N	Mean	Std. Deviation
+Total	1035	2.93	1
+1) Very afraid	126	12.2
+2) Afraid	178	17.2
+3) Slightly afraid	373	36.0
+4) Not afraid	358	34.6
+
+
+83) Q17N
+How afraid are you of the following: Public speaking?
+RANGE: 1 to 4
+	N	Mean	Std. Deviation
+Total	1035	3.053	0.978
+1) Very afraid	102	9.9
+2) Afraid	162	15.7
+3) Slightly afraid	350	33.8
+4) Not afraid	421	40.7
+
+
+84) Q17O
+How afraid are you of the following: Small, enclosed spaces?
+RANGE: -1 to 4
+	N	Mean	Std. Deviation
+Total	1035	3.3	0.933
+-1) Web blank	2	0.2
+1) Very afraid	74	7.1
+2) Afraid	99	9.6
+3) Slightly afraid	294	28.4
+4) Not afraid	566	54.7
+
+
+85) Q17P
+How afraid are you of the following: Zombies?
+RANGE: -1 to 4
+	N	Mean	Std. Deviation
+Total	1035	3.722	0.725
+-1) Web blank	1	0.1
+1) Very afraid	38	3.7
+2) Afraid	44	4.3
+3) Slightly afraid	81	7.8
+4) Not afraid	871	84.2
+
+
+86) Q17Q
+How afraid are you of the following: Strangers?
+RANGE: -1 to 4
+	N	Mean	Std. Deviation
+Total	1035	3.407	0.78
+-1) Web blank	2	0.2
+1) Very afraid	32	3.1
+2) Afraid	74	7.1
+3) Slightly afraid	360	34.8
+4) Not afraid	567	54.8
+
+
+87) Q17R
+How afraid are you of the following: Walking alone at night?
+RANGE: -1 to 4
+	N	Mean	Std. Deviation
+Total	1035	3.166	0.913
+-1) Web blank	1	0.1
+1) Very afraid	72	7.0
+2) Afraid	133	12.9
+3) Slightly afraid	376	36.3
+4) Not afraid	453	43.8
+
+
+88) Q18A
+How afraid are you of being the victim of the following crimes: Mugging?
+RANGE: -1 to 4
+	N	Mean	Std. Deviation
+Total	1035	3.017	0.977
+-1) Web blank	1	0.1
+1) Very afraid	108	10.4
+2) Afraid	151	14.6
+3) Slightly afraid	386	37.3
+4) Not afraid	389	37.6
+
+
+89) Q18B
+How afraid are you of being the victim of the following crimes: Stalking?
+RANGE: 1 to 4
+	N	Mean	Std. Deviation
+Total	1035	3.288	0.993
+1) Very afraid	92	8.9
+2) Afraid	128	12.4
+3) Slightly afraid	205	19.8
+4) Not afraid	610	58.9
+
+
+90) Q18C
+How afraid are you of being the victim of the following crimes: Murder by a stranger?
+RANGE: 1 to 4
+	N	Mean	Std. Deviation
+Total	1035	3.078	1.069
+1) Very afraid	143	13.8
+2) Afraid	125	12.1
+3) Slightly afraid	275	26.6
+4) Not afraid	492	47.5
+
+
+91) Q18D
+How afraid are you of being the victim of the following crimes: Murder by someone you know?
+RANGE: -1 to 4
+	N	Mean	Std. Deviation
+Total	1035	3.376	1.038
+-1) Web blank	2	0.2
+1) Very afraid	112	10.8
+2) Afraid	80	7.7
+3) Slightly afraid	140	13.5
+4) Not afraid	701	67.7
+
+
+92) Q18E
+How afraid are you of being the victim of the following crimes: Being hit by a drunk driver?
+RANGE: -1 to 4
+	N	Mean	Std. Deviation
+Total	1035	2.739	0.997
+-1) Web blank	1	0.1
+1) Very afraid	159	15.4
+2) Afraid	197	19.0
+3) Slightly afraid	429	41.4
+4) Not afraid	249	24.1
+
+
+93) Q18F
+How afraid are you of being the victim of the following crimes: Police brutality?
+RANGE: -1 to 4
+	N	Mean	Std. Deviation
+Total	1035	3.114	1.101
+-1) Web blank	2	0.2
+1) Very afraid	139	13.4
+2) Afraid	137	13.2
+3) Slightly afraid	216	20.9
+4) Not afraid	541	52.3
+
+
+94) Q18G
+How afraid are you of being the victim of the following crimes: Sexual assault by a stranger?
+RANGE: 1 to 4
+	N	Mean	Std. Deviation
+Total	1035	3.159	1.105
+1) Very afraid	148	14.3
+2) Afraid	118	11.4
+3) Slightly afraid	190	18.4
+4) Not afraid	579	55.9
+
+
+95) Q18H
+How afraid are you of being the victim of the following crimes: Sexual assault by someone you know?
+RANGE: -1 to 4
+	N	Mean	Std. Deviation
+Total	1035	3.372	1.056
+-1) Web blank	1	0.1
+1) Very afraid	121	11.7
+2) Afraid	83	8.0
+3) Slightly afraid	116	11.2
+4) Not afraid	714	69.0
+
+
+96) Q18I
+How afraid are you of being the victim of the following crimes: Racial/hate crime?
+RANGE: -1 to 4
+	N	Mean	Std. Deviation
+Total	1035	2.994	1.097
+-1) Web blank	1	0.1
+1) Very afraid	154	14.9
+2) Afraid	153	14.8
+3) Slightly afraid	268	25.9
+4) Not afraid	459	44.3
+
+
+97) Q18J
+How afraid are you of being the victim of the following crimes: Random/mass shooting?
+RANGE: -1 to 4
+	N	Mean	Std. Deviation
+Total	1035	2.776	1.092
+-1) Web blank	1	0.1
+1) Very afraid	195	18.8
+2) Afraid	163	15.7
+3) Slightly afraid	351	33.9
+4) Not afraid	325	31.4
+
+
+98) Q18K
+How afraid are you of being the victim of the following crimes: Break-ins?
+RANGE: -1 to 4
+	N	Mean	Std. Deviation
+Total	1035	2.848	0.994
+-1) Web blank	3	0.3
+1) Very afraid	132	12.8
+2) Afraid	175	16.9
+3) Slightly afraid	431	41.6
+4) Not afraid	294	28.4
+
+
+99) Q18L
+How afraid are you of being the victim of the following crimes: Theft of property?
+RANGE: 1 to 4
+	N	Mean	Std. Deviation
+Total	1035	2.878	0.925
+1) Very afraid	112	10.8
+2) Afraid	177	17.1
+3) Slightly afraid	471	45.5
+4) Not afraid	275	26.6
+
+
+100) Q18M
+How afraid are you of being the victim of the following crimes: Gang violence?
+RANGE: 1 to 4
+	N	Mean	Std. Deviation
+Total	1035	3.086	1.054
+1) Very afraid	132	12.8
+2) Afraid	138	13.3
+3) Slightly afraid	274	26.5
+4) Not afraid	491	47.4
+
+
+101) Q18N
+How afraid are you of being the victim of the following crimes: Abduction/Kidnapping?
+RANGE: -1 to 4
+	N	Mean	Std. Deviation
+Total	1035	3.239	1.087
+-1) Web blank	1	0.1
+1) Very afraid	139	13.4
+2) Afraid	90	8.7
+3) Slightly afraid	186	18.0
+4) Not afraid	619	59.8
+
+
+102) Q18O
+How afraid are you of being the victim of the following crimes: Identity theft?
+RANGE: 1 to 4
+	N	Mean	Std. Deviation
+Total	1035	2.557	0.963
+1) Very afraid	177	17.1
+2) Afraid	279	27.0
+3) Slightly afraid	404	39.0
+4) Not afraid	175	16.9
+
+
+103) Q18P
+How afraid are you of being the victim of the following crimes: Credit card fraud?
+RANGE: -1 to 4
+	N	Mean	Std. Deviation
+Total	1035	2.683	0.966
+-1) Web blank	2	0.2
+1) Very afraid	142	13.7
+2) Afraid	252	24.3
+3) Slightly afraid	423	40.9
+4) Not afraid	216	20.9
+
+
+104) Q18Q
+How afraid are you of being the victim of the following crimes: Financial fraud (such as a Ponzi Scheme, embezzlement, etc.)?
+RANGE: -1 to 4
+	N	Mean	Std. Deviation
+Total	1035	3.091	1.007
+-1) Web blank	2	0.2
+1) Very afraid	105	10.1
+2) Afraid	147	14.2
+3) Slightly afraid	322	31.1
+4) Not afraid	459	44.3
+
+
+105) Q18R
+How afraid are you of being the victim of the following crimes: Terrorism?
+RANGE: 1 to 4
+	N	Mean	Std. Deviation
+Total	1035	2.712	1.067
+1) Very afraid	197	19.0
+2) Afraid	189	18.3
+3) Slightly afraid	364	35.2
+4) Not afraid	285	27.5
+
+
+106) Q19A
+How afraid are you of the following: Antifa?
+RANGE: -1 to 5
+	N	Mean	Std. Deviation
+Total	1035	3.458	1.237
+-1) Web blank	1	0.1
+1) Very afraid	115	11.1
+2) Afraid	111	10.7
+3) Slightly afraid	185	17.9
+4) Not afraid	427	41.3
+5) I don't know who/what this is	196	18.9
+
+
+107) Q19B
+How afraid are you of the following: White supremacists?
+RANGE: -1 to 5
+	N	Mean	Std. Deviation
+Total	1035	2.648	1.235
+-1) Web blank	3	0.3
+1) Very afraid	261	25.2
+2) Afraid	199	19.2
+3) Slightly afraid	226	21.8
+4) Not afraid	323	31.2
+5) I don't know who/what this is	23	2.2
+
+
+108) Q19C
+How afraid are you of the following: Black Lives Matter (BLM)?
+RANGE: 1 to 5
+	N	Mean	Std. Deviation
+Total	1035	3.506	0.913
+1) Very afraid	71	6.9
+2) Afraid	72	7.0
+3) Slightly afraid	171	16.5
+4) Not afraid	704	68.0
+5) I don't know who/what this is	17	1.6
+
+
+109) Q19D
+How afraid are you of the following: How afraid are you of the following: The Proud Boys?
+RANGE: -1 to 5
+	N	Mean	Std. Deviation
+Total	1035	3.152	1.43
+-1) Web blank	1	0.1
+1) Very afraid	198	19.1
+2) Afraid	165	15.9
+3) Slightly afraid	171	16.5
+4) Not afraid	278	26.9
+5) I don't know who/what this is	222	21.4
+
+
+110) Q19E
+How afraid are you of the following: Immigrants?
+RANGE: 1 to 5
+	N	Mean	Std. Deviation
+Total	1035	3.814	0.602
+1) Very afraid	15	1.4
+2) Afraid	39	3.8
+3) Slightly afraid	94	9.1
+4) Not afraid	862	83.3
+5) I don't know who/what this is	25	2.4
+
+
+111) Q19F
+How afraid are you of the following: Muslims
+RANGE: 1 to 5
+	N	Mean	Std. Deviation
+Total	1035	3.778	0.62
+1) Very afraid	18	1.7
+2) Afraid	37	3.6
+3) Slightly afraid	120	11.6
+4) Not afraid	842	81.4
+5) I don't know who/what this is	18	1.7
+
+
+112) Q19G
+How afraid are you of the following: Right wing extremists?
+RANGE: 1 to 5
+	N	Mean	Std. Deviation
+Total	1035	2.913	1.306
+1) Very afraid	204	19.7
+2) Afraid	199	19.2
+3) Slightly afraid	235	22.7
+4) Not afraid	277	26.8
+5) I don't know who/what this is	120	11.6
+
+
+113) Q19H
+How afraid are you of the following: Left wing extremists?
+RANGE: 1 to 5
+	N	Mean	Std. Deviation
+Total	1035	3.208	1.221
+1) Very afraid	141	13.6
+2) Afraid	138	13.3
+3) Slightly afraid	246	23.8
+4) Not afraid	385	37.2
+5) I don't know who/what this is	125	12.1
+
+
+114) Q20A
+Please indicate your level of agreement with the following statements. The government is concealing what it knows about...Alien encounters?
+RANGE: 1 to 4
+	N	Mean	Std. Deviation
+Total	1035	2.545	0.983
+1) Strongly agree	165	15.9
+2) Agree	347	33.5
+3) Disagree	317	30.6
+4) Strongly disagree	206	19.9
+
+
+115) Q20B
+Please indicate your level of agreement with the following statements. The government is concealing what it knows about...The 9/11 attacks?
+RANGE: -1 to 4
+	N	Mean	Std. Deviation
+Total	1035	2.591	1.027
+-1) Web blank	3	0.3
+1) Strongly agree	174	16.8
+2) Agree	291	28.1
+3) Disagree	339	32.8
+4) Strongly disagree	228	22.0
+
+
+116) Q20C
+Please indicate your level of agreement with the following statements. The government is concealing what it knows about...The South Dakota crash?
+RANGE: -1 to 4
+	N	Mean	Std. Deviation
+Total	1035	2.845	0.836
+-1) Web blank	4	0.4
+1) Strongly agree	57	5.5
+2) Agree	243	23.5
+3) Disagree	518	50.0
+4) Strongly disagree	213	20.6
+
+
+117) Q20D
+Please indicate your level of agreement with the following statements. The government is concealing what it knows about...Global warming?
+RANGE: -1 to 4
+	N	Mean	Std. Deviation
+Total	1035	2.448	0.932
+-1) Web blank	1	0.1
+1) Strongly agree	169	16.3
+2) Agree	375	36.2
+3) Disagree	344	33.2
+4) Strongly disagree	146	14.1
+
+
+118) Q20E
+Please indicate your level of agreement with the following statements. The government is concealing what it knows about...The JFK assassination?
+RANGE: -1 to 4
+	N	Mean	Std. Deviation
+Total	1035	2.503	0.961
+-1) Web blank	1	0.1
+1) Strongly agree	160	15.5
+2) Agree	372	35.9
+3) Disagree	320	30.9
+4) Strongly disagree	182	17.6
+
+
+119) Q20F
+Please indicate your level of agreement with the following statements. The government is concealing what it knows about...The moon landing?
+RANGE: 1 to 4
+	N	Mean	Std. Deviation
+Total	1035	3.043	0.906
+1) Strongly agree	78	7.5
+2) Agree	169	16.3
+3) Disagree	419	40.5
+4) Strongly disagree	369	35.7
+
+
+120) Q20G
+Please indicate your level of agreement with the following statements. The government is concealing what it knows about...The Illuminati/New World Order?
+RANGE: -1 to 4
+	N	Mean	Std. Deviation
+Total	1035	2.661	0.994
+-1) Web blank	1	0.1
+1) Strongly agree	150	14.5
+2) Agree	286	27.6
+3) Disagree	359	34.7
+4) Strongly disagree	239	23.1
+
+
+121) Q20H
+Please indicate your level of agreement with the following statements. The government is concealing what it knows about...Mass shootings such as those at Sandy Hook, Las Vegas, and Parkland?
+RANGE: -1 to 4
+	N	Mean	Std. Deviation
+Total	1035	2.785	0.943
+-1) Web blank	1	0.1
+1) Strongly agree	112	10.8
+2) Agree	249	24.1
+3) Disagree	419	40.5
+4) Strongly disagree	254	24.5
+
+
+122) Q20I
+Please indicate your level of agreement with the following statements. The government is concealing what it knows about...Q'Anon?
+RANGE: -1 to 4
+	N	Mean	Std. Deviation
+Total	1035	2.677	0.904
+-1) Web blank	3	0.3
+1) Strongly agree	91	8.8
+2) Agree	340	32.9
+3) Disagree	401	38.7
+4) Strongly disagree	200	19.3
+
+
+123) Q21A
+How afraid are you of the following: Government use of drones within the U.S.?
+RANGE: -1 to 4
+	N	Mean	Std. Deviation
+Total	1035	2.695	0.986
+-1) Web blank	1	0.1
+1) Very afraid	138	13.3
+2) Afraid	285	27.5
+3) Slightly afraid	362	35.0
+4) Not afraid	249	24.1
+
+
+124) Q21B
+How afraid are you of the following: Corrupt government officials?
+RANGE: -1 to 4
+	N	Mean	Std. Deviation
+Total	1035	1.834	0.885
+-1) Web blank	2	0.2
+1) Very afraid	442	42.7
+2) Afraid	366	35.4
+3) Slightly afraid	174	16.8
+4) Not afraid	51	4.9
+
+
+125) Q21C
+How afraid are you of the following: Government restrictions on firearms and ammunition?
+RANGE: -1 to 4
+	N	Mean	Std. Deviation
+Total	1035	2.656	1.156
+-1) Web blank	2	0.2
+1) Very afraid	228	22.0
+2) Afraid	226	21.8
+3) Slightly afraid	245	23.7
+4) Not afraid	334	32.3
+
+
+126) Q21D
+How afraid are you of the following: Government interference with the coronavirus (COVID-19) vaccine approval?
+RANGE: -1 to 4
+	N	Mean	Std. Deviation
+Total	1035	2.655	1.056
+-1) Web blank	2	0.2
+1) Very afraid	184	17.8
+2) Afraid	245	23.7
+3) Slightly afraid	340	32.9
+4) Not afraid	264	25.5
+
+
+127) Q22A
+Please indicate your level of agreement with the following statements about immigration issues. Immigrants are more likely to commit crime than US citizens.
+RANGE: -1 to 4
+	N	Mean	Std. Deviation
+Total	1035	3.191	0.83
+-1) Web blank	1	0.1
+1) Strongly agree	45	4.3
+2) Agree	131	12.7
+3) Disagree	435	42.0
+4) Strongly disagree	423	40.9
+
+
+128) Q22B
+Please indicate your level of agreement with the following statements about immigration issues. Recent immigrants are more reluctant to assimilate than previous immigrants.
+RANGE: -1 to 4
+	N	Mean	Std. Deviation
+Total	1035	2.749	0.887
+-1) Web blank	1	0.1
+1) Strongly agree	86	8.3
+2) Agree	301	29.1
+3) Disagree	430	41.5
+4) Strongly disagree	217	21.0
+
+
+129) Q22C
+Please indicate your level of agreement with the following statements about immigration issues. Immigrants are a drain on the economy.
+RANGE: -1 to 4
+	N	Mean	Std. Deviation
+Total	1035	2.964	0.979
+-1) Web blank	4	0.4
+1) Strongly agree	92	8.9
+2) Agree	199	19.2
+3) Disagree	378	36.5
+4) Strongly disagree	362	35.0
+
+
+130) Q22D
+Please indicate your level of agreement with the following statements about immigration issues. Immigrants bring diseases into the US.
+RANGE: -1 to 4
+	N	Mean	Std. Deviation
+Total	1035	3.068	0.893
+-1) Web blank	2	0.2
+1) Strongly agree	52	5.0
+2) Agree	204	19.7
+3) Disagree	391	37.8
+4) Strongly disagree	386	37.3
+
+
+131) Q22E
+Please indicate your level of agreement with the following statements about immigration issues. Police should be allowed to raid businesses and homes in order to find undocumented workers.
+RANGE: -1 to 4
+	N	Mean	Std. Deviation
+Total	1035	3.12	0.933
+-1) Web blank	9	0.9
+1) Strongly agree	47	4.5
+2) Agree	164	15.8
+3) Disagree	397	38.4
+4) Strongly disagree	418	40.4
+
+
+132) Q22F
+Please indicate your level of agreement with the following statements about immigration issues. Deportation is a good solution for immigration issues.
+RANGE: -1 to 4
+	N	Mean	Std. Deviation
+Total	1035	2.799	0.996
+-1) Web blank	8	0.8
+1) Strongly agree	99	9.6
+2) Agree	261	25.2
+3) Disagree	384	37.1
+4) Strongly disagree	283	27.3
+
+
+133) Q22G
+Please indicate your level of agreement with the following statements about immigration issues. Creating a "pathway to citizenship" will encourage illegal immigration.
+RANGE: -1 to 4
+	N	Mean	Std. Deviation
+Total	1035	2.88	0.959
+-1) Web blank	4	0.4
+1) Strongly agree	94	9.1
+2) Agree	223	21.5
+3) Disagree	411	39.7
+4) Strongly disagree	303	29.3
+
+
+134) Q22H
+Please indicate your level of agreement with the following statements about immigration issues. America should cease all immigration from Muslim countries.
+RANGE: -1 to 4
+	N	Mean	Std. Deviation
+Total	1035	3.175	0.839
+-1) Web blank	2	0.2
+1) Strongly agree	47	4.5
+2) Agree	128	12.4
+3) Disagree	447	43.2
+4) Strongly disagree	411	39.7
+
+
+135) Q22I
+Please indicate your level of agreement with the following statements about immigration issues. America should build a wall on the border with Mexico.
+RANGE: -1 to 4
+	N	Mean	Std. Deviation
+Total	1035	2.951	1.153
+-1) Web blank	6	0.6
+1) Strongly agree	164	15.8
+2) Agree	162	15.7
+3) Disagree	240	23.2
+4) Strongly disagree	463	44.7
+
+
+136) Q23A
+Have you done any of the following because of your fears: Purchased a gun?
+RANGE: 1 to 2
+	N	Mean	Std. Deviation
+Total	1035	1.839	0.368
+1) Yes	167	16.1
+2) No	868	83.9
+
+
+137) Q23B
+Have you done any of the following because of your fears: Voted for a particular party or candidate?
+RANGE: 1 to 2
+	N	Mean	Std. Deviation
+Total	1035	1.504	0.5
+1) Yes	513	49.6
+2) No	522	50.4
+
+
+138) Q23C
+Have you done any of the following because of your fears: Installed an alarm system in your home?
+RANGE: -1 to 2
+	N	Mean	Std. Deviation
+Total	1035	1.755	0.437
+-1) Web blank	1	0.1
+1) Yes	251	24.3
+2) No	783	75.7
+
+
+139) Q23D
+Have you done any of the following because of your fears: Stockpiled toilet paper or other supplies?
+RANGE: 1 to 2
+	N	Mean	Std. Deviation
+Total	1035	1.733	0.442
+1) Yes	276	26.7
+2) No	759	73.3
+
+
+140) Q23E
+Have you done any of the following because of your fears: Avoided public spaces, such as grocery stores or restaurants?
+RANGE: -1 to 2
+	N	Mean	Std. Deviation
+Total	1035	1.52	0.506
+-1) Web blank	1	0.1
+1) Yes	494	47.7
+2) No	540	52.2
+
+
+141) Q24
+Have you had the coronavirus (COVID-19)?
+RANGE: -1 to 3
+	N	Mean	Std. Deviation
+Total	1035	2.027	0.452
+-1) Web blank	1	0.1
+1) Yes	86	8.3
+2) No	831	80.3
+3) I'm not sure	117	11.3
+
+
+142) Q25
+Do you know someone personally who has had the coronavirus (COVID-19)?
+RANGE: 1 to 3
+	N	Mean	Std. Deviation
+Total	1035	1.211	0.459
+1) Yes	840	81.2
+2) No	172	16.6
+3) I'm not sure	23	2.2
+
+
+143) Q26
+Do you know someone personally who died or was hospitalized because of the coronavirus (COVID-19)?
+RANGE: -1 to 3
+	N	Mean	Std. Deviation
+Total	1035	1.578	0.555
+-1) Web blank	1	0.1
+1) Yes	464	44.8
+2) No	540	52.2
+3) I'm not sure	30	2.9
+
+
+144) Q27
+Did you lose your job or were you laid off as a result of the coronavirus (COVID-19)?
+RANGE: -1 to 3
+	N	Mean	Std. Deviation
+Total	1035	2.726	0.598
+-1) Web blank	1	0.1
+1) Yes, lost job or permanently laid off	76	7.3
+2) Yes, temporarily laid off	128	12.4
+3) No	830	80.2
+
+
+145) Q28A
+[DO NOT DISPLAY ITEM A IF Q24=1] How afraid are you of the following: Contracting the coronavirus (COVID-19)?
+RANGE: 1 to 4
+	N	Mean	Std. Deviation
+Total	949	2.599	1.05
+1) Very afraid	199	21.0
+2) Afraid	193	20.3
+3) Slightly afraid	347	36.6
+4) Not afraid	210	22.1
+Missing	86
+
+
+146) Q28B
+How afraid are you of the following: A loved one contracting the coronavirus (COVID-19)?
+RANGE: -1 to 4
+	N	Mean	Std. Deviation
+Total	1035	2.252	1.039
+-1) Web blank	1	0.1
+1) Very afraid	314	30.3
+2) Afraid	282	27.2
+3) Slightly afraid	298	28.8
+4) Not afraid	140	13.5
+
+
+147) Q28C
+How afraid are you of the following: Losing your job due to the coronavirus (COVID-19) pandemic?
+RANGE: 1 to 4
+	N	Mean	Std. Deviation
+Total	1035	3.237	1.076
+1) Very afraid	126	12.2
+2) Afraid	127	12.3
+3) Slightly afraid	158	15.3
+4) Not afraid	624	60.3
+
+
+148) Q29A
+Please indicate your level of agreement with the following statements about the coronavirus (COVID-19). The government has gone too far in restricting businesses and individuals during the coronavirus (COVID-19) pandemic.
+RANGE: 1 to 4
+	N	Mean	Std. Deviation
+Total	1035	2.712	1.076
+1) Strongly agree	201	19.4
+2) Agree	188	18.2
+3) Disagree	354	34.2
+4) Strongly disagree	292	28.2
+
+
+149) Q29B
+Please indicate your level of agreement with the following statements about the coronavirus (COVID-19). The benefits of wearing a mask outweigh the consequences of not wearing one.
+RANGE: -1 to 4
+	N	Mean	Std. Deviation
+Total	1035	1.628	0.902
+-1) Web blank	1	0.1
+1) Strongly agree	617	59.6
+2) Agree	244	23.6
+3) Disagree	111	10.7
+4) Strongly disagree	62	6.0
+
+
+150) Q29C
+Please indicate your level of agreement with the following statements about the coronavirus (COVID-19). Social media companies (Facebook, Twitter, Instagram, etc.) should be responsible for identifying and removing misleading information about the coronavirus.
+RANGE: 1 to 4
+	N	Mean	Std. Deviation
+Total	1035	1.988	0.955
+1) Strongly agree	376	36.3
+2) Agree	397	38.4
+3) Disagree	160	15.5
+4) Strongly disagree	102	9.9
+
+
+151) Q29D
+Please indicate your level of agreement with the following statements about the coronavirus (COVID-19). The coronavirus (COVID-19) is a pretext to insert microchips into people to track them.
+RANGE: -1 to 4
+	N	Mean	Std. Deviation
+Total	1035	3.402	0.852
+-1) Web blank	5	0.5
+1) Strongly agree	32	3.1
+2) Agree	105	10.1
+3) Disagree	288	27.8
+4) Strongly disagree	605	58.5
+
+
+152) Q29E
+Please indicate your level of agreement with the following statements about the coronavirus (COVID-19). The coronavirus (COVID-19) pandemic was exaggerated in order to undermine President Trump.
+RANGE: 1 to 4
+	N	Mean	Std. Deviation
+Total	1035	3.126	1.063
+1) Strongly agree	124	12.0
+2) Agree	155	15.0
+3) Disagree	223	21.5
+4) Strongly disagree	533	51.5
+
+
+153) Q29F
+Please indicate your level of agreement with the following statements about the coronavirus (COVID-19). Natural remedies are an effective means to treat or prevent coronavirus symptoms.
+RANGE: -1 to 4
+	N	Mean	Std. Deviation
+Total	1035	2.915	0.91
+-1) Web blank	1	0.1
+1) Strongly agree	68	6.6
+2) Agree	262	25.3
+3) Disagree	390	37.7
+4) Strongly disagree	314	30.3
+
+
+154) Q29G
+Please indicate your level of agreement with the following statements about the coronavirus (COVID-19). I am afraid it will be difficult to receive a coronavirus (COVID-19) vaccine once it is available.
+RANGE: 1 to 4
+	N	Mean	Std. Deviation
+Total	1035	2.583	0.851
+1) Strongly agree	108	10.4
+2) Agree	357	34.5
+3) Disagree	429	41.4
+4) Strongly disagree	141	13.6
+
+
+155) Q29H
+Please indicate your level of agreement with the following statements about the coronavirus (COVID-19). When a safe and effective coronavirus (COVID-19) vaccine becomes available, I will get it as soon as possible.
+RANGE: 1 to 4
+	N	Mean	Std. Deviation
+Total	1035	2.09	1.067
+1) Strongly agree	405	39.1
+2) Agree	273	26.4
+3) Disagree	216	20.9
+4) Strongly disagree	141	13.6
+
+
+156) Q30A
+Please indicate your level of agreement with the following statements about vaccines. I have concerns about the safety of vaccines.
+RANGE: -1 to 4
+	N	Mean	Std. Deviation
+Total	1035	2.501	0.955
+-1) Web blank	2	0.2
+1) Strongly agree	159	15.4
+2) Agree	361	34.9
+3) Disagree	342	33.0
+4) Strongly disagree	171	16.5
+
+
+157) Q30B
+Please indicate your level of agreement with the following statements about vaccines. Someone I know has experienced adverse effects from a vaccine.
+RANGE: -1 to 4
+	N	Mean	Std. Deviation
+Total	1035	3.166	0.852
+-1) Web blank	2	0.2
+1) Strongly agree	60	5.8
+2) Agree	104	10.0
+3) Disagree	465	44.9
+4) Strongly disagree	404	39.0
+
+
+158) Q30C
+Please indicate your level of agreement with the following statements about vaccines. The benefits of vaccines are greater than the risks.
+RANGE: -1 to 4
+	N	Mean	Std. Deviation
+Total	1035	1.822	0.857
+-1) Web blank	3	0.3
+1) Strongly agree	425	41.1
+2) Agree	402	38.8
+3) Disagree	160	15.5
+4) Strongly disagree	45	4.3
+
+
+159) Q30D
+Please indicate your level of agreement with the following statements about vaccines. Mandatory vaccination is a violation of personal and medical freedom.
+RANGE: -1 to 4
+	N	Mean	Std. Deviation
+Total	1035	2.367	1.074
+-1) Web blank	3	0.3
+1) Strongly agree	269	26.0
+2) Agree	294	28.4
+3) Disagree	280	27.1
+4) Strongly disagree	189	18.3
+
+
+160) Q30E
+Please indicate your level of agreement with the following statements about vaccines. Vaccines should contain only natural ingredients.
+RANGE: -1 to 4
+	N	Mean	Std. Deviation
+Total	1035	2.777	0.891
+-1) Web blank	1	0.1
+1) Strongly agree	92	8.9
+2) Agree	266	25.7
+3) Disagree	453	43.8
+4) Strongly disagree	223	21.5
+
+
+161) Q30F
+Please indicate your level of agreement with the following statements about vaccines. Billionaires without medical degrees should not be able to shape vaccine research or policy.
+RANGE: -1 to 4
+	N	Mean	Std. Deviation
+Total	1035	1.891	0.891
+-1) Web blank	1	0.1
+1) Strongly agree	415	40.1
+2) Agree	366	35.4
+3) Disagree	201	19.4
+4) Strongly disagree	52	5.0
+
+
+162) Q30G
+Please indicate your level of agreement with the following statements about vaccines. Parents should have a larger role in shaping vaccine policy.
+RANGE: -1 to 4
+	N	Mean	Std. Deviation
+Total	1035	2.652	0.872
+-1) Web blank	2	0.2
+1) Strongly agree	93	9.0
+2) Agree	337	32.6
+3) Disagree	432	41.7
+4) Strongly disagree	171	16.5
+
+
+163) Q30H
+Please indicate your level of agreement with the following statements about vaccines. Vaccine manufacturers should be protected from liability.
+RANGE: -1 to 4
+	N	Mean	Std. Deviation
+Total	1035	2.908	0.775
+-1) Web blank	1	0.1
+1) Strongly agree	47	4.5
+2) Agree	211	20.4
+3) Disagree	562	54.3
+4) Strongly disagree	214	20.7
+
+
+164) Q31
+Roughly what proportion of your friends and family agree with your views on vaccines?
+RANGE: 1 to 5
+	N	Mean	Std. Deviation
+Total	1035	2.023	1.298
+1) All or most of them	442	42.7
+2) Some of them	409	39.5
+3) Very few of them	37	3.6
+4) None	12	1.2
+5) I'm not sure	135	13.0
+
+
+165) Q32A
+Have you ever done any of the following: Participated in a protest or rally against lockdowns or mask-wearing?
+RANGE: 1 to 3
+	N	Mean	Std. Deviation
+Total	1035	2.032	0.267
+1) Yes	21	2.0
+2) No	960	92.8
+3) Doesn't apply to me	54	5.2
+
+
+166) Q32B
+Have you ever done any of the following: Posted online content that was deleted, suppressed or flagged as false or misleading by the platform it was posted to?
+RANGE: 1 to 3
+	N	Mean	Std. Deviation
+Total	1035	2.019	0.446
+1) Yes	93	9.0
+2) No	829	80.1
+3) Doesn't apply to me	113	10.9
+
+
+167) Q32C
+Have you ever done any of the following: Refused or delayed a vaccine for yourself?
+RANGE: -1 to 3
+	N	Mean	Std. Deviation
+Total	1035	1.89	0.51
+-1) Web blank	1	0.1
+1) Yes	192	18.6
+2) No	761	73.5
+3) Doesn't apply to me	81	7.8
+
+
+168) Q32D
+Have you ever done any of the following: Refused or delayed a vaccine for a child?
+RANGE: -1 to 3
+	N	Mean	Std. Deviation
+Total	1035	2.16	0.529
+-1) Web blank	1	0.1
+1) Yes	69	6.7
+2) No	727	70.2
+3) Doesn't apply to me	238	23.0
+
+
+169) Q32E
+Have you ever done any of the following: Read information about vaccines online that scared you?
+RANGE: -1 to 3
+	N	Mean	Std. Deviation
+Total	1035	1.761	0.56
+-1) Web blank	2	0.2
+1) Yes	303	29.3
+2) No	668	64.5
+3) Doesn't apply to me	62	6.0
+
+
+170) Q33A
+Please indicate your level of agreement with the following statements: I support the Black Lives Matter (BLM) movement.
+RANGE: -1 to 4
+	N	Mean	Std. Deviation
+Total	1035	2.28	1.091
+-1) Web blank	1	0.1
+1) Strongly agree	296	28.6
+2) Agree	358	34.6
+3) Disagree	171	16.5
+4) Strongly disagree	209	20.2
+
+
+171) Q33B
+Please indicate your level of agreement with the following statements: Local governments should enact curfews during protests.
+RANGE: -1 to 4
+	N	Mean	Std. Deviation
+Total	1035	2.129	0.813
+-1) Web blank	1	0.1
+1) Strongly agree	217	21.0
+2) Agree	525	50.7
+3) Disagree	231	22.3
+4) Strongly disagree	61	5.9
+
+
+172) Q33C
+Please indicate your level of agreement with the following statements: The National Guard should be called in to cities to stop protests when needed.
+RANGE: -1 to 4
+	N	Mean	Std. Deviation
+Total	1035	1.999	0.781
+-1) Web blank	1	0.1
+1) Strongly agree	265	25.6
+2) Agree	547	52.9
+3) Disagree	177	17.1
+4) Strongly disagree	45	4.3
+
+
+173) Q33D
+Please indicate your level of agreement with the following statements: Our nation needs to reform the entire system of law enforcement.
+RANGE: -1 to 4
+	N	Mean	Std. Deviation
+Total	1035	2.129	0.891
+-1) Web blank	1	0.1
+1) Strongly agree	278	26.9
+2) Agree	409	39.5
+3) Disagree	279	27.0
+4) Strongly disagree	68	6.6
+
+
+174) Q33E
+Please indicate your level of agreement with the following statements: We should defund the police.
+RANGE: -1 to 4
+	N	Mean	Std. Deviation
+Total	1035	3.11	0.945
+-1) Web blank	2	0.2
+1) Strongly agree	69	6.7
+2) Agree	184	17.8
+3) Disagree	336	32.5
+4) Strongly disagree	444	42.9
+
+
+175) Q34A
+Please indicate your level of agreement with the following statements: Aliens have visited the Earth in our ancient past.
+RANGE: -1 to 4
+	N	Mean	Std. Deviation
+Total	1035	2.757	0.91
+-1) Web blank	1	0.1
+1) Strongly agree	79	7.6
+2) Agree	337	32.6
+3) Disagree	370	35.7
+4) Strongly disagree	248	24.0
+
+
+176) Q34B
+Please indicate your level of agreement with the following statements: Aliens have come to Earth in modern times.
+RANGE: -1 to 4
+	N	Mean	Std. Deviation
+Total	1035	2.88	0.9
+-1) Web blank	2	0.2
+1) Strongly agree	63	6.1
+2) Agree	279	27.0
+3) Disagree	402	38.8
+4) Strongly disagree	289	27.9
+
+
+177) Q34C
+Please indicate your level of agreement with the following statements: Fortune tellers and psychics can foresee the future.
+RANGE: -1 to 4
+	N	Mean	Std. Deviation
+Total	1035	3.171	0.805
+-1) Web blank	2	0.2
+1) Strongly agree	19	1.8
+2) Agree	185	17.9
+3) Disagree	421	40.7
+4) Strongly disagree	408	39.4
+
+
+178) Q34D
+Please indicate your level of agreement with the following statements: Bigfoot is a real creature.
+RANGE: -1 to 4
+	N	Mean	Std. Deviation
+Total	1035	3.203	0.805
+-1) Web blank	3	0.3
+1) Strongly agree	23	2.2
+2) Agree	152	14.7
+3) Disagree	437	42.2
+4) Strongly disagree	420	40.6
+
+
+179) Q34E
+Please indicate your level of agreement with the following statements: Places can be haunted by spirits.
+RANGE: 1 to 4
+	N	Mean	Std. Deviation
+Total	1035	2.617	0.961
+1) Strongly agree	114	11.0
+2) Agree	409	39.5
+3) Disagree	271	26.2
+4) Strongly disagree	241	23.3
+
+
+180) Q34F
+Please indicate your level of agreement with the following statements: Ancient advanced civilizations, such as Atlantis, once existed.
+RANGE: -1 to 4
+	N	Mean	Std. Deviation
+Total	1035	2.612	0.862
+-1) Web blank	1	0.1
+1) Strongly agree	72	7.0
+2) Agree	437	42.2
+3) Disagree	342	33.0
+4) Strongly disagree	183	17.7
+
+
+181) Q34G
+Please indicate your level of agreement with the following statements: Some people can move objects with their minds.
+RANGE: -1 to 4
+	N	Mean	Std. Deviation
+Total	1035	3.187	0.79
+-1) Web blank	2	0.2
+1) Strongly agree	29	2.8
+2) Agree	137	13.2
+3) Disagree	470	45.4
+4) Strongly disagree	397	38.4
+
+
+182) Q35A
+When deciding whether to get the coronavirus (COVID-19) vaccine once available, how important to you is each of the following: The potential side effects of the vaccine?
+RANGE: -1 to 4
+	N	Mean	Std. Deviation
+Total	1035	1.742	0.84
+-1) Web blank	1	0.1
+1) Very important	487	47.1
+2) Somewhat important	364	35.2
+3) Not very important	143	13.8
+4) Not important at all	40	3.9
+
+
+183) Q35B
+When deciding whether to get the coronavirus (COVID-19) vaccine once available, how important to you is each of the following: The effectiveness of the vaccine?
+RANGE: -1 to 4
+	N	Mean	Std. Deviation
+Total	1035	1.273	0.623
+-1) Web blank	4	0.4
+1) Very important	807	78.0
+2) Somewhat important	176	17.0
+3) Not very important	29	2.8
+4) Not important at all	19	1.8
+
+
+184) Q35C
+When deciding whether to get the coronavirus (COVID-19) vaccine once available, how important to you is each of the following: Pressure from friends/family?
+RANGE: -1 to 4
+	N	Mean	Std. Deviation
+Total	1035	3.022	0.938
+-1) Web blank	2	0.2
+1) Very important	76	7.3
+2) Somewhat important	196	18.9
+3) Not very important	382	36.9
+4) Not important at all	379	36.6
+
+
+185) Q35D
+When deciding whether to get the coronavirus (COVID-19) vaccine once available, how important to you is each of the following: Protecting those who are at risk or who have compromised immune systems?
+RANGE: 1 to 4
+	N	Mean	Std. Deviation
+Total	1035	1.3	0.649
+1) Very important	807	78.0
+2) Somewhat important	171	16.5
+3) Not very important	31	3.0
+4) Not important at all	26	2.5
+
+
+186) Q35E
+When deciding whether to get the coronavirus (COVID-19) vaccine once available, how important to you is each of the following: Your family's/household's health?
+RANGE: -1 to 4
+	N	Mean	Std. Deviation
+Total	1035	1.317	0.733
+-1) Web blank	5	0.5
+1) Very important	802	77.5
+2) Somewhat important	159	15.4
+3) Not very important	28	2.7
+4) Not important at all	41	4.0
+
+
+187) Q35F
+When deciding whether to get the coronavirus (COVID-19) vaccine once available, how important to you is each of the following: The health of your local community?
+RANGE: -1 to 4
+	N	Mean	Std. Deviation
+Total	1035	1.508	0.771
+-1) Web blank	1	0.1
+1) Very important	642	62.0
+2) Somewhat important	295	28.5
+3) Not very important	58	5.6
+4) Not important at all	39	3.8
+
+
+188) Q36
+With which gender identity do you identify the most?
+RANGE: 1 to 4
+	N	Mean	Std. Deviation
+Total	1035	1.533	0.54
+1) Male	500	48.3
+2) Female	523	50.5
+3) Non-binary	7	0.7
+4) Prefer to self-identify (specify)	5	0.5
+
+
+189) Q36_4_OTHER
+With which gender identity do you identify the most?
+RANGE: 0 to 0
+	N	Mean	Std. Deviation
+Total	5	0	0
+
+
+190) Z8
+What is the highest level of school you have completed or the highest degree you have received?
+RANGE: 1 to 8
+	N	Mean	Std. Deviation
+Total	1035	5.19	1.903
+1) Less than high school (Grades one through eight or no formal schooling)	8	0.8
+2) High school incomplete (Grades nine through 11 or grade 12 with NO diploma)	37	3.6
+3) High school graduate (Grade 12 with diploma or GED certification or vocational, business, technical or other training that did not count toward a degree)	208	20.1
+4) Some college, no degree (includes some community college)	200	19.3
+5) Two-year associate degree from a college or university	91	8.8
+6) Four-year college or university degree/Bachelor's degree (e.g., BS, BA, AB)	228	22.0
+7) Some postgraduate or professional schooling, no postgraduate degree	61	5.9
+8) Postgraduate or professional degree, including master's, doctorate, medical or law degree (e.g., MA, MS, PhD, MD, JD)	202	19.5
+
+
+191) Z8A
+[ASK IF Z8=4] How many semesters did you complete?
+RANGE: 1 to 2
+	N	Mean	Std. Deviation
+Total	200	1.935	0.247
+1) Less than one semester	13	6.5
+2) One or more semesters	187	93.5
+Missing	835
+
+
+192) EDUC
+Copy of education from Z8
+RANGE: 1 to 8
+	N	Mean	Std. Deviation
+Total	1035	5.19	1.903
+1) Less than high school (Grades one through eight or no formal schooling)	8	0.8
+2) High school incomplete (Grades nine through 11 or grade 12 with NO diploma)	37	3.6
+3) High school graduate (Grade 12 with diploma or GED certification or vocational, business, technical or other training that did not count toward a degree)	208	20.1
+4) Some college, no degree (includes some community college)	200	19.3
+5) Two-year associate degree from a college or university	91	8.8
+6) Four-year college or university degree/Bachelor's degree (e.g., BS, BA, AB)	228	22.0
+7) Some postgraduate or professional schooling, no postgraduate degree	61	5.9
+8) Postgraduate or professional degree, including master's, doctorate, medical or law degree (e.g., MA, MS, PhD, MD, JD)	202	19.5
+
+
+193) EDUCATION2
+Recoded education from Z8
+RANGE: 1 to 4
+	N	Mean	Std. Deviation
+Total	1035	3.186	0.903
+1) Less than high school	45	4.3
+2) High school	208	20.1
+3) Some college	291	28.1
+4) College plus	491	47.4
+
+
+194) Z4
+Currently, are you yourself employed full-time, part-time, or not at all?
+RANGE: 1 to 3
+	N	Mean	Std. Deviation
+Total	1035	1.917	0.919
+1) Full-time	483	46.7
+2) Part-time	155	15.0
+3) Not employed	397	38.4
+
+
+195) Z5
+[ASK IF Z4=3] Would you say you are...?
+RANGE: 1 to 7
+	N	Mean	Std. Deviation
+Total	397	2.343	1.668
+1) Retired	209	52.6
+2) A homemaker	38	9.6
+3) A student	30	7.6
+4) Temporarily unemployed	63	15.9
+5) Disabled/handicapped	48	12.1
+7) Other	9	2.3
+Missing	638
+
+
+196) Z9
+What is your total annual household income from all sources, and before taxes?
+RANGE: -1 to 9
+	N	Mean	Std. Deviation
+Total	1035	5.663	2.343
+-1) Web blank	4	0.4
+1) Less than $15,000	88	8.5
+2) $15,000 but less than $20,000	52	5.0
+3) $25,000 but less than $30,000	55	5.3
+4) $30,000 but less than $40,000	105	10.1
+5) $40,000 but less than $50,000	90	8.7
+6) $50,000 but less than $75,000	196	18.9
+7) $75,000 but less than $100,000	135	13.0
+8) $100,000 and over	273	26.4
+9) $20,000 but less than $25,000	37	3.6
+
+
+197) Z9A
+[ASK IF Z9=99] Could you say if your total annual household income falls into one of these broader categories?
+RANGE: -1 to 2
+	N	Mean	Std. Deviation
+Total	4	0.25	1.5
+-1) Web blank	2	50.0
+1) Less than $50,000	1	25.0
+2) $50,000 but less than $100,000	1	25.0
+Missing	1031
+
+
+198) Z9B
+[ASK IF Z9=8] Would that be:
+RANGE: 1 to 4
+	N	Mean	Std. Deviation
+Total	273	1.637	0.93
+1) $100,000 to under $150,000	161	59.0
+2) $150,000 to under $200,000	74	27.1
+3) $200,000 to under $250,000	14	5.1
+4) $250,000 or more	24	8.8
+Missing	762
+
+
+199) PRACE
+Race
+RANGE: 1 to 99
+	N	Mean	Std. Deviation
+Total	1035	2.561	7.575
+1) White non-Hispanic	686	66.3
+2) Black non-Hispanic	94	9.1
+3) White Hispanic	90	8.7
+4) Black Hispanic	5	0.5
+5) Unspecified Hispanic	65	6.3
+6) Asian/Chinese/Japanese	79	7.6
+7) Native American/American Indian/Alaska Native	1	0.1
+9) Other race	3	0.3
+10) Mixed	6	0.6
+99) Refused	6	0.6
+
+
+200) PREGION
+Census Region
+RANGE: 1 to 9
+	N	Mean	Std. Deviation
+Total	1035	2.667	1.099
+1) Northeast	202	19.5
+2) North Central	203	19.6
+3) South	383	37.0
+4) West	244	23.6
+9) Refused	3	0.3
+
+
+201) PSEX
+Sex
+RANGE: 1 to 3
+	N	Mean	Std. Deviation
+Total	1035	1.511	0.512
+1) Male	512	49.5
+2) Female	517	50.0
+3) Other	6	0.6
+
+
+202) PSTATE
+State
+RANGE: 0 to 0
+	N	Mean	Std. Deviation
+Total	1035	0	0
+
+
+203) PMSTATUS
+Marital Status
+RANGE: 1 to 9
+	N	Mean	Std. Deviation
+Total	1035	2.901	1.522
+1) Single, that is never married	249	24.1
+2) Single, living with a partner	86	8.3
+3) Married	510	49.3
+4) Separated	20	1.9
+5) Widowed	51	4.9
+6) Divorced	118	11.4
+9) Refused	1	0.1
+
+
+204) PADULTS
+Number of adults in household
+RANGE: 1 to 9
+	N	Mean	Std. Deviation
+Total	1035	2.074	0.983
+1) 	271	26.2
+2) 	535	51.7
+3) 	149	14.4
+4) 	59	5.7
+5) 	13	1.3
+6) 	3	0.3
+7) 	2	0.2
+8) Eight or more	1	0.1
+9) Refused	2	0.2
+
+
+205) PKIDS1217
+Number of kids 12 to 17 in household
+RANGE: 0 to 5
+	N	Mean	Std. Deviation
+Total	1035	0.23	0.588
+0) 	860	83.1
+1) 	130	12.6
+2) 	32	3.1
+3) 	9	0.9
+4) 	3	0.3
+5) 	1	0.1
+
+
+206) PKIDS611
+Number of kids six to 11 in household
+RANGE: 0 to 4
+	N	Mean	Std. Deviation
+Total	1035	0.225	0.569
+0) 	868	83.9
+1) 	111	10.7
+2) 	47	4.5
+3) 	8	0.8
+4) 	1	0.1
+
+
+207) PKIDSLESS6
+Number of kids under six in household
+RANGE: 0 to 4
+	N	Mean	Std. Deviation
+Total	1035	0.193	0.543
+0) 	893	86.3
+1) 	97	9.4
+2) 	33	3.2
+3) 	11	1.1
+4) 	1	0.1
+
+
+208) PPARENT
+Parent of child in household
+RANGE: 1 to 9
+	N	Mean	Std. Deviation
+Total	1035	1.763	0.711
+1) Yes	287	27.7
+2) No	742	71.7
+9) Refused	6	0.6
+
+
+209) PAGE1
+Numeric age
+RANGE: 18 to 99
+	N	Mean	Std. Deviation
+Total	1035	49.991	19.644
+
+
+210) PAGE2
+Age for those refusing to give a number
+RANGE: 1 to 9
+	N	Mean	Std. Deviation
+Total	45	3.422	2.426
+1) 18-29	7	15.6
+2) 30-49	13	28.9
+3) 50-64	9	20.0
+4) 65+	10	22.2
+9) Refused	6	13.3
+Missing	990
+
+
+211) PAGEFINAL
+Age collapsed (PAGE1 + PAGE2)
+RANGE: 1 to 9
+	N	Mean	Std. Deviation
+Total	1035	2.547	1.138
+1) 18-29	188	18.2
+2) 30-49	356	34.4
+3) 50-64	258	24.9
+4) 65+	227	21.9
+9) Refused	6	0.6
+
+
+212) PRELIGION
+Religion
+RANGE: 1 to 99
+	N	Mean	Std. Deviation
+Total	1035	44.297	43.666
+1) Baptist	101	9.8
+2) Catholic, Roman Catholic	236	22.8
+5) Evangelical	57	5.5
+6) Jehovah's Witnesses	7	0.7
+7) Jewish/Judaism	35	3.4
+8) Lutheran	38	3.7
+10) Mormon (Church of Jesus Christ of Latter-day Saints/LDS)	16	1.5
+11) Muslim/Islamic	11	1.1
+12) Orthodox (Eastern, Greek, Russian, Armenian, etc.)	3	0.3
+13) Pentecostal (Assemblies of God, Four-Square Gospel)	2	0.2
+15) Protestant	34	3.3
+20) Buddhist	3	0.3
+21) Hindu	6	0.6
+22) Christian (Just Christian)	18	1.7
+23) Non-denominational or independent Church	1	0.1
+24) Episcopalian or Anglican	1	0.1
+25) Methodist	2	0.2
+29) Holiness (Nazarenes, Wesleyan Church, Salvation Army)	1	0.1
+90) Nothing in particular	293	28.3
+95) Atheist	10	1.0
+96) Agnostic	11	1.1
+97) Other	145	14.0
+99) Refused	4	0.4
+
+
+213) PREGVOTE
+Registered to Vote
+RANGE: 1 to 2
+	N	Mean	Std. Deviation
+Total	1035	1.151	0.358
+1) Yes	879	84.9
+2) No	156	15.1
+
+
+214) DEVICECATEGORY
+Device used for survey completion
+RANGE: 1 to 4
+	N	Mean	Std. Deviation
+Total	1035	2.134	1.006
+1) PC or equivalent	453	43.8
+3) Smartphone or equivalent (Less than seven inches)	572	55.3
+4) Other small devices	10	1.0
+
+
+215) EMPLOY
+Employment status from survey
+RANGE: 1 to 8
+	N	Mean	Std. Deviation
+Total	1035	2.423	1.829
+1) Full-time	483	46.7
+2) Part-time	155	15.0
+3) Retired	209	20.2
+4) Homemaker	38	3.7
+5) Student	30	2.9
+6) Temporarily unemployed	63	6.1
+7) Disabled/Handicapped	48	4.6
+8) Other not employed	9	0.9
+
+
+216) NEWINCOME
+Recoded income from Z9, Z9a, Z9b
+RANGE: 1 to 99
+	N	Mean	Std. Deviation
+Total	1035	7.386	5.921
+1) Less than $15,000	88	8.5
+2) $15,000 but less than $20,000	52	5.0
+3) $25,000 but less than $30,000	55	5.3
+4) $30,000 but less than $40,000	105	10.1
+5) $40,000 but less than $50,000	90	8.7
+6) $50,000 but less than $75,000	196	18.9
+7) $75,000 but less than $100,000	135	13.0
+9) Less than $50,000 (Unspecified)	1	0.1
+10) $50,000 but less than $100,000 (Unspecified)	1	0.1
+12) $100,000 to under $150,000	161	15.6
+13) $150,000 to under $200,000	74	7.1
+14) $200,000 to under $250,000	14	1.4
+15) $250,000 or more	24	2.3
+17) $20,000 but less than $25,000	37	3.6
+99) Refused	2	0.2
+
+
+217) LENGTH
+Length of Interview (in minutes)
+RANGE: 7.7 to 95.53
+	N	Mean	Std. Deviation
+Total	1035	24.172	10.39
+
+
+218) WEIGHT
+Weight per respondent
+RANGE: 0.1275 to 4.5777
+	N	Mean	Std. Deviation
+Total	1035	1	0.891
+
+
+219) I-MARITAL
+Marital Status (Recoded for use with online analysis)
+RANGE: 1 to 3
+	N	Mean	Std. Deviation
+Total	1034	2.169	0.888
+1) Single	335	32.4
+2) Separated, widowed, or divorced	189	18.3
+3) Married	510	49.3
+Missing	1
+
+
+220) I-RACE
+Race (Recoded for use with online analysis)
+RANGE: 1 to 4
+	N	Mean	Std. Deviation
+Total	1029	1.662	1.027
+1) White	686	66.7
+2) Black	94	9.1
+3) Hispanic	160	15.5
+4) Other	89	8.6
+Missing	6
+
+
+221) I-SEX
+Sex (Recoded for use with online analysis)
+RANGE: 1 to 2
+	N	Mean	Std. Deviation
+Total	1029	1.502	0.5
+1) Male	512	49.8
+2) Female	517	50.2
+Missing	6
+
+
+222) I-AGE
+Age collapsed (PAGE1 + PAGE2) (Recoded for use with online analysis)
+RANGE: 1 to 4
+	N	Mean	Std. Deviation
+Total	1029	2.509	1.028
+1) 18-29	188	18.3
+2) 30-49	356	34.6
+3) 50-64	258	25.1
+4) 65+	227	22.1
+Missing	6
+
+
+223) I-RELIGION
+Religion (Recoded for use with online analysis)
+RANGE: 1 to 4
+	N	Mean	Std. Deviation
+Total	1031	2.618	1.142
+1) Protestant	236	22.9
+2) Catholic	236	22.9
+3) Other	245	23.8
+4) Nothing in particular, atheist, or agnostic	314	30.5
+Missing	4
+
+

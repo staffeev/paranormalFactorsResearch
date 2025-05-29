@@ -21,7 +21,7 @@ def labels_to_csv(labels_path, output_filename):
             opt_num = option[:br_ix]
             opt_text = option[br_ix + 2:]
             data.append((Q_NAME, descr, opt_num, opt_text))
-    pd.DataFrame([fields] + data).to_csv(output_filename, index=False, header=False)
+    pd.DataFrame([fields] + data).to_csv(output_filename, index=False, header=False, sep=";")
     
 
 
