@@ -1,0 +1,1485 @@
+Q_NAME,Description,Option_Num,Option_Text
+Q1,"What is your religious preference, if any?",-1,Refused
+Q1,"What is your religious preference, if any?",1,Protestant
+Q1,"What is your religious preference, if any?",2,Catholic
+Q1,"What is your religious preference, if any?",3,Christian (neither Protestant nor Catholic)
+Q1,"What is your religious preference, if any?",4,Jewish
+Q1,"What is your religious preference, if any?",5,Muslim/Islam
+Q1,"What is your religious preference, if any?",6,Buddhist
+Q1,"What is your religious preference, if any?",7,Hindu
+Q1,"What is your religious preference, if any?",8,Other Eastern religion
+Q1,"What is your religious preference, if any?",9,"Other, please specify"
+Q1,"What is your religious preference, if any?",10,None
+Q2,How religious do you consider yourself to be?,-1,Refused
+Q2,How religious do you consider yourself to be?,1,Not at all religious
+Q2,How religious do you consider yourself to be?,2,Not too religious
+Q2,How religious do you consider yourself to be?,3,Somewhat religious
+Q2,How religious do you consider yourself to be?,4,Very religious
+Q3,"How often do you attend religious services at a church, mosque, synagogue or other place of worship?",-1,Refused
+Q3,"How often do you attend religious services at a church, mosque, synagogue or other place of worship?",1,Never
+Q3,"How often do you attend religious services at a church, mosque, synagogue or other place of worship?",2,Less than once a year
+Q3,"How often do you attend religious services at a church, mosque, synagogue or other place of worship?",3,Once or twice a year
+Q3,"How often do you attend religious services at a church, mosque, synagogue or other place of worship?",4,Several times a year
+Q3,"How often do you attend religious services at a church, mosque, synagogue or other place of worship?",5,Once a month
+Q3,"How often do you attend religious services at a church, mosque, synagogue or other place of worship?",6,Two to three times a month
+Q3,"How often do you attend religious services at a church, mosque, synagogue or other place of worship?",7,Weekly
+Q3,"How often do you attend religious services at a church, mosque, synagogue or other place of worship?",8,Several times a week
+Q4,Which one statement comes closest to your personal beliefs about the Bible?,-1,Refused
+Q4,Which one statement comes closest to your personal beliefs about the Bible?,1,"The Bible means exactly what it says. It should be taken literally, word-for-word, on all subjects"
+Q4,Which one statement comes closest to your personal beliefs about the Bible?,2,"The Bible is perfectly true, but it should not be taken literally, word-for-word. We must interpret its meaning"
+Q4,Which one statement comes closest to your personal beliefs about the Bible?,3,The Bible contains some human error
+Q4,Which one statement comes closest to your personal beliefs about the Bible?,4,The Bible is an ancient book of history and legends
+Q4,Which one statement comes closest to your personal beliefs about the Bible?,5,I don't know
+Q5,How would you describe yourself politically?,-1,Refused
+Q5,How would you describe yourself politically?,1,Extremely conservative
+Q5,How would you describe yourself politically?,2,Conservative
+Q5,How would you describe yourself politically?,3,Leaning conservative
+Q5,How would you describe yourself politically?,4,Moderate
+Q5,How would you describe yourself politically?,5,Leaning liberal
+Q5,How would you describe yourself politically?,6,Liberal
+Q5,How would you describe yourself politically?,7,Extremely liberal
+Q6,"Do you think of yourself as Republican, Democrat or Independent?",-1,Refused
+Q6,"Do you think of yourself as Republican, Democrat or Independent?",1,Strong Republican
+Q6,"Do you think of yourself as Republican, Democrat or Independent?",2,Moderate Republican
+Q6,"Do you think of yourself as Republican, Democrat or Independent?",3,Leaning Republican
+Q6,"Do you think of yourself as Republican, Democrat or Independent?",4,Independent
+Q6,"Do you think of yourself as Republican, Democrat or Independent?",5,Leaning Democrat
+Q6,"Do you think of yourself as Republican, Democrat or Independent?",6,Moderate Democrat
+Q6,"Do you think of yourself as Republican, Democrat or Independent?",7,Strong Democrat
+Q7_1,"How strongly do you agree or disagree with the following statements? If I ran out of gas on the road, I would feel safe asking a stranger for help",-1,Refused
+Q7_1,"How strongly do you agree or disagree with the following statements? If I ran out of gas on the road, I would feel safe asking a stranger for help",1,Strongly agree
+Q7_1,"How strongly do you agree or disagree with the following statements? If I ran out of gas on the road, I would feel safe asking a stranger for help",2,Agree
+Q7_1,"How strongly do you agree or disagree with the following statements? If I ran out of gas on the road, I would feel safe asking a stranger for help",3,Disagree
+Q7_1,"How strongly do you agree or disagree with the following statements? If I ran out of gas on the road, I would feel safe asking a stranger for help",4,Strongly disagree
+Q7_2,"How strongly do you agree or disagree with the following statements? If a stranger ran out of gas on the road, I would feel safe giving them help",-1,Refused
+Q7_2,"How strongly do you agree or disagree with the following statements? If a stranger ran out of gas on the road, I would feel safe giving them help",1,Strongly agree
+Q7_2,"How strongly do you agree or disagree with the following statements? If a stranger ran out of gas on the road, I would feel safe giving them help",2,Agree
+Q7_2,"How strongly do you agree or disagree with the following statements? If a stranger ran out of gas on the road, I would feel safe giving them help",3,Disagree
+Q7_2,"How strongly do you agree or disagree with the following statements? If a stranger ran out of gas on the road, I would feel safe giving them help",4,Strongly disagree
+Q8_1,Please indicate if you or a close friend/family member has been the victim of the following crimes: Have you ever been the victim of a property crime (stolen property)?,-1,Refused
+Q8_1,Please indicate if you or a close friend/family member has been the victim of the following crimes: Have you ever been the victim of a property crime (stolen property)?,1,Yes
+Q8_1,Please indicate if you or a close friend/family member has been the victim of the following crimes: Have you ever been the victim of a property crime (stolen property)?,2,No
+Q8_1,Please indicate if you or a close friend/family member has been the victim of the following crimes: Have you ever been the victim of a property crime (stolen property)?,3,Don't know
+Q8_2,Please indicate if you or a close friend/family member has been the victim of the following crimes: Have you been the victim of a property crime (stolen property) in the last five years?,-1,Refused
+Q8_2,Please indicate if you or a close friend/family member has been the victim of the following crimes: Have you been the victim of a property crime (stolen property) in the last five years?,1,Yes
+Q8_2,Please indicate if you or a close friend/family member has been the victim of the following crimes: Have you been the victim of a property crime (stolen property) in the last five years?,2,No
+Q8_2,Please indicate if you or a close friend/family member has been the victim of the following crimes: Have you been the victim of a property crime (stolen property) in the last five years?,3,Don't know
+Q8_3,Please indicate if you or a close friend/family member has been the victim of the following crimes: Have you ever been the victim of a violent crime?,-1,Refused
+Q8_3,Please indicate if you or a close friend/family member has been the victim of the following crimes: Have you ever been the victim of a violent crime?,1,Yes
+Q8_3,Please indicate if you or a close friend/family member has been the victim of the following crimes: Have you ever been the victim of a violent crime?,2,No
+Q8_3,Please indicate if you or a close friend/family member has been the victim of the following crimes: Have you ever been the victim of a violent crime?,3,Don't know
+Q8_4,Please indicate if you or a close friend/family member has been the victim of the following crimes: Have you been the victim of a violent crime in the last five years?,-1,Refused
+Q8_4,Please indicate if you or a close friend/family member has been the victim of the following crimes: Have you been the victim of a violent crime in the last five years?,1,Yes
+Q8_4,Please indicate if you or a close friend/family member has been the victim of the following crimes: Have you been the victim of a violent crime in the last five years?,2,No
+Q8_4,Please indicate if you or a close friend/family member has been the victim of the following crimes: Have you been the victim of a violent crime in the last five years?,3,Don't know
+Q8_5,Please indicate if you or a close friend/family member has been the victim of the following crimes: Has a close friend or family member ever been the victim of a property crime?,-1,Refused
+Q8_5,Please indicate if you or a close friend/family member has been the victim of the following crimes: Has a close friend or family member ever been the victim of a property crime?,1,Yes
+Q8_5,Please indicate if you or a close friend/family member has been the victim of the following crimes: Has a close friend or family member ever been the victim of a property crime?,2,No
+Q8_5,Please indicate if you or a close friend/family member has been the victim of the following crimes: Has a close friend or family member ever been the victim of a property crime?,3,Don't know
+Q8_6,Please indicate if you or a close friend/family member has been the victim of the following crimes: Has a close friend or family member ever been the victim of a violent crime?,-1,Refused
+Q8_6,Please indicate if you or a close friend/family member has been the victim of the following crimes: Has a close friend or family member ever been the victim of a violent crime?,1,Yes
+Q8_6,Please indicate if you or a close friend/family member has been the victim of the following crimes: Has a close friend or family member ever been the victim of a violent crime?,2,No
+Q8_6,Please indicate if you or a close friend/family member has been the victim of the following crimes: Has a close friend or family member ever been the victim of a violent crime?,3,Don't know
+Q8B,"About how many close friends do you have these days (including family members you would count as close friends)? These are people you feel at ease with, can talk to about private matters, or call on for help",-1,Refused
+Q8B,"About how many close friends do you have these days (including family members you would count as close friends)? These are people you feel at ease with, can talk to about private matters, or call on for help",1,Zero
+Q8B,"About how many close friends do you have these days (including family members you would count as close friends)? These are people you feel at ease with, can talk to about private matters, or call on for help",2,One
+Q8B,"About how many close friends do you have these days (including family members you would count as close friends)? These are people you feel at ease with, can talk to about private matters, or call on for help",3,Two
+Q8B,"About how many close friends do you have these days (including family members you would count as close friends)? These are people you feel at ease with, can talk to about private matters, or call on for help",4,Three
+Q8B,"About how many close friends do you have these days (including family members you would count as close friends)? These are people you feel at ease with, can talk to about private matters, or call on for help",5,Four
+Q8B,"About how many close friends do you have these days (including family members you would count as close friends)? These are people you feel at ease with, can talk to about private matters, or call on for help",6,Five
+Q8B,"About how many close friends do you have these days (including family members you would count as close friends)? These are people you feel at ease with, can talk to about private matters, or call on for help",7,Six or more
+Q9,How long have you lived in this neighborhood?,-1,Refused
+Q9,How long have you lived in this neighborhood?,1,Less than a year
+Q9,How long have you lived in this neighborhood?,2,One to two years
+Q9,How long have you lived in this neighborhood?,3,Three to five years
+Q9,How long have you lived in this neighborhood?,4,Six to 10 years
+Q9,How long have you lived in this neighborhood?,5,11 to 20 years
+Q9,How long have you lived in this neighborhood?,6,21 to 30 years
+Q9,How long have you lived in this neighborhood?,7,More than 30 years
+Q10_1,How often do you read a local newspaper from your home town (in print or the digital version)?,-1,Refused
+Q10_1,How often do you read a local newspaper from your home town (in print or the digital version)?,1,Every day
+Q10_1,How often do you read a local newspaper from your home town (in print or the digital version)?,2,Most days
+Q10_1,How often do you read a local newspaper from your home town (in print or the digital version)?,3,Once or twice a week
+Q10_1,How often do you read a local newspaper from your home town (in print or the digital version)?,4,Once or twice a month
+Q10_1,How often do you read a local newspaper from your home town (in print or the digital version)?,5,Less than once a month but at least once a year
+Q10_1,How often do you read a local newspaper from your home town (in print or the digital version)?,6,Never
+Q10_2,"How often do you read a national newspaper, such as USA Today, The Wall Street Journal, or The New York Times (in print or the digital version, app, etc.)?",-1,Refused
+Q10_2,"How often do you read a national newspaper, such as USA Today, The Wall Street Journal, or The New York Times (in print or the digital version, app, etc.)?",1,Every day
+Q10_2,"How often do you read a national newspaper, such as USA Today, The Wall Street Journal, or The New York Times (in print or the digital version, app, etc.)?",2,Most days
+Q10_2,"How often do you read a national newspaper, such as USA Today, The Wall Street Journal, or The New York Times (in print or the digital version, app, etc.)?",3,Once or twice a week
+Q10_2,"How often do you read a national newspaper, such as USA Today, The Wall Street Journal, or The New York Times (in print or the digital version, app, etc.)?",4,Once or twice a month
+Q10_2,"How often do you read a national newspaper, such as USA Today, The Wall Street Journal, or The New York Times (in print or the digital version, app, etc.)?",5,Less than once a month but at least once a year
+Q10_2,"How often do you read a national newspaper, such as USA Today, The Wall Street Journal, or The New York Times (in print or the digital version, app, etc.)?",6,Never
+Q10_3,"How often do you watch the national nightly network news on ABC, CBS, NBC, Univision, Telemundo (such as World News Tonight with David Muir, CBS Evening News with Scott Pelley)?",-1,Refused
+Q10_3,"How often do you watch the national nightly network news on ABC, CBS, NBC, Univision, Telemundo (such as World News Tonight with David Muir, CBS Evening News with Scott Pelley)?",1,Every day
+Q10_3,"How often do you watch the national nightly network news on ABC, CBS, NBC, Univision, Telemundo (such as World News Tonight with David Muir, CBS Evening News with Scott Pelley)?",2,Most days
+Q10_3,"How often do you watch the national nightly network news on ABC, CBS, NBC, Univision, Telemundo (such as World News Tonight with David Muir, CBS Evening News with Scott Pelley)?",3,Once or twice a week
+Q10_3,"How often do you watch the national nightly network news on ABC, CBS, NBC, Univision, Telemundo (such as World News Tonight with David Muir, CBS Evening News with Scott Pelley)?",4,Once or twice a month
+Q10_3,"How often do you watch the national nightly network news on ABC, CBS, NBC, Univision, Telemundo (such as World News Tonight with David Muir, CBS Evening News with Scott Pelley)?",5,Less than once a month but at least once a year
+Q10_3,"How often do you watch the national nightly network news on ABC, CBS, NBC, Univision, Telemundo (such as World News Tonight with David Muir, CBS Evening News with Scott Pelley)?",6,Never
+Q10_4,How often do you watch Fox News?,-1,Refused
+Q10_4,How often do you watch Fox News?,1,Every day
+Q10_4,How often do you watch Fox News?,2,Most days
+Q10_4,How often do you watch Fox News?,3,Once or twice a week
+Q10_4,How often do you watch Fox News?,4,Once or twice a month
+Q10_4,How often do you watch Fox News?,5,Less than once a month but at least once a year
+Q10_4,How often do you watch Fox News?,6,Never
+Q10_5,How often do you watch CNN?,-1,Refused
+Q10_5,How often do you watch CNN?,1,Every day
+Q10_5,How often do you watch CNN?,2,Most days
+Q10_5,How often do you watch CNN?,3,Once or twice a week
+Q10_5,How often do you watch CNN?,4,Once or twice a month
+Q10_5,How often do you watch CNN?,5,Less than once a month but at least once a year
+Q10_5,How often do you watch CNN?,6,Never
+Q10_6,How often do you watch MSNBC?,-1,Refused
+Q10_6,How often do you watch MSNBC?,1,Every day
+Q10_6,How often do you watch MSNBC?,2,Most days
+Q10_6,How often do you watch MSNBC?,3,Once or twice a week
+Q10_6,How often do you watch MSNBC?,4,Once or twice a month
+Q10_6,How often do you watch MSNBC?,5,Less than once a month but at least once a year
+Q10_6,How often do you watch MSNBC?,6,Never
+Q10_7,"How often do you watch other TV news shows (e.g., PBS, BBC, etc.)?",-1,Refused
+Q10_7,"How often do you watch other TV news shows (e.g., PBS, BBC, etc.)?",1,Every day
+Q10_7,"How often do you watch other TV news shows (e.g., PBS, BBC, etc.)?",2,Most days
+Q10_7,"How often do you watch other TV news shows (e.g., PBS, BBC, etc.)?",3,Once or twice a week
+Q10_7,"How often do you watch other TV news shows (e.g., PBS, BBC, etc.)?",4,Once or twice a month
+Q10_7,"How often do you watch other TV news shows (e.g., PBS, BBC, etc.)?",5,Less than once a month but at least once a year
+Q10_7,"How often do you watch other TV news shows (e.g., PBS, BBC, etc.)?",6,Never
+Q10_8,How often do you watch the local TV news to learn about your area - this comes on before the national news and then again at either 10 or 11 p.m.?,-1,Refused
+Q10_8,How often do you watch the local TV news to learn about your area - this comes on before the national news and then again at either 10 or 11 p.m.?,1,Every day
+Q10_8,How often do you watch the local TV news to learn about your area - this comes on before the national news and then again at either 10 or 11 p.m.?,2,Most days
+Q10_8,How often do you watch the local TV news to learn about your area - this comes on before the national news and then again at either 10 or 11 p.m.?,3,Once or twice a week
+Q10_8,How often do you watch the local TV news to learn about your area - this comes on before the national news and then again at either 10 or 11 p.m.?,4,Once or twice a month
+Q10_8,How often do you watch the local TV news to learn about your area - this comes on before the national news and then again at either 10 or 11 p.m.?,5,Less than once a month but at least once a year
+Q10_8,How often do you watch the local TV news to learn about your area - this comes on before the national news and then again at either 10 or 11 p.m.?,6,Never
+Q10_9,How often do you listen to a talk radio show that discusses politics?,-1,Refused
+Q10_9,How often do you listen to a talk radio show that discusses politics?,1,Every day
+Q10_9,How often do you listen to a talk radio show that discusses politics?,2,Most days
+Q10_9,How often do you listen to a talk radio show that discusses politics?,3,Once or twice a week
+Q10_9,How often do you listen to a talk radio show that discusses politics?,4,Once or twice a month
+Q10_9,How often do you listen to a talk radio show that discusses politics?,5,Less than once a month but at least once a year
+Q10_9,How often do you listen to a talk radio show that discusses politics?,6,Never
+Q10_10,How often do you read online news websites (such as Yahoo! News or Google)?,-1,Refused
+Q10_10,How often do you read online news websites (such as Yahoo! News or Google)?,1,Every day
+Q10_10,How often do you read online news websites (such as Yahoo! News or Google)?,2,Most days
+Q10_10,How often do you read online news websites (such as Yahoo! News or Google)?,3,Once or twice a week
+Q10_10,How often do you read online news websites (such as Yahoo! News or Google)?,4,Once or twice a month
+Q10_10,How often do you read online news websites (such as Yahoo! News or Google)?,5,Less than once a month but at least once a year
+Q10_10,How often do you read online news websites (such as Yahoo! News or Google)?,6,Never
+Q10_11,"How often do you get news from social media (e.g., Twitter)?",-1,Refused
+Q10_11,"How often do you get news from social media (e.g., Twitter)?",1,Every day
+Q10_11,"How often do you get news from social media (e.g., Twitter)?",2,Most days
+Q10_11,"How often do you get news from social media (e.g., Twitter)?",3,Once or twice a week
+Q10_11,"How often do you get news from social media (e.g., Twitter)?",4,Once or twice a month
+Q10_11,"How often do you get news from social media (e.g., Twitter)?",5,Less than once a month but at least once a year
+Q10_11,"How often do you get news from social media (e.g., Twitter)?",6,Never
+Q10_12,"How often do you read news magazine, such as Time or Newsweek?",-1,Refused
+Q10_12,"How often do you read news magazine, such as Time or Newsweek?",1,Every day
+Q10_12,"How often do you read news magazine, such as Time or Newsweek?",2,Most days
+Q10_12,"How often do you read news magazine, such as Time or Newsweek?",3,Once or twice a week
+Q10_12,"How often do you read news magazine, such as Time or Newsweek?",4,Once or twice a month
+Q10_12,"How often do you read news magazine, such as Time or Newsweek?",5,Less than once a month but at least once a year
+Q10_12,"How often do you read news magazine, such as Time or Newsweek?",6,Never
+Q11_1,"How often do you watch the following types of television shows and movies? Watch daytime talk shows, such as The Ellen DeGeneres Show or The View",-1,Refused
+Q11_1,"How often do you watch the following types of television shows and movies? Watch daytime talk shows, such as The Ellen DeGeneres Show or The View",1,Never
+Q11_1,"How often do you watch the following types of television shows and movies? Watch daytime talk shows, such as The Ellen DeGeneres Show or The View",2,
+Q11_1,"How often do you watch the following types of television shows and movies? Watch daytime talk shows, such as The Ellen DeGeneres Show or The View",3,
+Q11_1,"How often do you watch the following types of television shows and movies? Watch daytime talk shows, such as The Ellen DeGeneres Show or The View",4,
+Q11_1,"How often do you watch the following types of television shows and movies? Watch daytime talk shows, such as The Ellen DeGeneres Show or The View",5,
+Q11_1,"How often do you watch the following types of television shows and movies? Watch daytime talk shows, such as The Ellen DeGeneres Show or The View",6,
+Q11_1,"How often do you watch the following types of television shows and movies? Watch daytime talk shows, such as The Ellen DeGeneres Show or The View",7,Very often
+Q11_2,"How often do you watch the following types of television shows and movies? Watch comedy news shows, such as The Daily Show with Jon Stewart",-1,Refused
+Q11_2,"How often do you watch the following types of television shows and movies? Watch comedy news shows, such as The Daily Show with Jon Stewart",1,Never
+Q11_2,"How often do you watch the following types of television shows and movies? Watch comedy news shows, such as The Daily Show with Jon Stewart",2,
+Q11_2,"How often do you watch the following types of television shows and movies? Watch comedy news shows, such as The Daily Show with Jon Stewart",3,
+Q11_2,"How often do you watch the following types of television shows and movies? Watch comedy news shows, such as The Daily Show with Jon Stewart",4,
+Q11_2,"How often do you watch the following types of television shows and movies? Watch comedy news shows, such as The Daily Show with Jon Stewart",5,
+Q11_2,"How often do you watch the following types of television shows and movies? Watch comedy news shows, such as The Daily Show with Jon Stewart",6,
+Q11_2,"How often do you watch the following types of television shows and movies? Watch comedy news shows, such as The Daily Show with Jon Stewart",7,Very often
+Q11_3,"How often do you watch the following types of television shows and movies? TV crime dramas (e.g., CSI, Law & Order: SVU)",-1,Refused
+Q11_3,"How often do you watch the following types of television shows and movies? TV crime dramas (e.g., CSI, Law & Order: SVU)",1,Never
+Q11_3,"How often do you watch the following types of television shows and movies? TV crime dramas (e.g., CSI, Law & Order: SVU)",2,
+Q11_3,"How often do you watch the following types of television shows and movies? TV crime dramas (e.g., CSI, Law & Order: SVU)",3,
+Q11_3,"How often do you watch the following types of television shows and movies? TV crime dramas (e.g., CSI, Law & Order: SVU)",4,
+Q11_3,"How often do you watch the following types of television shows and movies? TV crime dramas (e.g., CSI, Law & Order: SVU)",5,
+Q11_3,"How often do you watch the following types of television shows and movies? TV crime dramas (e.g., CSI, Law & Order: SVU)",6,
+Q11_3,"How often do you watch the following types of television shows and movies? TV crime dramas (e.g., CSI, Law & Order: SVU)",7,Very often
+Q11_4,"How often do you watch the following types of television shows and movies? TV true crime (e.g., Dateline NBC, 20/20)",-1,Refused
+Q11_4,"How often do you watch the following types of television shows and movies? TV true crime (e.g., Dateline NBC, 20/20)",1,Never
+Q11_4,"How often do you watch the following types of television shows and movies? TV true crime (e.g., Dateline NBC, 20/20)",2,
+Q11_4,"How often do you watch the following types of television shows and movies? TV true crime (e.g., Dateline NBC, 20/20)",3,
+Q11_4,"How often do you watch the following types of television shows and movies? TV true crime (e.g., Dateline NBC, 20/20)",4,
+Q11_4,"How often do you watch the following types of television shows and movies? TV true crime (e.g., Dateline NBC, 20/20)",5,
+Q11_4,"How often do you watch the following types of television shows and movies? TV true crime (e.g., Dateline NBC, 20/20)",6,
+Q11_4,"How often do you watch the following types of television shows and movies? TV true crime (e.g., Dateline NBC, 20/20)",7,Very often
+Q11_5,"How often do you watch the following types of television shows and movies? Science fiction, fantasy, superheroes, vampires, zombies movies or TV shows (e.g., Iron man, Star Trek, Hobbit, Hunger Games, The Walking Dead, Sleepy Hollow)",-1,Refused
+Q11_5,"How often do you watch the following types of television shows and movies? Science fiction, fantasy, superheroes, vampires, zombies movies or TV shows (e.g., Iron man, Star Trek, Hobbit, Hunger Games, The Walking Dead, Sleepy Hollow)",1,Never
+Q11_5,"How often do you watch the following types of television shows and movies? Science fiction, fantasy, superheroes, vampires, zombies movies or TV shows (e.g., Iron man, Star Trek, Hobbit, Hunger Games, The Walking Dead, Sleepy Hollow)",2,
+Q11_5,"How often do you watch the following types of television shows and movies? Science fiction, fantasy, superheroes, vampires, zombies movies or TV shows (e.g., Iron man, Star Trek, Hobbit, Hunger Games, The Walking Dead, Sleepy Hollow)",3,
+Q11_5,"How often do you watch the following types of television shows and movies? Science fiction, fantasy, superheroes, vampires, zombies movies or TV shows (e.g., Iron man, Star Trek, Hobbit, Hunger Games, The Walking Dead, Sleepy Hollow)",4,
+Q11_5,"How often do you watch the following types of television shows and movies? Science fiction, fantasy, superheroes, vampires, zombies movies or TV shows (e.g., Iron man, Star Trek, Hobbit, Hunger Games, The Walking Dead, Sleepy Hollow)",5,
+Q11_5,"How often do you watch the following types of television shows and movies? Science fiction, fantasy, superheroes, vampires, zombies movies or TV shows (e.g., Iron man, Star Trek, Hobbit, Hunger Games, The Walking Dead, Sleepy Hollow)",6,
+Q11_5,"How often do you watch the following types of television shows and movies? Science fiction, fantasy, superheroes, vampires, zombies movies or TV shows (e.g., Iron man, Star Trek, Hobbit, Hunger Games, The Walking Dead, Sleepy Hollow)",7,Very often
+Q11_6,"How often do you watch the following types of television shows and movies? Paranormal TV (Ghost Hunters, Finding Bigfoot, etc.)",-1,Refused
+Q11_6,"How often do you watch the following types of television shows and movies? Paranormal TV (Ghost Hunters, Finding Bigfoot, etc.)",1,Never
+Q11_6,"How often do you watch the following types of television shows and movies? Paranormal TV (Ghost Hunters, Finding Bigfoot, etc.)",2,
+Q11_6,"How often do you watch the following types of television shows and movies? Paranormal TV (Ghost Hunters, Finding Bigfoot, etc.)",3,
+Q11_6,"How often do you watch the following types of television shows and movies? Paranormal TV (Ghost Hunters, Finding Bigfoot, etc.)",4,
+Q11_6,"How often do you watch the following types of television shows and movies? Paranormal TV (Ghost Hunters, Finding Bigfoot, etc.)",5,
+Q11_6,"How often do you watch the following types of television shows and movies? Paranormal TV (Ghost Hunters, Finding Bigfoot, etc.)",6,
+Q11_6,"How often do you watch the following types of television shows and movies? Paranormal TV (Ghost Hunters, Finding Bigfoot, etc.)",7,Very often
+Q12,Thinking about the parent/guardian that had the most influence on you while you were growing up... How religious was this person while you were growing up?,-1,Refused
+Q12,Thinking about the parent/guardian that had the most influence on you while you were growing up... How religious was this person while you were growing up?,1,Not at all religious
+Q12,Thinking about the parent/guardian that had the most influence on you while you were growing up... How religious was this person while you were growing up?,2,Not too religious
+Q12,Thinking about the parent/guardian that had the most influence on you while you were growing up... How religious was this person while you were growing up?,3,Somewhat religious
+Q12,Thinking about the parent/guardian that had the most influence on you while you were growing up... How religious was this person while you were growing up?,4,Very religious
+Q12,Thinking about the parent/guardian that had the most influence on you while you were growing up... How religious was this person while you were growing up?,5,Don't know
+Q13,How would you describe this person's political views when you were growing up?,-1,Refused
+Q13,How would you describe this person's political views when you were growing up?,1,Extremely conservative
+Q13,How would you describe this person's political views when you were growing up?,2,Conservative
+Q13,How would you describe this person's political views when you were growing up?,3,Leaning conservative
+Q13,How would you describe this person's political views when you were growing up?,4,Moderate
+Q13,How would you describe this person's political views when you were growing up?,5,Leaning liberal
+Q13,How would you describe this person's political views when you were growing up?,6,Liberal
+Q13,How would you describe this person's political views when you were growing up?,7,Extremely liberal
+Q13,How would you describe this person's political views when you were growing up?,8,Don't know
+Q14_1,Please indicate your level of agreement with the following statements: People in my neighborhood can be trusted,-1,Refused
+Q14_1,Please indicate your level of agreement with the following statements: People in my neighborhood can be trusted,1,Strongly agree
+Q14_1,Please indicate your level of agreement with the following statements: People in my neighborhood can be trusted,2,Agree
+Q14_1,Please indicate your level of agreement with the following statements: People in my neighborhood can be trusted,3,Disagree
+Q14_1,Please indicate your level of agreement with the following statements: People in my neighborhood can be trusted,4,Strongly disagree
+Q14_1,Please indicate your level of agreement with the following statements: People in my neighborhood can be trusted,5,Don't know
+Q14_2,Please indicate your level of agreement with the following statements: People in my neighborhood generally get along with each other,-1,Refused
+Q14_2,Please indicate your level of agreement with the following statements: People in my neighborhood generally get along with each other,1,Strongly agree
+Q14_2,Please indicate your level of agreement with the following statements: People in my neighborhood generally get along with each other,2,Agree
+Q14_2,Please indicate your level of agreement with the following statements: People in my neighborhood generally get along with each other,3,Disagree
+Q14_2,Please indicate your level of agreement with the following statements: People in my neighborhood generally get along with each other,4,Strongly disagree
+Q14_2,Please indicate your level of agreement with the following statements: People in my neighborhood generally get along with each other,5,Don't know
+Q14_3,Please indicate your level of agreement with the following statements: I have neighbors who would help me if I had an emergency,-1,Refused
+Q14_3,Please indicate your level of agreement with the following statements: I have neighbors who would help me if I had an emergency,1,Strongly agree
+Q14_3,Please indicate your level of agreement with the following statements: I have neighbors who would help me if I had an emergency,2,Agree
+Q14_3,Please indicate your level of agreement with the following statements: I have neighbors who would help me if I had an emergency,3,Disagree
+Q14_3,Please indicate your level of agreement with the following statements: I have neighbors who would help me if I had an emergency,4,Strongly disagree
+Q14_3,Please indicate your level of agreement with the following statements: I have neighbors who would help me if I had an emergency,5,Don't know
+Q14_4,Please indicate your level of agreement with the following statements: People in my neighborhood look out for each other,-1,Refused
+Q14_4,Please indicate your level of agreement with the following statements: People in my neighborhood look out for each other,1,Strongly agree
+Q14_4,Please indicate your level of agreement with the following statements: People in my neighborhood look out for each other,2,Agree
+Q14_4,Please indicate your level of agreement with the following statements: People in my neighborhood look out for each other,3,Disagree
+Q14_4,Please indicate your level of agreement with the following statements: People in my neighborhood look out for each other,4,Strongly disagree
+Q14_4,Please indicate your level of agreement with the following statements: People in my neighborhood look out for each other,5,Don't know
+Q14_5,Please indicate your level of agreement with the following statements: I feel safe being out alone in my neighborhood during the night,-1,Refused
+Q14_5,Please indicate your level of agreement with the following statements: I feel safe being out alone in my neighborhood during the night,1,Strongly agree
+Q14_5,Please indicate your level of agreement with the following statements: I feel safe being out alone in my neighborhood during the night,2,Agree
+Q14_5,Please indicate your level of agreement with the following statements: I feel safe being out alone in my neighborhood during the night,3,Disagree
+Q14_5,Please indicate your level of agreement with the following statements: I feel safe being out alone in my neighborhood during the night,4,Strongly disagree
+Q14_5,Please indicate your level of agreement with the following statements: I feel safe being out alone in my neighborhood during the night,5,Don't know
+Q14_6,"Please indicate your level of agreement with the following statements: People often get mugged, robbed or attacked in my neighborhood",-1,Refused
+Q14_6,"Please indicate your level of agreement with the following statements: People often get mugged, robbed or attacked in my neighborhood",1,Strongly agree
+Q14_6,"Please indicate your level of agreement with the following statements: People often get mugged, robbed or attacked in my neighborhood",2,Agree
+Q14_6,"Please indicate your level of agreement with the following statements: People often get mugged, robbed or attacked in my neighborhood",3,Disagree
+Q14_6,"Please indicate your level of agreement with the following statements: People often get mugged, robbed or attacked in my neighborhood",4,Strongly disagree
+Q14_6,"Please indicate your level of agreement with the following statements: People often get mugged, robbed or attacked in my neighborhood",5,Don't know
+Q14_7,Please indicate your level of agreement with the following statements: People sell or use drugs in my neighborhood,-1,Refused
+Q14_7,Please indicate your level of agreement with the following statements: People sell or use drugs in my neighborhood,1,Strongly agree
+Q14_7,Please indicate your level of agreement with the following statements: People sell or use drugs in my neighborhood,2,Agree
+Q14_7,Please indicate your level of agreement with the following statements: People sell or use drugs in my neighborhood,3,Disagree
+Q14_7,Please indicate your level of agreement with the following statements: People sell or use drugs in my neighborhood,4,Strongly disagree
+Q14_7,Please indicate your level of agreement with the following statements: People sell or use drugs in my neighborhood,5,Don't know
+Q15_1,"To what extent do you agree or disagree with the following statements? All things considered, I'm satisfied with my life as a whole these days",-1,Refused
+Q15_1,"To what extent do you agree or disagree with the following statements? All things considered, I'm satisfied with my life as a whole these days",1,Strongly agree
+Q15_1,"To what extent do you agree or disagree with the following statements? All things considered, I'm satisfied with my life as a whole these days",2,Agree
+Q15_1,"To what extent do you agree or disagree with the following statements? All things considered, I'm satisfied with my life as a whole these days",3,Disagree
+Q15_1,"To what extent do you agree or disagree with the following statements? All things considered, I'm satisfied with my life as a whole these days",4,Strongly disagree
+Q15_2,"To what extent do you agree or disagree with the following statements? All things considered, I'm satisfied with my financial situation these days",-1,Refused
+Q15_2,"To what extent do you agree or disagree with the following statements? All things considered, I'm satisfied with my financial situation these days",1,Strongly agree
+Q15_2,"To what extent do you agree or disagree with the following statements? All things considered, I'm satisfied with my financial situation these days",2,Agree
+Q15_2,"To what extent do you agree or disagree with the following statements? All things considered, I'm satisfied with my financial situation these days",3,Disagree
+Q15_2,"To what extent do you agree or disagree with the following statements? All things considered, I'm satisfied with my financial situation these days",4,Strongly disagree
+Q15_3,"To what extent do you agree or disagree with the following statements? All things considered, I'm satisfied with my family life these days",-1,Refused
+Q15_3,"To what extent do you agree or disagree with the following statements? All things considered, I'm satisfied with my family life these days",1,Strongly agree
+Q15_3,"To what extent do you agree or disagree with the following statements? All things considered, I'm satisfied with my family life these days",2,Agree
+Q15_3,"To what extent do you agree or disagree with the following statements? All things considered, I'm satisfied with my family life these days",3,Disagree
+Q15_3,"To what extent do you agree or disagree with the following statements? All things considered, I'm satisfied with my family life these days",4,Strongly disagree
+Q15_4,"To what extent do you agree or disagree with the following statements? All things considered, I'm satisfied with my social life these days",-1,Refused
+Q15_4,"To what extent do you agree or disagree with the following statements? All things considered, I'm satisfied with my social life these days",1,Strongly agree
+Q15_4,"To what extent do you agree or disagree with the following statements? All things considered, I'm satisfied with my social life these days",2,Agree
+Q15_4,"To what extent do you agree or disagree with the following statements? All things considered, I'm satisfied with my social life these days",3,Disagree
+Q15_4,"To what extent do you agree or disagree with the following statements? All things considered, I'm satisfied with my social life these days",4,Strongly disagree
+Q15_5,"To what extent do you agree or disagree with the following statements? All things considered, I'm satisfied with my mental health these days",-1,Refused
+Q15_5,"To what extent do you agree or disagree with the following statements? All things considered, I'm satisfied with my mental health these days",1,Strongly agree
+Q15_5,"To what extent do you agree or disagree with the following statements? All things considered, I'm satisfied with my mental health these days",2,Agree
+Q15_5,"To what extent do you agree or disagree with the following statements? All things considered, I'm satisfied with my mental health these days",3,Disagree
+Q15_5,"To what extent do you agree or disagree with the following statements? All things considered, I'm satisfied with my mental health these days",4,Strongly disagree
+Q15_6,"To what extent do you agree or disagree with the following statements? All things considered, I'm satisfied with my physical health these days",-1,Refused
+Q15_6,"To what extent do you agree or disagree with the following statements? All things considered, I'm satisfied with my physical health these days",1,Strongly agree
+Q15_6,"To what extent do you agree or disagree with the following statements? All things considered, I'm satisfied with my physical health these days",2,Agree
+Q15_6,"To what extent do you agree or disagree with the following statements? All things considered, I'm satisfied with my physical health these days",3,Disagree
+Q15_6,"To what extent do you agree or disagree with the following statements? All things considered, I'm satisfied with my physical health these days",4,Strongly disagree
+Q15_7,"To what extent do you agree or disagree with the following statements? All things considered, I'm satisfied with my physical appearance these days",-1,Refused
+Q15_7,"To what extent do you agree or disagree with the following statements? All things considered, I'm satisfied with my physical appearance these days",1,Strongly agree
+Q15_7,"To what extent do you agree or disagree with the following statements? All things considered, I'm satisfied with my physical appearance these days",2,Agree
+Q15_7,"To what extent do you agree or disagree with the following statements? All things considered, I'm satisfied with my physical appearance these days",3,Disagree
+Q15_7,"To what extent do you agree or disagree with the following statements? All things considered, I'm satisfied with my physical appearance these days",4,Strongly disagree
+Q16_1,"During the past two weeks, how often have you experienced the following? Feeling nervous, anxious or on edge",-1,Refused
+Q16_1,"During the past two weeks, how often have you experienced the following? Feeling nervous, anxious or on edge",1,Nearly every day
+Q16_1,"During the past two weeks, how often have you experienced the following? Feeling nervous, anxious or on edge",2,More than half the days
+Q16_1,"During the past two weeks, how often have you experienced the following? Feeling nervous, anxious or on edge",3,Sometimes
+Q16_1,"During the past two weeks, how often have you experienced the following? Feeling nervous, anxious or on edge",4,Not at all
+Q16_2,"During the past two weeks, how often have you experienced the following? Not being able to stop or control worrying",-1,Refused
+Q16_2,"During the past two weeks, how often have you experienced the following? Not being able to stop or control worrying",1,Nearly every day
+Q16_2,"During the past two weeks, how often have you experienced the following? Not being able to stop or control worrying",2,More than half the days
+Q16_2,"During the past two weeks, how often have you experienced the following? Not being able to stop or control worrying",3,Sometimes
+Q16_2,"During the past two weeks, how often have you experienced the following? Not being able to stop or control worrying",4,Not at all
+Q16_3,"During the past two weeks, how often have you experienced the following? Worrying too much about different things",-1,Refused
+Q16_3,"During the past two weeks, how often have you experienced the following? Worrying too much about different things",1,Nearly every day
+Q16_3,"During the past two weeks, how often have you experienced the following? Worrying too much about different things",2,More than half the days
+Q16_3,"During the past two weeks, how often have you experienced the following? Worrying too much about different things",3,Sometimes
+Q16_3,"During the past two weeks, how often have you experienced the following? Worrying too much about different things",4,Not at all
+Q16_4,"During the past two weeks, how often have you experienced the following? Trouble sleeping",-1,Refused
+Q16_4,"During the past two weeks, how often have you experienced the following? Trouble sleeping",1,Nearly every day
+Q16_4,"During the past two weeks, how often have you experienced the following? Trouble sleeping",2,More than half the days
+Q16_4,"During the past two weeks, how often have you experienced the following? Trouble sleeping",3,Sometimes
+Q16_4,"During the past two weeks, how often have you experienced the following? Trouble sleeping",4,Not at all
+Q16_5,"During the past two weeks, how often have you experienced the following? Being so restless that it is hard to relax",-1,Refused
+Q16_5,"During the past two weeks, how often have you experienced the following? Being so restless that it is hard to relax",1,Nearly every day
+Q16_5,"During the past two weeks, how often have you experienced the following? Being so restless that it is hard to relax",2,More than half the days
+Q16_5,"During the past two weeks, how often have you experienced the following? Being so restless that it is hard to relax",3,Sometimes
+Q16_5,"During the past two weeks, how often have you experienced the following? Being so restless that it is hard to relax",4,Not at all
+Q16_6,"During the past two weeks, how often have you experienced the following? Becoming easily annoyed or irritable",-1,Refused
+Q16_6,"During the past two weeks, how often have you experienced the following? Becoming easily annoyed or irritable",1,Nearly every day
+Q16_6,"During the past two weeks, how often have you experienced the following? Becoming easily annoyed or irritable",2,More than half the days
+Q16_6,"During the past two weeks, how often have you experienced the following? Becoming easily annoyed or irritable",3,Sometimes
+Q16_6,"During the past two weeks, how often have you experienced the following? Becoming easily annoyed or irritable",4,Not at all
+Q16_7,"During the past two weeks, how often have you experienced the following? Feeling afraid as if something awful might happen",-1,Refused
+Q16_7,"During the past two weeks, how often have you experienced the following? Feeling afraid as if something awful might happen",1,Nearly every day
+Q16_7,"During the past two weeks, how often have you experienced the following? Feeling afraid as if something awful might happen",2,More than half the days
+Q16_7,"During the past two weeks, how often have you experienced the following? Feeling afraid as if something awful might happen",3,Sometimes
+Q16_7,"During the past two weeks, how often have you experienced the following? Feeling afraid as if something awful might happen",4,Not at all
+Q17,How afraid are you of being the victim of violent crime?,-1,Refused
+Q17,How afraid are you of being the victim of violent crime?,1,Very afraid
+Q17,How afraid are you of being the victim of violent crime?,2,Afraid
+Q17,How afraid are you of being the victim of violent crime?,3,Somewhat afraid
+Q17,How afraid are you of being the victim of violent crime?,4,Not at all
+Q18,How afraid are you of being the victim of property crime?,-1,Refused
+Q18,How afraid are you of being the victim of property crime?,1,Very afraid
+Q18,How afraid are you of being the victim of property crime?,2,Afraid
+Q18,How afraid are you of being the victim of property crime?,3,Somewhat afraid
+Q18,How afraid are you of being the victim of property crime?,4,Not at all
+Q19,How afraid are you of being judged by others?,-1,Refused
+Q19,How afraid are you of being judged by others?,1,Very afraid
+Q19,How afraid are you of being judged by others?,2,Afraid
+Q19,How afraid are you of being judged by others?,3,Somewhat afraid
+Q19,How afraid are you of being judged by others?,4,Not at all
+Q21_1,How afraid are you that others judge you because of your age?,-1,Refused
+Q21_1,How afraid are you that others judge you because of your age?,1,Very afraid
+Q21_1,How afraid are you that others judge you because of your age?,2,Afraid
+Q21_1,How afraid are you that others judge you because of your age?,3,Slightly afraid
+Q21_1,How afraid are you that others judge you because of your age?,4,Not afraid
+Q21_2,How afraid are you that others judge you because of your gender?,-1,Refused
+Q21_2,How afraid are you that others judge you because of your gender?,1,Very afraid
+Q21_2,How afraid are you that others judge you because of your gender?,2,Afraid
+Q21_2,How afraid are you that others judge you because of your gender?,3,Slightly afraid
+Q21_2,How afraid are you that others judge you because of your gender?,4,Not afraid
+Q21_3,How afraid are you that others judge you because of the way you dress?,-1,Refused
+Q21_3,How afraid are you that others judge you because of the way you dress?,1,Very afraid
+Q21_3,How afraid are you that others judge you because of the way you dress?,2,Afraid
+Q21_3,How afraid are you that others judge you because of the way you dress?,3,Slightly afraid
+Q21_3,How afraid are you that others judge you because of the way you dress?,4,Not afraid
+Q21_4,How afraid are you that others judge you because of your weight?,-1,Refused
+Q21_4,How afraid are you that others judge you because of your weight?,1,Very afraid
+Q21_4,How afraid are you that others judge you because of your weight?,2,Afraid
+Q21_4,How afraid are you that others judge you because of your weight?,3,Slightly afraid
+Q21_4,How afraid are you that others judge you because of your weight?,4,Not afraid
+Q21_5,How afraid are you that others judge you because of your race/ethnicity?,-1,Refused
+Q21_5,How afraid are you that others judge you because of your race/ethnicity?,1,Very afraid
+Q21_5,How afraid are you that others judge you because of your race/ethnicity?,2,Afraid
+Q21_5,How afraid are you that others judge you because of your race/ethnicity?,3,Slightly afraid
+Q21_5,How afraid are you that others judge you because of your race/ethnicity?,4,Not afraid
+Q21_6,How afraid are you that others judge you because of your appearance?,-1,Refused
+Q21_6,How afraid are you that others judge you because of your appearance?,1,Very afraid
+Q21_6,How afraid are you that others judge you because of your appearance?,2,Afraid
+Q21_6,How afraid are you that others judge you because of your appearance?,3,Slightly afraid
+Q21_6,How afraid are you that others judge you because of your appearance?,4,Not afraid
+Q22_1,How afraid are you of romantic rejection?,-1,Refused
+Q22_1,How afraid are you of romantic rejection?,1,Very afraid
+Q22_1,How afraid are you of romantic rejection?,2,Afraid
+Q22_1,How afraid are you of romantic rejection?,3,Slightly afraid
+Q22_1,How afraid are you of romantic rejection?,4,Not afraid
+Q22_2,How afraid are you of dying alone?,-1,Refused
+Q22_2,How afraid are you of dying alone?,1,Very afraid
+Q22_2,How afraid are you of dying alone?,2,Afraid
+Q22_2,How afraid are you of dying alone?,3,Slightly afraid
+Q22_2,How afraid are you of dying alone?,4,Not afraid
+Q22_3,How afraid are you of being laughed at?,-1,Refused
+Q22_3,How afraid are you of being laughed at?,1,Very afraid
+Q22_3,How afraid are you of being laughed at?,2,Afraid
+Q22_3,How afraid are you of being laughed at?,3,Slightly afraid
+Q22_3,How afraid are you of being laughed at?,4,Not afraid
+Q22_4,How afraid are you of not being taken seriously?,-1,Refused
+Q22_4,How afraid are you of not being taken seriously?,1,Very afraid
+Q22_4,How afraid are you of not being taken seriously?,2,Afraid
+Q22_4,How afraid are you of not being taken seriously?,3,Slightly afraid
+Q22_4,How afraid are you of not being taken seriously?,4,Not afraid
+Q22_5,How afraid are you of talking to strangers?,-1,Refused
+Q22_5,How afraid are you of talking to strangers?,1,Very afraid
+Q22_5,How afraid are you of talking to strangers?,2,Afraid
+Q22_5,How afraid are you of talking to strangers?,3,Slightly afraid
+Q22_5,How afraid are you of talking to strangers?,4,Not afraid
+Q22_6,How afraid are you of expressing your opinion?,-1,Refused
+Q22_6,How afraid are you of expressing your opinion?,1,Very afraid
+Q22_6,How afraid are you of expressing your opinion?,2,Afraid
+Q22_6,How afraid are you of expressing your opinion?,3,Slightly afraid
+Q22_6,How afraid are you of expressing your opinion?,4,Not afraid
+Q22_7,How afraid are you of others talking about you behind your back?,-1,Refused
+Q22_7,How afraid are you of others talking about you behind your back?,1,Very afraid
+Q22_7,How afraid are you of others talking about you behind your back?,2,Afraid
+Q22_7,How afraid are you of others talking about you behind your back?,3,Slightly afraid
+Q22_7,How afraid are you of others talking about you behind your back?,4,Not afraid
+Q22_8,How afraid are you of walking alone at night?,-1,Refused
+Q22_8,How afraid are you of walking alone at night?,1,Very afraid
+Q22_8,How afraid are you of walking alone at night?,2,Afraid
+Q22_8,How afraid are you of walking alone at night?,3,Slightly afraid
+Q22_8,How afraid are you of walking alone at night?,4,Not afraid
+Q23_2,How afraid are you of the following environmental issues impacting your life? Pollutions of rivers and streams,-1,Refused
+Q23_2,How afraid are you of the following environmental issues impacting your life? Pollutions of rivers and streams,1,Very afraid
+Q23_2,How afraid are you of the following environmental issues impacting your life? Pollutions of rivers and streams,2,Afraid
+Q23_2,How afraid are you of the following environmental issues impacting your life? Pollutions of rivers and streams,3,Slightly afraid
+Q23_2,How afraid are you of the following environmental issues impacting your life? Pollutions of rivers and streams,4,Not afraid
+Q23_4,How afraid are you of the following environmental issues impacting your life? Overpopulation in the world,-1,Refused
+Q23_4,How afraid are you of the following environmental issues impacting your life? Overpopulation in the world,1,Very afraid
+Q23_4,How afraid are you of the following environmental issues impacting your life? Overpopulation in the world,2,Afraid
+Q23_4,How afraid are you of the following environmental issues impacting your life? Overpopulation in the world,3,Slightly afraid
+Q23_4,How afraid are you of the following environmental issues impacting your life? Overpopulation in the world,4,Not afraid
+Q23_8,How afraid are you of the following environmental issues impacting your life? Global warming and climate change,-1,Refused
+Q23_8,How afraid are you of the following environmental issues impacting your life? Global warming and climate change,1,Very afraid
+Q23_8,How afraid are you of the following environmental issues impacting your life? Global warming and climate change,2,Afraid
+Q23_8,How afraid are you of the following environmental issues impacting your life? Global warming and climate change,3,Slightly afraid
+Q23_8,How afraid are you of the following environmental issues impacting your life? Global warming and climate change,4,Not afraid
+Q24_1,Please indicate your level of agreement with the following statements: It is safe to travel to Africa,-1,Refused
+Q24_1,Please indicate your level of agreement with the following statements: It is safe to travel to Africa,1,Strongly agree
+Q24_1,Please indicate your level of agreement with the following statements: It is safe to travel to Africa,2,Agree
+Q24_1,Please indicate your level of agreement with the following statements: It is safe to travel to Africa,3,Disagree
+Q24_1,Please indicate your level of agreement with the following statements: It is safe to travel to Africa,4,Strongly disagree
+Q24_2,"Please indicate your level of agreement with the following statements: If I were to visit Africa, I would fear wild animals",-1,Refused
+Q24_2,"Please indicate your level of agreement with the following statements: If I were to visit Africa, I would fear wild animals",1,Strongly agree
+Q24_2,"Please indicate your level of agreement with the following statements: If I were to visit Africa, I would fear wild animals",2,Agree
+Q24_2,"Please indicate your level of agreement with the following statements: If I were to visit Africa, I would fear wild animals",3,Disagree
+Q24_2,"Please indicate your level of agreement with the following statements: If I were to visit Africa, I would fear wild animals",4,Strongly disagree
+Q24_3,"Please indicate your level of agreement with the following statements: If I were to visit Africa, I would fear catching disease",-1,Refused
+Q24_3,"Please indicate your level of agreement with the following statements: If I were to visit Africa, I would fear catching disease",1,Strongly agree
+Q24_3,"Please indicate your level of agreement with the following statements: If I were to visit Africa, I would fear catching disease",2,Agree
+Q24_3,"Please indicate your level of agreement with the following statements: If I were to visit Africa, I would fear catching disease",3,Disagree
+Q24_3,"Please indicate your level of agreement with the following statements: If I were to visit Africa, I would fear catching disease",4,Strongly disagree
+Q24_4,"Please indicate your level of agreement with the following statements: If I were to visit Africa, I would fear experiencing violence",-1,Refused
+Q24_4,"Please indicate your level of agreement with the following statements: If I were to visit Africa, I would fear experiencing violence",1,Strongly agree
+Q24_4,"Please indicate your level of agreement with the following statements: If I were to visit Africa, I would fear experiencing violence",2,Agree
+Q24_4,"Please indicate your level of agreement with the following statements: If I were to visit Africa, I would fear experiencing violence",3,Disagree
+Q24_4,"Please indicate your level of agreement with the following statements: If I were to visit Africa, I would fear experiencing violence",4,Strongly disagree
+Q24_5,Please indicate your level of agreement with the following statements: Charities improve African living conditions,-1,Refused
+Q24_5,Please indicate your level of agreement with the following statements: Charities improve African living conditions,1,Strongly agree
+Q24_5,Please indicate your level of agreement with the following statements: Charities improve African living conditions,2,Agree
+Q24_5,Please indicate your level of agreement with the following statements: Charities improve African living conditions,3,Disagree
+Q24_5,Please indicate your level of agreement with the following statements: Charities improve African living conditions,4,Strongly disagree
+Q24_6,Please indicate your level of agreement with the following statements: Governments improve African living conditions,-1,Refused
+Q24_6,Please indicate your level of agreement with the following statements: Governments improve African living conditions,1,Strongly agree
+Q24_6,Please indicate your level of agreement with the following statements: Governments improve African living conditions,2,Agree
+Q24_6,Please indicate your level of agreement with the following statements: Governments improve African living conditions,3,Disagree
+Q24_6,Please indicate your level of agreement with the following statements: Governments improve African living conditions,4,Strongly disagree
+Q24_7,Please indicate your level of agreement with the following statements: Private businesses improve African living conditions,-1,Refused
+Q24_7,Please indicate your level of agreement with the following statements: Private businesses improve African living conditions,1,Strongly agree
+Q24_7,Please indicate your level of agreement with the following statements: Private businesses improve African living conditions,2,Agree
+Q24_7,Please indicate your level of agreement with the following statements: Private businesses improve African living conditions,3,Disagree
+Q24_7,Please indicate your level of agreement with the following statements: Private businesses improve African living conditions,4,Strongly disagree
+Q24_8,Please indicate your level of agreement with the following statements: Doing business in Africa requires bribes,-1,Refused
+Q24_8,Please indicate your level of agreement with the following statements: Doing business in Africa requires bribes,1,Strongly agree
+Q24_8,Please indicate your level of agreement with the following statements: Doing business in Africa requires bribes,2,Agree
+Q24_8,Please indicate your level of agreement with the following statements: Doing business in Africa requires bribes,3,Disagree
+Q24_8,Please indicate your level of agreement with the following statements: Doing business in Africa requires bribes,4,Strongly disagree
+Q24_9,Please indicate your level of agreement with the following statements: The United States should accept more refugees from Africa,-1,Refused
+Q24_9,Please indicate your level of agreement with the following statements: The United States should accept more refugees from Africa,1,Strongly agree
+Q24_9,Please indicate your level of agreement with the following statements: The United States should accept more refugees from Africa,2,Agree
+Q24_9,Please indicate your level of agreement with the following statements: The United States should accept more refugees from Africa,3,Disagree
+Q24_9,Please indicate your level of agreement with the following statements: The United States should accept more refugees from Africa,4,Strongly disagree
+Q24_10,Please indicate your level of agreement with the following statements: I would support the resettling of African refugees in my community,-1,Refused
+Q24_10,Please indicate your level of agreement with the following statements: I would support the resettling of African refugees in my community,1,Strongly agree
+Q24_10,Please indicate your level of agreement with the following statements: I would support the resettling of African refugees in my community,2,Agree
+Q24_10,Please indicate your level of agreement with the following statements: I would support the resettling of African refugees in my community,3,Disagree
+Q24_10,Please indicate your level of agreement with the following statements: I would support the resettling of African refugees in my community,4,Strongly disagree
+Q25_1,"We'd like to know about your involvement in your community. For each activity, we'd like to know whether you did this activity at all in the past 12 months, and if you did, how many times you've done this in the past 12 months? Attended an event at a public place (for example, a concert, movie, lecture, sporting or museum event)",-1,Refused
+Q25_1,"We'd like to know about your involvement in your community. For each activity, we'd like to know whether you did this activity at all in the past 12 months, and if you did, how many times you've done this in the past 12 months? Attended an event at a public place (for example, a concert, movie, lecture, sporting or museum event)",1,Never
+Q25_1,"We'd like to know about your involvement in your community. For each activity, we'd like to know whether you did this activity at all in the past 12 months, and if you did, how many times you've done this in the past 12 months? Attended an event at a public place (for example, a concert, movie, lecture, sporting or museum event)",2,Once
+Q25_1,"We'd like to know about your involvement in your community. For each activity, we'd like to know whether you did this activity at all in the past 12 months, and if you did, how many times you've done this in the past 12 months? Attended an event at a public place (for example, a concert, movie, lecture, sporting or museum event)",3,A few times
+Q25_1,"We'd like to know about your involvement in your community. For each activity, we'd like to know whether you did this activity at all in the past 12 months, and if you did, how many times you've done this in the past 12 months? Attended an event at a public place (for example, a concert, movie, lecture, sporting or museum event)",4,Two to four times
+Q25_1,"We'd like to know about your involvement in your community. For each activity, we'd like to know whether you did this activity at all in the past 12 months, and if you did, how many times you've done this in the past 12 months? Attended an event at a public place (for example, a concert, movie, lecture, sporting or museum event)",5,Five to nine times
+Q25_1,"We'd like to know about your involvement in your community. For each activity, we'd like to know whether you did this activity at all in the past 12 months, and if you did, how many times you've done this in the past 12 months? Attended an event at a public place (for example, a concert, movie, lecture, sporting or museum event)",6,About once a month
+Q25_1,"We'd like to know about your involvement in your community. For each activity, we'd like to know whether you did this activity at all in the past 12 months, and if you did, how many times you've done this in the past 12 months? Attended an event at a public place (for example, a concert, movie, lecture, sporting or museum event)",7,Twice a month
+Q25_1,"We'd like to know about your involvement in your community. For each activity, we'd like to know whether you did this activity at all in the past 12 months, and if you did, how many times you've done this in the past 12 months? Attended an event at a public place (for example, a concert, movie, lecture, sporting or museum event)",8,About once a week
+Q25_1,"We'd like to know about your involvement in your community. For each activity, we'd like to know whether you did this activity at all in the past 12 months, and if you did, how many times you've done this in the past 12 months? Attended an event at a public place (for example, a concert, movie, lecture, sporting or museum event)",9,More than once a week
+Q25_2,"We'd like to know about your involvement in your community. For each activity, we'd like to know whether you did this activity at all in the past 12 months, and if you did, how many times you've done this in the past 12 months? Attended any public meeting in which there was discussion of local or school affairs",-1,Refused
+Q25_2,"We'd like to know about your involvement in your community. For each activity, we'd like to know whether you did this activity at all in the past 12 months, and if you did, how many times you've done this in the past 12 months? Attended any public meeting in which there was discussion of local or school affairs",1,Never
+Q25_2,"We'd like to know about your involvement in your community. For each activity, we'd like to know whether you did this activity at all in the past 12 months, and if you did, how many times you've done this in the past 12 months? Attended any public meeting in which there was discussion of local or school affairs",2,Once
+Q25_2,"We'd like to know about your involvement in your community. For each activity, we'd like to know whether you did this activity at all in the past 12 months, and if you did, how many times you've done this in the past 12 months? Attended any public meeting in which there was discussion of local or school affairs",3,A few times
+Q25_2,"We'd like to know about your involvement in your community. For each activity, we'd like to know whether you did this activity at all in the past 12 months, and if you did, how many times you've done this in the past 12 months? Attended any public meeting in which there was discussion of local or school affairs",4,Two to four times
+Q25_2,"We'd like to know about your involvement in your community. For each activity, we'd like to know whether you did this activity at all in the past 12 months, and if you did, how many times you've done this in the past 12 months? Attended any public meeting in which there was discussion of local or school affairs",5,Five to nine times
+Q25_2,"We'd like to know about your involvement in your community. For each activity, we'd like to know whether you did this activity at all in the past 12 months, and if you did, how many times you've done this in the past 12 months? Attended any public meeting in which there was discussion of local or school affairs",6,About once a month
+Q25_2,"We'd like to know about your involvement in your community. For each activity, we'd like to know whether you did this activity at all in the past 12 months, and if you did, how many times you've done this in the past 12 months? Attended any public meeting in which there was discussion of local or school affairs",7,Twice a month
+Q25_2,"We'd like to know about your involvement in your community. For each activity, we'd like to know whether you did this activity at all in the past 12 months, and if you did, how many times you've done this in the past 12 months? Attended any public meeting in which there was discussion of local or school affairs",8,About once a week
+Q25_2,"We'd like to know about your involvement in your community. For each activity, we'd like to know whether you did this activity at all in the past 12 months, and if you did, how many times you've done this in the past 12 months? Attended any public meeting in which there was discussion of local or school affairs",9,More than once a week
+Q25_3,"We'd like to know about your involvement in your community. For each activity, we'd like to know whether you did this activity at all in the past 12 months, and if you did, how many times you've done this in the past 12 months? Attended any club or organizational meeting",-1,Refused
+Q25_3,"We'd like to know about your involvement in your community. For each activity, we'd like to know whether you did this activity at all in the past 12 months, and if you did, how many times you've done this in the past 12 months? Attended any club or organizational meeting",1,Never
+Q25_3,"We'd like to know about your involvement in your community. For each activity, we'd like to know whether you did this activity at all in the past 12 months, and if you did, how many times you've done this in the past 12 months? Attended any club or organizational meeting",2,Once
+Q25_3,"We'd like to know about your involvement in your community. For each activity, we'd like to know whether you did this activity at all in the past 12 months, and if you did, how many times you've done this in the past 12 months? Attended any club or organizational meeting",3,A few times
+Q25_3,"We'd like to know about your involvement in your community. For each activity, we'd like to know whether you did this activity at all in the past 12 months, and if you did, how many times you've done this in the past 12 months? Attended any club or organizational meeting",4,Two to four times
+Q25_3,"We'd like to know about your involvement in your community. For each activity, we'd like to know whether you did this activity at all in the past 12 months, and if you did, how many times you've done this in the past 12 months? Attended any club or organizational meeting",5,Five to nine times
+Q25_3,"We'd like to know about your involvement in your community. For each activity, we'd like to know whether you did this activity at all in the past 12 months, and if you did, how many times you've done this in the past 12 months? Attended any club or organizational meeting",6,About once a month
+Q25_3,"We'd like to know about your involvement in your community. For each activity, we'd like to know whether you did this activity at all in the past 12 months, and if you did, how many times you've done this in the past 12 months? Attended any club or organizational meeting",7,Twice a month
+Q25_3,"We'd like to know about your involvement in your community. For each activity, we'd like to know whether you did this activity at all in the past 12 months, and if you did, how many times you've done this in the past 12 months? Attended any club or organizational meeting",8,About once a week
+Q25_3,"We'd like to know about your involvement in your community. For each activity, we'd like to know whether you did this activity at all in the past 12 months, and if you did, how many times you've done this in the past 12 months? Attended any club or organizational meeting",9,More than once a week
+Q25_4,"We'd like to know about your involvement in your community. For each activity, we'd like to know whether you did this activity at all in the past 12 months, and if you did, how many times you've done this in the past 12 months? Had friends over to your home",-1,Refused
+Q25_4,"We'd like to know about your involvement in your community. For each activity, we'd like to know whether you did this activity at all in the past 12 months, and if you did, how many times you've done this in the past 12 months? Had friends over to your home",1,Never
+Q25_4,"We'd like to know about your involvement in your community. For each activity, we'd like to know whether you did this activity at all in the past 12 months, and if you did, how many times you've done this in the past 12 months? Had friends over to your home",2,Once
+Q25_4,"We'd like to know about your involvement in your community. For each activity, we'd like to know whether you did this activity at all in the past 12 months, and if you did, how many times you've done this in the past 12 months? Had friends over to your home",3,A few times
+Q25_4,"We'd like to know about your involvement in your community. For each activity, we'd like to know whether you did this activity at all in the past 12 months, and if you did, how many times you've done this in the past 12 months? Had friends over to your home",4,Two to four times
+Q25_4,"We'd like to know about your involvement in your community. For each activity, we'd like to know whether you did this activity at all in the past 12 months, and if you did, how many times you've done this in the past 12 months? Had friends over to your home",5,Five to nine times
+Q25_4,"We'd like to know about your involvement in your community. For each activity, we'd like to know whether you did this activity at all in the past 12 months, and if you did, how many times you've done this in the past 12 months? Had friends over to your home",6,About once a month
+Q25_4,"We'd like to know about your involvement in your community. For each activity, we'd like to know whether you did this activity at all in the past 12 months, and if you did, how many times you've done this in the past 12 months? Had friends over to your home",7,Twice a month
+Q25_4,"We'd like to know about your involvement in your community. For each activity, we'd like to know whether you did this activity at all in the past 12 months, and if you did, how many times you've done this in the past 12 months? Had friends over to your home",8,About once a week
+Q25_4,"We'd like to know about your involvement in your community. For each activity, we'd like to know whether you did this activity at all in the past 12 months, and if you did, how many times you've done this in the past 12 months? Had friends over to your home",9,More than once a week
+Q25_5,"We'd like to know about your involvement in your community. For each activity, we'd like to know whether you did this activity at all in the past 12 months, and if you did, how many times you've done this in the past 12 months? Socialized with coworkers outside of work",-1,Refused
+Q25_5,"We'd like to know about your involvement in your community. For each activity, we'd like to know whether you did this activity at all in the past 12 months, and if you did, how many times you've done this in the past 12 months? Socialized with coworkers outside of work",1,Never
+Q25_5,"We'd like to know about your involvement in your community. For each activity, we'd like to know whether you did this activity at all in the past 12 months, and if you did, how many times you've done this in the past 12 months? Socialized with coworkers outside of work",2,Once
+Q25_5,"We'd like to know about your involvement in your community. For each activity, we'd like to know whether you did this activity at all in the past 12 months, and if you did, how many times you've done this in the past 12 months? Socialized with coworkers outside of work",3,A few times
+Q25_5,"We'd like to know about your involvement in your community. For each activity, we'd like to know whether you did this activity at all in the past 12 months, and if you did, how many times you've done this in the past 12 months? Socialized with coworkers outside of work",4,Two to four times
+Q25_5,"We'd like to know about your involvement in your community. For each activity, we'd like to know whether you did this activity at all in the past 12 months, and if you did, how many times you've done this in the past 12 months? Socialized with coworkers outside of work",5,Five to nine times
+Q25_5,"We'd like to know about your involvement in your community. For each activity, we'd like to know whether you did this activity at all in the past 12 months, and if you did, how many times you've done this in the past 12 months? Socialized with coworkers outside of work",6,About once a month
+Q25_5,"We'd like to know about your involvement in your community. For each activity, we'd like to know whether you did this activity at all in the past 12 months, and if you did, how many times you've done this in the past 12 months? Socialized with coworkers outside of work",7,Twice a month
+Q25_5,"We'd like to know about your involvement in your community. For each activity, we'd like to know whether you did this activity at all in the past 12 months, and if you did, how many times you've done this in the past 12 months? Socialized with coworkers outside of work",8,About once a week
+Q25_5,"We'd like to know about your involvement in your community. For each activity, we'd like to know whether you did this activity at all in the past 12 months, and if you did, how many times you've done this in the past 12 months? Socialized with coworkers outside of work",9,More than once a week
+Q25_6,"We'd like to know about your involvement in your community. For each activity, we'd like to know whether you did this activity at all in the past 12 months, and if you did, how many times you've done this in the past 12 months? Been in the home of someone who lives in a different neighborhood than you or had them in your home",-1,Refused
+Q25_6,"We'd like to know about your involvement in your community. For each activity, we'd like to know whether you did this activity at all in the past 12 months, and if you did, how many times you've done this in the past 12 months? Been in the home of someone who lives in a different neighborhood than you or had them in your home",1,Never
+Q25_6,"We'd like to know about your involvement in your community. For each activity, we'd like to know whether you did this activity at all in the past 12 months, and if you did, how many times you've done this in the past 12 months? Been in the home of someone who lives in a different neighborhood than you or had them in your home",2,Once
+Q25_6,"We'd like to know about your involvement in your community. For each activity, we'd like to know whether you did this activity at all in the past 12 months, and if you did, how many times you've done this in the past 12 months? Been in the home of someone who lives in a different neighborhood than you or had them in your home",3,A few times
+Q25_6,"We'd like to know about your involvement in your community. For each activity, we'd like to know whether you did this activity at all in the past 12 months, and if you did, how many times you've done this in the past 12 months? Been in the home of someone who lives in a different neighborhood than you or had them in your home",4,Two to four times
+Q25_6,"We'd like to know about your involvement in your community. For each activity, we'd like to know whether you did this activity at all in the past 12 months, and if you did, how many times you've done this in the past 12 months? Been in the home of someone who lives in a different neighborhood than you or had them in your home",5,Five to nine times
+Q25_6,"We'd like to know about your involvement in your community. For each activity, we'd like to know whether you did this activity at all in the past 12 months, and if you did, how many times you've done this in the past 12 months? Been in the home of someone who lives in a different neighborhood than you or had them in your home",6,About once a month
+Q25_6,"We'd like to know about your involvement in your community. For each activity, we'd like to know whether you did this activity at all in the past 12 months, and if you did, how many times you've done this in the past 12 months? Been in the home of someone who lives in a different neighborhood than you or had them in your home",7,Twice a month
+Q25_6,"We'd like to know about your involvement in your community. For each activity, we'd like to know whether you did this activity at all in the past 12 months, and if you did, how many times you've done this in the past 12 months? Been in the home of someone who lives in a different neighborhood than you or had them in your home",8,About once a week
+Q25_6,"We'd like to know about your involvement in your community. For each activity, we'd like to know whether you did this activity at all in the past 12 months, and if you did, how many times you've done this in the past 12 months? Been in the home of someone who lives in a different neighborhood than you or had them in your home",9,More than once a week
+Q25_7,"We'd like to know about your involvement in your community. For each activity, we'd like to know whether you did this activity at all in the past 12 months, and if you did, how many times you've done this in the past 12 months? Met personally with someone you consider to be a community leader",-1,Refused
+Q25_7,"We'd like to know about your involvement in your community. For each activity, we'd like to know whether you did this activity at all in the past 12 months, and if you did, how many times you've done this in the past 12 months? Met personally with someone you consider to be a community leader",1,Never
+Q25_7,"We'd like to know about your involvement in your community. For each activity, we'd like to know whether you did this activity at all in the past 12 months, and if you did, how many times you've done this in the past 12 months? Met personally with someone you consider to be a community leader",2,Once
+Q25_7,"We'd like to know about your involvement in your community. For each activity, we'd like to know whether you did this activity at all in the past 12 months, and if you did, how many times you've done this in the past 12 months? Met personally with someone you consider to be a community leader",3,A few times
+Q25_7,"We'd like to know about your involvement in your community. For each activity, we'd like to know whether you did this activity at all in the past 12 months, and if you did, how many times you've done this in the past 12 months? Met personally with someone you consider to be a community leader",4,Two to four times
+Q25_7,"We'd like to know about your involvement in your community. For each activity, we'd like to know whether you did this activity at all in the past 12 months, and if you did, how many times you've done this in the past 12 months? Met personally with someone you consider to be a community leader",5,Five to nine times
+Q25_7,"We'd like to know about your involvement in your community. For each activity, we'd like to know whether you did this activity at all in the past 12 months, and if you did, how many times you've done this in the past 12 months? Met personally with someone you consider to be a community leader",6,About once a month
+Q25_7,"We'd like to know about your involvement in your community. For each activity, we'd like to know whether you did this activity at all in the past 12 months, and if you did, how many times you've done this in the past 12 months? Met personally with someone you consider to be a community leader",7,Twice a month
+Q25_7,"We'd like to know about your involvement in your community. For each activity, we'd like to know whether you did this activity at all in the past 12 months, and if you did, how many times you've done this in the past 12 months? Met personally with someone you consider to be a community leader",8,About once a week
+Q25_7,"We'd like to know about your involvement in your community. For each activity, we'd like to know whether you did this activity at all in the past 12 months, and if you did, how many times you've done this in the past 12 months? Met personally with someone you consider to be a community leader",9,More than once a week
+Q25_8,"We'd like to know about your involvement in your community. For each activity, we'd like to know whether you did this activity at all in the past 12 months, and if you did, how many times you've done this in the past 12 months? Donated blood",-1,Refused
+Q25_8,"We'd like to know about your involvement in your community. For each activity, we'd like to know whether you did this activity at all in the past 12 months, and if you did, how many times you've done this in the past 12 months? Donated blood",1,Never
+Q25_8,"We'd like to know about your involvement in your community. For each activity, we'd like to know whether you did this activity at all in the past 12 months, and if you did, how many times you've done this in the past 12 months? Donated blood",2,Once
+Q25_8,"We'd like to know about your involvement in your community. For each activity, we'd like to know whether you did this activity at all in the past 12 months, and if you did, how many times you've done this in the past 12 months? Donated blood",3,A few times
+Q25_8,"We'd like to know about your involvement in your community. For each activity, we'd like to know whether you did this activity at all in the past 12 months, and if you did, how many times you've done this in the past 12 months? Donated blood",4,Two to four times
+Q25_8,"We'd like to know about your involvement in your community. For each activity, we'd like to know whether you did this activity at all in the past 12 months, and if you did, how many times you've done this in the past 12 months? Donated blood",5,Five to nine times
+Q25_8,"We'd like to know about your involvement in your community. For each activity, we'd like to know whether you did this activity at all in the past 12 months, and if you did, how many times you've done this in the past 12 months? Donated blood",6,About once a month
+Q25_8,"We'd like to know about your involvement in your community. For each activity, we'd like to know whether you did this activity at all in the past 12 months, and if you did, how many times you've done this in the past 12 months? Donated blood",7,Twice a month
+Q25_8,"We'd like to know about your involvement in your community. For each activity, we'd like to know whether you did this activity at all in the past 12 months, and if you did, how many times you've done this in the past 12 months? Donated blood",8,About once a week
+Q25_8,"We'd like to know about your involvement in your community. For each activity, we'd like to know whether you did this activity at all in the past 12 months, and if you did, how many times you've done this in the past 12 months? Donated blood",9,More than once a week
+Q25_9,"We'd like to know about your involvement in your community. For each activity, we'd like to know whether you did this activity at all in the past 12 months, and if you did, how many times you've done this in the past 12 months? Volunteered",-1,Refused
+Q25_9,"We'd like to know about your involvement in your community. For each activity, we'd like to know whether you did this activity at all in the past 12 months, and if you did, how many times you've done this in the past 12 months? Volunteered",1,Never
+Q25_9,"We'd like to know about your involvement in your community. For each activity, we'd like to know whether you did this activity at all in the past 12 months, and if you did, how many times you've done this in the past 12 months? Volunteered",2,Once
+Q25_9,"We'd like to know about your involvement in your community. For each activity, we'd like to know whether you did this activity at all in the past 12 months, and if you did, how many times you've done this in the past 12 months? Volunteered",3,A few times
+Q25_9,"We'd like to know about your involvement in your community. For each activity, we'd like to know whether you did this activity at all in the past 12 months, and if you did, how many times you've done this in the past 12 months? Volunteered",4,Two to four times
+Q25_9,"We'd like to know about your involvement in your community. For each activity, we'd like to know whether you did this activity at all in the past 12 months, and if you did, how many times you've done this in the past 12 months? Volunteered",5,Five to nine times
+Q25_9,"We'd like to know about your involvement in your community. For each activity, we'd like to know whether you did this activity at all in the past 12 months, and if you did, how many times you've done this in the past 12 months? Volunteered",6,About once a month
+Q25_9,"We'd like to know about your involvement in your community. For each activity, we'd like to know whether you did this activity at all in the past 12 months, and if you did, how many times you've done this in the past 12 months? Volunteered",7,Twice a month
+Q25_9,"We'd like to know about your involvement in your community. For each activity, we'd like to know whether you did this activity at all in the past 12 months, and if you did, how many times you've done this in the past 12 months? Volunteered",8,About once a week
+Q25_9,"We'd like to know about your involvement in your community. For each activity, we'd like to know whether you did this activity at all in the past 12 months, and if you did, how many times you've done this in the past 12 months? Volunteered",9,More than once a week
+Q27_1,Have you done any of the following because of your fears? Purchased a gun,-1,Refused
+Q27_1,Have you done any of the following because of your fears? Purchased a gun,1,Yes
+Q27_1,Have you done any of the following because of your fears? Purchased a gun,2,No
+Q27_2,Have you done any of the following because of your fears? Purchased a home alarm system,-1,Refused
+Q27_2,Have you done any of the following because of your fears? Purchased a home alarm system,1,Yes
+Q27_2,Have you done any of the following because of your fears? Purchased a home alarm system,2,No
+Q27_3,Have you done any of the following because of your fears? Sent your children to a private school,-1,Refused
+Q27_3,Have you done any of the following because of your fears? Sent your children to a private school,1,Yes
+Q27_3,Have you done any of the following because of your fears? Sent your children to a private school,2,No
+Q27_4,Have you done any of the following because of your fears? Voted for a particular party or candidate,-1,Refused
+Q27_4,Have you done any of the following because of your fears? Voted for a particular party or candidate,1,Yes
+Q27_4,Have you done any of the following because of your fears? Voted for a particular party or candidate,2,No
+Q28_1,"Thinking about the federal government in Washington D.C., how afraid are you of the following? Government use of drones within the United States",-1,Refused
+Q28_1,"Thinking about the federal government in Washington D.C., how afraid are you of the following? Government use of drones within the United States",1,Very afraid
+Q28_1,"Thinking about the federal government in Washington D.C., how afraid are you of the following? Government use of drones within the United States",2,Afraid
+Q28_1,"Thinking about the federal government in Washington D.C., how afraid are you of the following? Government use of drones within the United States",3,Slightly afraid
+Q28_1,"Thinking about the federal government in Washington D.C., how afraid are you of the following? Government use of drones within the United States",4,Not afraid
+Q28_2,"Thinking about the federal government in Washington D.C., how afraid are you of the following? The Affordable Health Care Act, also called Obamacare",-1,Refused
+Q28_2,"Thinking about the federal government in Washington D.C., how afraid are you of the following? The Affordable Health Care Act, also called Obamacare",1,Very afraid
+Q28_2,"Thinking about the federal government in Washington D.C., how afraid are you of the following? The Affordable Health Care Act, also called Obamacare",2,Afraid
+Q28_2,"Thinking about the federal government in Washington D.C., how afraid are you of the following? The Affordable Health Care Act, also called Obamacare",3,Slightly afraid
+Q28_2,"Thinking about the federal government in Washington D.C., how afraid are you of the following? The Affordable Health Care Act, also called Obamacare",4,Not afraid
+Q28_3,"Thinking about the federal government in Washington D.C., how afraid are you of the following? Corrupt government officials",-1,Refused
+Q28_3,"Thinking about the federal government in Washington D.C., how afraid are you of the following? Corrupt government officials",1,Very afraid
+Q28_3,"Thinking about the federal government in Washington D.C., how afraid are you of the following? Corrupt government officials",2,Afraid
+Q28_3,"Thinking about the federal government in Washington D.C., how afraid are you of the following? Corrupt government officials",3,Slightly afraid
+Q28_3,"Thinking about the federal government in Washington D.C., how afraid are you of the following? Corrupt government officials",4,Not afraid
+Q28_4,"Thinking about the federal government in Washington D.C., how afraid are you of the following? Government restrictions on firearms and ammunition",-1,Refused
+Q28_4,"Thinking about the federal government in Washington D.C., how afraid are you of the following? Government restrictions on firearms and ammunition",1,Very afraid
+Q28_4,"Thinking about the federal government in Washington D.C., how afraid are you of the following? Government restrictions on firearms and ammunition",2,Afraid
+Q28_4,"Thinking about the federal government in Washington D.C., how afraid are you of the following? Government restrictions on firearms and ammunition",3,Slightly afraid
+Q28_4,"Thinking about the federal government in Washington D.C., how afraid are you of the following? Government restrictions on firearms and ammunition",4,Not afraid
+Q29_1,Please evaluate each of the following statements using the scale below: How much of the time do you think you can trust the national government to do what is right?,-1,Refused
+Q29_1,Please evaluate each of the following statements using the scale below: How much of the time do you think you can trust the national government to do what is right?,1,Just about always
+Q29_1,Please evaluate each of the following statements using the scale below: How much of the time do you think you can trust the national government to do what is right?,2,Most of the time
+Q29_1,Please evaluate each of the following statements using the scale below: How much of the time do you think you can trust the national government to do what is right?,3,Some of the time
+Q29_1,Please evaluate each of the following statements using the scale below: How much of the time do you think you can trust the national government to do what is right?,4,Hardly ever
+Q29_2,Please evaluate each of the following statements using the scale below: How much of the time do you think you can trust the state government to do what is right?,-1,Refused
+Q29_2,Please evaluate each of the following statements using the scale below: How much of the time do you think you can trust the state government to do what is right?,1,Just about always
+Q29_2,Please evaluate each of the following statements using the scale below: How much of the time do you think you can trust the state government to do what is right?,2,Most of the time
+Q29_2,Please evaluate each of the following statements using the scale below: How much of the time do you think you can trust the state government to do what is right?,3,Some of the time
+Q29_2,Please evaluate each of the following statements using the scale below: How much of the time do you think you can trust the state government to do what is right?,4,Hardly ever
+Q30_1,How afraid are you of being the victim of the following crimes? Mugging,-1,Refused
+Q30_1,How afraid are you of being the victim of the following crimes? Mugging,1,Very afraid
+Q30_1,How afraid are you of being the victim of the following crimes? Mugging,2,Afraid
+Q30_1,How afraid are you of being the victim of the following crimes? Mugging,3,Slightly afraid
+Q30_1,How afraid are you of being the victim of the following crimes? Mugging,4,Not afraid
+Q30_2,How afraid are you of being the victim of the following crimes? Stalking,-1,Refused
+Q30_2,How afraid are you of being the victim of the following crimes? Stalking,1,Very afraid
+Q30_2,How afraid are you of being the victim of the following crimes? Stalking,2,Afraid
+Q30_2,How afraid are you of being the victim of the following crimes? Stalking,3,Slightly afraid
+Q30_2,How afraid are you of being the victim of the following crimes? Stalking,4,Not afraid
+Q30_3,How afraid are you of being the victim of the following crimes? Murder by a stranger,-1,Refused
+Q30_3,How afraid are you of being the victim of the following crimes? Murder by a stranger,1,Very afraid
+Q30_3,How afraid are you of being the victim of the following crimes? Murder by a stranger,2,Afraid
+Q30_3,How afraid are you of being the victim of the following crimes? Murder by a stranger,3,Slightly afraid
+Q30_3,How afraid are you of being the victim of the following crimes? Murder by a stranger,4,Not afraid
+Q30_4,How afraid are you of being the victim of the following crimes? Murder by someone you know,-1,Refused
+Q30_4,How afraid are you of being the victim of the following crimes? Murder by someone you know,1,Very afraid
+Q30_4,How afraid are you of being the victim of the following crimes? Murder by someone you know,2,Afraid
+Q30_4,How afraid are you of being the victim of the following crimes? Murder by someone you know,3,Slightly afraid
+Q30_4,How afraid are you of being the victim of the following crimes? Murder by someone you know,4,Not afraid
+Q30_5,How afraid are you of being the victim of the following crimes? Being hit by a drunken driver,-1,Refused
+Q30_5,How afraid are you of being the victim of the following crimes? Being hit by a drunken driver,1,Very afraid
+Q30_5,How afraid are you of being the victim of the following crimes? Being hit by a drunken driver,2,Afraid
+Q30_5,How afraid are you of being the victim of the following crimes? Being hit by a drunken driver,3,Slightly afraid
+Q30_5,How afraid are you of being the victim of the following crimes? Being hit by a drunken driver,4,Not afraid
+Q30_6,How afraid are you of being the victim of the following crimes? Police brutality,-1,Refused
+Q30_6,How afraid are you of being the victim of the following crimes? Police brutality,1,Very afraid
+Q30_6,How afraid are you of being the victim of the following crimes? Police brutality,2,Afraid
+Q30_6,How afraid are you of being the victim of the following crimes? Police brutality,3,Slightly afraid
+Q30_6,How afraid are you of being the victim of the following crimes? Police brutality,4,Not afraid
+Q30_7,How afraid are you of being the victim of the following crimes? Sexual assault by a stranger,-1,Refused
+Q30_7,How afraid are you of being the victim of the following crimes? Sexual assault by a stranger,1,Very afraid
+Q30_7,How afraid are you of being the victim of the following crimes? Sexual assault by a stranger,2,Afraid
+Q30_7,How afraid are you of being the victim of the following crimes? Sexual assault by a stranger,3,Slightly afraid
+Q30_7,How afraid are you of being the victim of the following crimes? Sexual assault by a stranger,4,Not afraid
+Q30_8,How afraid are you of being the victim of the following crimes? Sexual assault by someone you know,-1,Refused
+Q30_8,How afraid are you of being the victim of the following crimes? Sexual assault by someone you know,1,Very afraid
+Q30_8,How afraid are you of being the victim of the following crimes? Sexual assault by someone you know,2,Afraid
+Q30_8,How afraid are you of being the victim of the following crimes? Sexual assault by someone you know,3,Slightly afraid
+Q30_8,How afraid are you of being the victim of the following crimes? Sexual assault by someone you know,4,Not afraid
+Q30_9,How afraid are you of being the victim of the following crimes? Racial/Hate crime,-1,Refused
+Q30_9,How afraid are you of being the victim of the following crimes? Racial/Hate crime,1,Very afraid
+Q30_9,How afraid are you of being the victim of the following crimes? Racial/Hate crime,2,Afraid
+Q30_9,How afraid are you of being the victim of the following crimes? Racial/Hate crime,3,Slightly afraid
+Q30_9,How afraid are you of being the victim of the following crimes? Racial/Hate crime,4,Not afraid
+Q30_10,How afraid are you of being the victim of the following crimes? Random/Mass shooting,-1,Refused
+Q30_10,How afraid are you of being the victim of the following crimes? Random/Mass shooting,1,Very afraid
+Q30_10,How afraid are you of being the victim of the following crimes? Random/Mass shooting,2,Afraid
+Q30_10,How afraid are you of being the victim of the following crimes? Random/Mass shooting,3,Slightly afraid
+Q30_10,How afraid are you of being the victim of the following crimes? Random/Mass shooting,4,Not afraid
+Q30_11,How afraid are you of being the victim of the following crimes? Break-ins,-1,Refused
+Q30_11,How afraid are you of being the victim of the following crimes? Break-ins,1,Very afraid
+Q30_11,How afraid are you of being the victim of the following crimes? Break-ins,2,Afraid
+Q30_11,How afraid are you of being the victim of the following crimes? Break-ins,3,Slightly afraid
+Q30_11,How afraid are you of being the victim of the following crimes? Break-ins,4,Not afraid
+Q30_12,How afraid are you of being the victim of the following crimes? Theft of property,-1,Refused
+Q30_12,How afraid are you of being the victim of the following crimes? Theft of property,1,Very afraid
+Q30_12,How afraid are you of being the victim of the following crimes? Theft of property,2,Afraid
+Q30_12,How afraid are you of being the victim of the following crimes? Theft of property,3,Slightly afraid
+Q30_12,How afraid are you of being the victim of the following crimes? Theft of property,4,Not afraid
+Q30_13,How afraid are you of being the victim of the following crimes? Gang violence,-1,Refused
+Q30_13,How afraid are you of being the victim of the following crimes? Gang violence,1,Very afraid
+Q30_13,How afraid are you of being the victim of the following crimes? Gang violence,2,Afraid
+Q30_13,How afraid are you of being the victim of the following crimes? Gang violence,3,Slightly afraid
+Q30_13,How afraid are you of being the victim of the following crimes? Gang violence,4,Not afraid
+Q30_14,How afraid are you of being the victim of the following crimes? Abduction/Kidnapping,-1,Refused
+Q30_14,How afraid are you of being the victim of the following crimes? Abduction/Kidnapping,1,Very afraid
+Q30_14,How afraid are you of being the victim of the following crimes? Abduction/Kidnapping,2,Afraid
+Q30_14,How afraid are you of being the victim of the following crimes? Abduction/Kidnapping,3,Slightly afraid
+Q30_14,How afraid are you of being the victim of the following crimes? Abduction/Kidnapping,4,Not afraid
+Q30_15,How afraid are you of being the victim of the following crimes? Identity theft,-1,Refused
+Q30_15,How afraid are you of being the victim of the following crimes? Identity theft,1,Very afraid
+Q30_15,How afraid are you of being the victim of the following crimes? Identity theft,2,Afraid
+Q30_15,How afraid are you of being the victim of the following crimes? Identity theft,3,Slightly afraid
+Q30_15,How afraid are you of being the victim of the following crimes? Identity theft,4,Not afraid
+Q30_16,How afraid are you of being the victim of the following crimes? Credit card fraud,-1,Refused
+Q30_16,How afraid are you of being the victim of the following crimes? Credit card fraud,1,Very afraid
+Q30_16,How afraid are you of being the victim of the following crimes? Credit card fraud,2,Afraid
+Q30_16,How afraid are you of being the victim of the following crimes? Credit card fraud,3,Slightly afraid
+Q30_16,How afraid are you of being the victim of the following crimes? Credit card fraud,4,Not afraid
+Q30_17,"How afraid are you of being the victim of the following crimes? Financial fraud (such as a Ponzi Scheme, embezzlement, etc.)",-1,Refused
+Q30_17,"How afraid are you of being the victim of the following crimes? Financial fraud (such as a Ponzi Scheme, embezzlement, etc.)",1,Very afraid
+Q30_17,"How afraid are you of being the victim of the following crimes? Financial fraud (such as a Ponzi Scheme, embezzlement, etc.)",2,Afraid
+Q30_17,"How afraid are you of being the victim of the following crimes? Financial fraud (such as a Ponzi Scheme, embezzlement, etc.)",3,Slightly afraid
+Q30_17,"How afraid are you of being the victim of the following crimes? Financial fraud (such as a Ponzi Scheme, embezzlement, etc.)",4,Not afraid
+Q31_1,Please indicate your level of agreement with the following statements: Aliens visited Earth in our ancient past,-1,Refused
+Q31_1,Please indicate your level of agreement with the following statements: Aliens visited Earth in our ancient past,1,Strongly agree
+Q31_1,Please indicate your level of agreement with the following statements: Aliens visited Earth in our ancient past,2,Agree
+Q31_1,Please indicate your level of agreement with the following statements: Aliens visited Earth in our ancient past,3,Disagree
+Q31_1,Please indicate your level of agreement with the following statements: Aliens visited Earth in our ancient past,4,Strongly disagree
+Q31_1,Please indicate your level of agreement with the following statements: Aliens visited Earth in our ancient past,5,Don't know
+Q31_2,Please indicate your level of agreement with the following statements: Aliens have come to Earth in modern times,-1,Refused
+Q31_2,Please indicate your level of agreement with the following statements: Aliens have come to Earth in modern times,1,Strongly agree
+Q31_2,Please indicate your level of agreement with the following statements: Aliens have come to Earth in modern times,2,Agree
+Q31_2,Please indicate your level of agreement with the following statements: Aliens have come to Earth in modern times,3,Disagree
+Q31_2,Please indicate your level of agreement with the following statements: Aliens have come to Earth in modern times,4,Strongly disagree
+Q31_2,Please indicate your level of agreement with the following statements: Aliens have come to Earth in modern times,5,Don't know
+Q31_3,Please indicate your level of agreement with the following statements: Dreams foretell the future,-1,Refused
+Q31_3,Please indicate your level of agreement with the following statements: Dreams foretell the future,1,Strongly agree
+Q31_3,Please indicate your level of agreement with the following statements: Dreams foretell the future,2,Agree
+Q31_3,Please indicate your level of agreement with the following statements: Dreams foretell the future,3,Disagree
+Q31_3,Please indicate your level of agreement with the following statements: Dreams foretell the future,4,Strongly disagree
+Q31_3,Please indicate your level of agreement with the following statements: Dreams foretell the future,5,Don't know
+Q31_4,"Please indicate your level of agreement with the following statements: Astrologers, fortune tellers, and psychics can foresee the future",-1,Refused
+Q31_4,"Please indicate your level of agreement with the following statements: Astrologers, fortune tellers, and psychics can foresee the future",1,Strongly agree
+Q31_4,"Please indicate your level of agreement with the following statements: Astrologers, fortune tellers, and psychics can foresee the future",2,Agree
+Q31_4,"Please indicate your level of agreement with the following statements: Astrologers, fortune tellers, and psychics can foresee the future",3,Disagree
+Q31_4,"Please indicate your level of agreement with the following statements: Astrologers, fortune tellers, and psychics can foresee the future",4,Strongly disagree
+Q31_4,"Please indicate your level of agreement with the following statements: Astrologers, fortune tellers, and psychics can foresee the future",5,Don't know
+Q31_5,Please indicate your level of agreement with the following statements: Places can be haunted by spirits,-1,Refused
+Q31_5,Please indicate your level of agreement with the following statements: Places can be haunted by spirits,1,Strongly agree
+Q31_5,Please indicate your level of agreement with the following statements: Places can be haunted by spirits,2,Agree
+Q31_5,Please indicate your level of agreement with the following statements: Places can be haunted by spirits,3,Disagree
+Q31_5,Please indicate your level of agreement with the following statements: Places can be haunted by spirits,4,Strongly disagree
+Q31_5,Please indicate your level of agreement with the following statements: Places can be haunted by spirits,5,Don't know
+Q31_6,Please indicate your level of agreement with the following statements: Bigfoot is a real creature,-1,Refused
+Q31_6,Please indicate your level of agreement with the following statements: Bigfoot is a real creature,1,Strongly agree
+Q31_6,Please indicate your level of agreement with the following statements: Bigfoot is a real creature,2,Agree
+Q31_6,Please indicate your level of agreement with the following statements: Bigfoot is a real creature,3,Disagree
+Q31_6,Please indicate your level of agreement with the following statements: Bigfoot is a real creature,4,Strongly disagree
+Q31_6,Please indicate your level of agreement with the following statements: Bigfoot is a real creature,5,Don't know
+Q31_7,Please indicate your level of agreement with the following statements: The living and dead can communicate with each other,-1,Refused
+Q31_7,Please indicate your level of agreement with the following statements: The living and dead can communicate with each other,1,Strongly agree
+Q31_7,Please indicate your level of agreement with the following statements: The living and dead can communicate with each other,2,Agree
+Q31_7,Please indicate your level of agreement with the following statements: The living and dead can communicate with each other,3,Disagree
+Q31_7,Please indicate your level of agreement with the following statements: The living and dead can communicate with each other,4,Strongly disagree
+Q31_7,Please indicate your level of agreement with the following statements: The living and dead can communicate with each other,5,Don't know
+Q32_1,Please indicate your level of agreement with the following statements: Parents should have the right to decide which vaccinations their children receive,-1,Refused
+Q32_1,Please indicate your level of agreement with the following statements: Parents should have the right to decide which vaccinations their children receive,1,Strongly agree
+Q32_1,Please indicate your level of agreement with the following statements: Parents should have the right to decide which vaccinations their children receive,2,Agree
+Q32_1,Please indicate your level of agreement with the following statements: Parents should have the right to decide which vaccinations their children receive,3,Disagree
+Q32_1,Please indicate your level of agreement with the following statements: Parents should have the right to decide which vaccinations their children receive,4,Strongly disagree
+Q32_2,Please indicate your level of agreement with the following statements: Drug companies aren't being honest about the risks from vaccinations,-1,Refused
+Q32_2,Please indicate your level of agreement with the following statements: Drug companies aren't being honest about the risks from vaccinations,1,Strongly agree
+Q32_2,Please indicate your level of agreement with the following statements: Drug companies aren't being honest about the risks from vaccinations,2,Agree
+Q32_2,Please indicate your level of agreement with the following statements: Drug companies aren't being honest about the risks from vaccinations,3,Disagree
+Q32_2,Please indicate your level of agreement with the following statements: Drug companies aren't being honest about the risks from vaccinations,4,Strongly disagree
+Q32_3,Please indicate your level of agreement with the following statements: Vaccinating children helps to protect them from illnesses,-1,Refused
+Q32_3,Please indicate your level of agreement with the following statements: Vaccinating children helps to protect them from illnesses,1,Strongly agree
+Q32_3,Please indicate your level of agreement with the following statements: Vaccinating children helps to protect them from illnesses,2,Agree
+Q32_3,Please indicate your level of agreement with the following statements: Vaccinating children helps to protect them from illnesses,3,Disagree
+Q32_3,Please indicate your level of agreement with the following statements: Vaccinating children helps to protect them from illnesses,4,Strongly disagree
+Q32_4,Please indicate your level of agreement with the following statements: Many of my friends are concerned about the side-effects of vaccinations,-1,Refused
+Q32_4,Please indicate your level of agreement with the following statements: Many of my friends are concerned about the side-effects of vaccinations,1,Strongly agree
+Q32_4,Please indicate your level of agreement with the following statements: Many of my friends are concerned about the side-effects of vaccinations,2,Agree
+Q32_4,Please indicate your level of agreement with the following statements: Many of my friends are concerned about the side-effects of vaccinations,3,Disagree
+Q32_4,Please indicate your level of agreement with the following statements: Many of my friends are concerned about the side-effects of vaccinations,4,Strongly disagree
+Q32_5,"Please indicate your level of agreement with the following statements: These days, most American children get too many vaccinations",-1,Refused
+Q32_5,"Please indicate your level of agreement with the following statements: These days, most American children get too many vaccinations",1,Strongly agree
+Q32_5,"Please indicate your level of agreement with the following statements: These days, most American children get too many vaccinations",2,Agree
+Q32_5,"Please indicate your level of agreement with the following statements: These days, most American children get too many vaccinations",3,Disagree
+Q32_5,"Please indicate your level of agreement with the following statements: These days, most American children get too many vaccinations",4,Strongly disagree
+Q32_6,Please indicate your level of agreement with the following statements: Vaccinations can cause autism,-1,Refused
+Q32_6,Please indicate your level of agreement with the following statements: Vaccinations can cause autism,1,Strongly agree
+Q32_6,Please indicate your level of agreement with the following statements: Vaccinations can cause autism,2,Agree
+Q32_6,Please indicate your level of agreement with the following statements: Vaccinations can cause autism,3,Disagree
+Q32_6,Please indicate your level of agreement with the following statements: Vaccinations can cause autism,4,Strongly disagree
+Q34_1,"Thinking about each of the following groups in the United States, would you say that on average they are (1) Not criminal, (7) Criminal or somewhere in-between? Latinos",-1,Refused
+Q34_1,"Thinking about each of the following groups in the United States, would you say that on average they are (1) Not criminal, (7) Criminal or somewhere in-between? Latinos",1,Not criminal
+Q34_1,"Thinking about each of the following groups in the United States, would you say that on average they are (1) Not criminal, (7) Criminal or somewhere in-between? Latinos",2,
+Q34_1,"Thinking about each of the following groups in the United States, would you say that on average they are (1) Not criminal, (7) Criminal or somewhere in-between? Latinos",3,
+Q34_1,"Thinking about each of the following groups in the United States, would you say that on average they are (1) Not criminal, (7) Criminal or somewhere in-between? Latinos",4,
+Q34_1,"Thinking about each of the following groups in the United States, would you say that on average they are (1) Not criminal, (7) Criminal or somewhere in-between? Latinos",5,
+Q34_1,"Thinking about each of the following groups in the United States, would you say that on average they are (1) Not criminal, (7) Criminal or somewhere in-between? Latinos",6,
+Q34_1,"Thinking about each of the following groups in the United States, would you say that on average they are (1) Not criminal, (7) Criminal or somewhere in-between? Latinos",7,Criminal
+Q34_2,"Thinking about each of the following groups in the United States, would you say that on average they are (1) Not criminal, (7) Criminal or somewhere in-between? Blacks",-1,Refused
+Q34_2,"Thinking about each of the following groups in the United States, would you say that on average they are (1) Not criminal, (7) Criminal or somewhere in-between? Blacks",1,Not criminal
+Q34_2,"Thinking about each of the following groups in the United States, would you say that on average they are (1) Not criminal, (7) Criminal or somewhere in-between? Blacks",2,
+Q34_2,"Thinking about each of the following groups in the United States, would you say that on average they are (1) Not criminal, (7) Criminal or somewhere in-between? Blacks",3,
+Q34_2,"Thinking about each of the following groups in the United States, would you say that on average they are (1) Not criminal, (7) Criminal or somewhere in-between? Blacks",4,
+Q34_2,"Thinking about each of the following groups in the United States, would you say that on average they are (1) Not criminal, (7) Criminal or somewhere in-between? Blacks",5,
+Q34_2,"Thinking about each of the following groups in the United States, would you say that on average they are (1) Not criminal, (7) Criminal or somewhere in-between? Blacks",6,
+Q34_2,"Thinking about each of the following groups in the United States, would you say that on average they are (1) Not criminal, (7) Criminal or somewhere in-between? Blacks",7,Criminal
+Q34_3,"Thinking about each of the following groups in the United States, would you say that on average they are (1) Not criminal, (7) Criminal or somewhere in-between? Whites",-1,Refused
+Q34_3,"Thinking about each of the following groups in the United States, would you say that on average they are (1) Not criminal, (7) Criminal or somewhere in-between? Whites",1,Not criminal
+Q34_3,"Thinking about each of the following groups in the United States, would you say that on average they are (1) Not criminal, (7) Criminal or somewhere in-between? Whites",2,
+Q34_3,"Thinking about each of the following groups in the United States, would you say that on average they are (1) Not criminal, (7) Criminal or somewhere in-between? Whites",3,
+Q34_3,"Thinking about each of the following groups in the United States, would you say that on average they are (1) Not criminal, (7) Criminal or somewhere in-between? Whites",4,
+Q34_3,"Thinking about each of the following groups in the United States, would you say that on average they are (1) Not criminal, (7) Criminal or somewhere in-between? Whites",5,
+Q34_3,"Thinking about each of the following groups in the United States, would you say that on average they are (1) Not criminal, (7) Criminal or somewhere in-between? Whites",6,
+Q34_3,"Thinking about each of the following groups in the United States, would you say that on average they are (1) Not criminal, (7) Criminal or somewhere in-between? Whites",7,Criminal
+Q34_4,"Thinking about each of the following groups in the United States, would you say that on average they are (1) Not criminal, (7) Criminal or somewhere in-between? Asians",-1,Refused
+Q34_4,"Thinking about each of the following groups in the United States, would you say that on average they are (1) Not criminal, (7) Criminal or somewhere in-between? Asians",1,Not criminal
+Q34_4,"Thinking about each of the following groups in the United States, would you say that on average they are (1) Not criminal, (7) Criminal or somewhere in-between? Asians",2,
+Q34_4,"Thinking about each of the following groups in the United States, would you say that on average they are (1) Not criminal, (7) Criminal or somewhere in-between? Asians",3,
+Q34_4,"Thinking about each of the following groups in the United States, would you say that on average they are (1) Not criminal, (7) Criminal or somewhere in-between? Asians",4,
+Q34_4,"Thinking about each of the following groups in the United States, would you say that on average they are (1) Not criminal, (7) Criminal or somewhere in-between? Asians",5,
+Q34_4,"Thinking about each of the following groups in the United States, would you say that on average they are (1) Not criminal, (7) Criminal or somewhere in-between? Asians",6,
+Q34_4,"Thinking about each of the following groups in the United States, would you say that on average they are (1) Not criminal, (7) Criminal or somewhere in-between? Asians",7,Criminal
+Q35_1,How afraid are you of the following? Blood,-1,Refused
+Q35_1,How afraid are you of the following? Blood,1,Very afraid
+Q35_1,How afraid are you of the following? Blood,2,Afraid
+Q35_1,How afraid are you of the following? Blood,3,Slightly afraid
+Q35_1,How afraid are you of the following? Blood,4,Not at all
+Q35_2,How afraid are you of the following? Needles,-1,Refused
+Q35_2,How afraid are you of the following? Needles,1,Very afraid
+Q35_2,How afraid are you of the following? Needles,2,Afraid
+Q35_2,How afraid are you of the following? Needles,3,Slightly afraid
+Q35_2,How afraid are you of the following? Needles,4,Not at all
+Q35_3,"How afraid are you of the following? Spiders, bees, or other insects",-1,Refused
+Q35_3,"How afraid are you of the following? Spiders, bees, or other insects",1,Very afraid
+Q35_3,"How afraid are you of the following? Spiders, bees, or other insects",2,Afraid
+Q35_3,"How afraid are you of the following? Spiders, bees, or other insects",3,Slightly afraid
+Q35_3,"How afraid are you of the following? Spiders, bees, or other insects",4,Not at all
+Q35_4,"How afraid are you of the following? Snakes, lizards, or other reptiles",-1,Refused
+Q35_4,"How afraid are you of the following? Snakes, lizards, or other reptiles",1,Very afraid
+Q35_4,"How afraid are you of the following? Snakes, lizards, or other reptiles",2,Afraid
+Q35_4,"How afraid are you of the following? Snakes, lizards, or other reptiles",3,Slightly afraid
+Q35_4,"How afraid are you of the following? Snakes, lizards, or other reptiles",4,Not at all
+Q35_5,"How afraid are you of the following? Dogs, rats, or other animals",-1,Refused
+Q35_5,"How afraid are you of the following? Dogs, rats, or other animals",1,Very afraid
+Q35_5,"How afraid are you of the following? Dogs, rats, or other animals",2,Afraid
+Q35_5,"How afraid are you of the following? Dogs, rats, or other animals",3,Slightly afraid
+Q35_5,"How afraid are you of the following? Dogs, rats, or other animals",4,Not at all
+Q35_6,How afraid are you of the following? Clowns,-1,Refused
+Q35_6,How afraid are you of the following? Clowns,1,Very afraid
+Q35_6,How afraid are you of the following? Clowns,2,Afraid
+Q35_6,How afraid are you of the following? Clowns,3,Slightly afraid
+Q35_6,How afraid are you of the following? Clowns,4,Not at all
+Q35_7,How afraid are you of the following? Germs,-1,Refused
+Q35_7,How afraid are you of the following? Germs,1,Very afraid
+Q35_7,How afraid are you of the following? Germs,2,Afraid
+Q35_7,How afraid are you of the following? Germs,3,Slightly afraid
+Q35_7,How afraid are you of the following? Germs,4,Not at all
+Q35_8,How afraid are you of the following? Deep lakes and oceans,-1,Refused
+Q35_8,How afraid are you of the following? Deep lakes and oceans,1,Very afraid
+Q35_8,How afraid are you of the following? Deep lakes and oceans,2,Afraid
+Q35_8,How afraid are you of the following? Deep lakes and oceans,3,Slightly afraid
+Q35_8,How afraid are you of the following? Deep lakes and oceans,4,Not at all
+Q35_9,How afraid are you of the following? Flying,-1,Refused
+Q35_9,How afraid are you of the following? Flying,1,Very afraid
+Q35_9,How afraid are you of the following? Flying,2,Afraid
+Q35_9,How afraid are you of the following? Flying,3,Slightly afraid
+Q35_9,How afraid are you of the following? Flying,4,Not at all
+Q35_10,How afraid are you of the following? Ghosts,-1,Refused
+Q35_10,How afraid are you of the following? Ghosts,1,Very afraid
+Q35_10,How afraid are you of the following? Ghosts,2,Afraid
+Q35_10,How afraid are you of the following? Ghosts,3,Slightly afraid
+Q35_10,How afraid are you of the following? Ghosts,4,Not at all
+Q35_11,How afraid are you of the following? Heights,-1,Refused
+Q35_11,How afraid are you of the following? Heights,1,Very afraid
+Q35_11,How afraid are you of the following? Heights,2,Afraid
+Q35_11,How afraid are you of the following? Heights,3,Slightly afraid
+Q35_11,How afraid are you of the following? Heights,4,Not at all
+Q35_12,How afraid are you of the following? Public speaking,-1,Refused
+Q35_12,How afraid are you of the following? Public speaking,1,Very afraid
+Q35_12,How afraid are you of the following? Public speaking,2,Afraid
+Q35_12,How afraid are you of the following? Public speaking,3,Slightly afraid
+Q35_12,How afraid are you of the following? Public speaking,4,Not at all
+Q35_13,How afraid are you of the following? Small enclosed spaces,-1,Refused
+Q35_13,How afraid are you of the following? Small enclosed spaces,1,Very afraid
+Q35_13,How afraid are you of the following? Small enclosed spaces,2,Afraid
+Q35_13,How afraid are you of the following? Small enclosed spaces,3,Slightly afraid
+Q35_13,How afraid are you of the following? Small enclosed spaces,4,Not at all
+Q35_14,How afraid are you of the following? The dark,-1,Refused
+Q35_14,How afraid are you of the following? The dark,1,Very afraid
+Q35_14,How afraid are you of the following? The dark,2,Afraid
+Q35_14,How afraid are you of the following? The dark,3,Slightly afraid
+Q35_14,How afraid are you of the following? The dark,4,Not at all
+Q35_15,How afraid are you of the following? Zombies,-1,Refused
+Q35_15,How afraid are you of the following? Zombies,1,Very afraid
+Q35_15,How afraid are you of the following? Zombies,2,Afraid
+Q35_15,How afraid are you of the following? Zombies,3,Slightly afraid
+Q35_15,How afraid are you of the following? Zombies,4,Not at all
+Q35_16,How afraid are you of the following? Vaccinations,-1,Refused
+Q35_16,How afraid are you of the following? Vaccinations,1,Very afraid
+Q35_16,How afraid are you of the following? Vaccinations,2,Afraid
+Q35_16,How afraid are you of the following? Vaccinations,3,Slightly afraid
+Q35_16,How afraid are you of the following? Vaccinations,4,Not at all
+Q35_17,How afraid are you of the following? Measles,-1,Refused
+Q35_17,How afraid are you of the following? Measles,1,Very afraid
+Q35_17,How afraid are you of the following? Measles,2,Afraid
+Q35_17,How afraid are you of the following? Measles,3,Slightly afraid
+Q35_17,How afraid are you of the following? Measles,4,Not at all
+Q35_18,How afraid are you of the following? Whooping cough,-1,Refused
+Q35_18,How afraid are you of the following? Whooping cough,1,Very afraid
+Q35_18,How afraid are you of the following? Whooping cough,2,Afraid
+Q35_18,How afraid are you of the following? Whooping cough,3,Slightly afraid
+Q35_18,How afraid are you of the following? Whooping cough,4,Not at all
+Q36_1,How afraid are you of the following? Growing old,-1,Refused
+Q36_1,How afraid are you of the following? Growing old,1,Very afraid
+Q36_1,How afraid are you of the following? Growing old,2,Afraid
+Q36_1,How afraid are you of the following? Growing old,3,Slightly afraid
+Q36_1,How afraid are you of the following? Growing old,4,Not at all
+Q36_2,How afraid are you of the following? Not having enough money for the future,-1,Refused
+Q36_2,How afraid are you of the following? Not having enough money for the future,1,Very afraid
+Q36_2,How afraid are you of the following? Not having enough money for the future,2,Afraid
+Q36_2,How afraid are you of the following? Not having enough money for the future,3,Slightly afraid
+Q36_2,How afraid are you of the following? Not having enough money for the future,4,Not at all
+Q36_3,How afraid are you of the following? Becoming unemployed,-1,Refused
+Q36_3,How afraid are you of the following? Becoming unemployed,1,Very afraid
+Q36_3,How afraid are you of the following? Becoming unemployed,2,Afraid
+Q36_3,How afraid are you of the following? Becoming unemployed,3,Slightly afraid
+Q36_3,How afraid are you of the following? Becoming unemployed,4,Not at all
+Q36_4,How afraid are you of the following? Becoming seriously ill,-1,Refused
+Q36_4,How afraid are you of the following? Becoming seriously ill,1,Very afraid
+Q36_4,How afraid are you of the following? Becoming seriously ill,2,Afraid
+Q36_4,How afraid are you of the following? Becoming seriously ill,3,Slightly afraid
+Q36_4,How afraid are you of the following? Becoming seriously ill,4,Not at all
+Q36_5,How afraid are you of the following? Dying,-1,Refused
+Q36_5,How afraid are you of the following? Dying,1,Very afraid
+Q36_5,How afraid are you of the following? Dying,2,Afraid
+Q36_5,How afraid are you of the following? Dying,3,Slightly afraid
+Q36_5,How afraid are you of the following? Dying,4,Not at all
+Q36_6,How afraid are you of the following? Loneliness,-1,Refused
+Q36_6,How afraid are you of the following? Loneliness,1,Very afraid
+Q36_6,How afraid are you of the following? Loneliness,2,Afraid
+Q36_6,How afraid are you of the following? Loneliness,3,Slightly afraid
+Q36_6,How afraid are you of the following? Loneliness,4,Not at all
+Q37_1,How comfortable do you feel about trusting the following people? Most people,-1,Refused
+Q37_1,How comfortable do you feel about trusting the following people? Most people,1,Comfortable
+Q37_1,How comfortable do you feel about trusting the following people? Most people,2,Somewhat comfortable
+Q37_1,How comfortable do you feel about trusting the following people? Most people,3,Somewhat uncomfortable
+Q37_1,How comfortable do you feel about trusting the following people? Most people,4,Uncomfortable
+Q37_2,How comfortable do you feel about trusting the following people? Doctors,-1,Refused
+Q37_2,How comfortable do you feel about trusting the following people? Doctors,1,Comfortable
+Q37_2,How comfortable do you feel about trusting the following people? Doctors,2,Somewhat comfortable
+Q37_2,How comfortable do you feel about trusting the following people? Doctors,3,Somewhat uncomfortable
+Q37_2,How comfortable do you feel about trusting the following people? Doctors,4,Uncomfortable
+Q37_3,How comfortable do you feel about trusting the following people? Gun owners,-1,Refused
+Q37_3,How comfortable do you feel about trusting the following people? Gun owners,1,Comfortable
+Q37_3,How comfortable do you feel about trusting the following people? Gun owners,2,Somewhat comfortable
+Q37_3,How comfortable do you feel about trusting the following people? Gun owners,3,Somewhat uncomfortable
+Q37_3,How comfortable do you feel about trusting the following people? Gun owners,4,Uncomfortable
+Q37_4,How comfortable do you feel about trusting the following people? The police in your local community,-1,Refused
+Q37_4,How comfortable do you feel about trusting the following people? The police in your local community,1,Comfortable
+Q37_4,How comfortable do you feel about trusting the following people? The police in your local community,2,Somewhat comfortable
+Q37_4,How comfortable do you feel about trusting the following people? The police in your local community,3,Somewhat uncomfortable
+Q37_4,How comfortable do you feel about trusting the following people? The police in your local community,4,Uncomfortable
+Q37_5,How comfortable do you feel about trusting the following people? White people,-1,Refused
+Q37_5,How comfortable do you feel about trusting the following people? White people,1,Comfortable
+Q37_5,How comfortable do you feel about trusting the following people? White people,2,Somewhat comfortable
+Q37_5,How comfortable do you feel about trusting the following people? White people,3,Somewhat uncomfortable
+Q37_5,How comfortable do you feel about trusting the following people? White people,4,Uncomfortable
+Q37_6,How comfortable do you feel about trusting the following people? African Americans or Blacks,-1,Refused
+Q37_6,How comfortable do you feel about trusting the following people? African Americans or Blacks,1,Comfortable
+Q37_6,How comfortable do you feel about trusting the following people? African Americans or Blacks,2,Somewhat comfortable
+Q37_6,How comfortable do you feel about trusting the following people? African Americans or Blacks,3,Somewhat uncomfortable
+Q37_6,How comfortable do you feel about trusting the following people? African Americans or Blacks,4,Uncomfortable
+Q37_7,How comfortable do you feel about trusting the following people? Hispanics or Latinos,-1,Refused
+Q37_7,How comfortable do you feel about trusting the following people? Hispanics or Latinos,1,Comfortable
+Q37_7,How comfortable do you feel about trusting the following people? Hispanics or Latinos,2,Somewhat comfortable
+Q37_7,How comfortable do you feel about trusting the following people? Hispanics or Latinos,3,Somewhat uncomfortable
+Q37_7,How comfortable do you feel about trusting the following people? Hispanics or Latinos,4,Uncomfortable
+Q37_8,How comfortable do you feel about trusting the following people? Strangers,-1,Refused
+Q37_8,How comfortable do you feel about trusting the following people? Strangers,1,Comfortable
+Q37_8,How comfortable do you feel about trusting the following people? Strangers,2,Somewhat comfortable
+Q37_8,How comfortable do you feel about trusting the following people? Strangers,3,Somewhat uncomfortable
+Q37_8,How comfortable do you feel about trusting the following people? Strangers,4,Uncomfortable
+Q38_1,Please indicate your level of agreement with the following: I think that the service I get from the police is good for the taxes that I pay,-1,Refused
+Q38_1,Please indicate your level of agreement with the following: I think that the service I get from the police is good for the taxes that I pay,1,Strongly agree
+Q38_1,Please indicate your level of agreement with the following: I think that the service I get from the police is good for the taxes that I pay,2,Agree
+Q38_1,Please indicate your level of agreement with the following: I think that the service I get from the police is good for the taxes that I pay,3,Disagree
+Q38_1,Please indicate your level of agreement with the following: I think that the service I get from the police is good for the taxes that I pay,4,Strongly disagree
+Q38_1,Please indicate your level of agreement with the following: I think that the service I get from the police is good for the taxes that I pay,5,Don't know
+Q38_2,Please indicate your level of agreement with the following: I feel safe assuming that the police share my sense of fairness,-1,Refused
+Q38_2,Please indicate your level of agreement with the following: I feel safe assuming that the police share my sense of fairness,1,Strongly agree
+Q38_2,Please indicate your level of agreement with the following: I feel safe assuming that the police share my sense of fairness,2,Agree
+Q38_2,Please indicate your level of agreement with the following: I feel safe assuming that the police share my sense of fairness,3,Disagree
+Q38_2,Please indicate your level of agreement with the following: I feel safe assuming that the police share my sense of fairness,4,Strongly disagree
+Q38_2,Please indicate your level of agreement with the following: I feel safe assuming that the police share my sense of fairness,5,Don't know
+Q38_3,Please indicate your level of agreement with the following: I would approach a police officer for help in the street because I would expect the officer to treat me fairly,-1,Refused
+Q38_3,Please indicate your level of agreement with the following: I would approach a police officer for help in the street because I would expect the officer to treat me fairly,1,Strongly agree
+Q38_3,Please indicate your level of agreement with the following: I would approach a police officer for help in the street because I would expect the officer to treat me fairly,2,Agree
+Q38_3,Please indicate your level of agreement with the following: I would approach a police officer for help in the street because I would expect the officer to treat me fairly,3,Disagree
+Q38_3,Please indicate your level of agreement with the following: I would approach a police officer for help in the street because I would expect the officer to treat me fairly,4,Strongly disagree
+Q38_3,Please indicate your level of agreement with the following: I would approach a police officer for help in the street because I would expect the officer to treat me fairly,5,Don't know
+Q40_1,How afraid are you of the following? Robots that can make their own decisions and take their own actions,-1,Refused
+Q40_1,How afraid are you of the following? Robots that can make their own decisions and take their own actions,1,Very afraid
+Q40_1,How afraid are you of the following? Robots that can make their own decisions and take their own actions,2,Afraid
+Q40_1,How afraid are you of the following? Robots that can make their own decisions and take their own actions,3,Slightly afraid
+Q40_1,How afraid are you of the following? Robots that can make their own decisions and take their own actions,4,Not afraid
+Q40_2,How afraid are you of the following? Robots replacing people in the workforce,-1,Refused
+Q40_2,How afraid are you of the following? Robots replacing people in the workforce,1,Very afraid
+Q40_2,How afraid are you of the following? Robots replacing people in the workforce,2,Afraid
+Q40_2,How afraid are you of the following? Robots replacing people in the workforce,3,Slightly afraid
+Q40_2,How afraid are you of the following? Robots replacing people in the workforce,4,Not afraid
+Q40_3,How afraid are you of the following? Artificial intelligence,-1,Refused
+Q40_3,How afraid are you of the following? Artificial intelligence,1,Very afraid
+Q40_3,How afraid are you of the following? Artificial intelligence,2,Afraid
+Q40_3,How afraid are you of the following? Artificial intelligence,3,Slightly afraid
+Q40_3,How afraid are you of the following? Artificial intelligence,4,Not afraid
+Q40_4,How afraid are you of the following? People trusting artificial intelligence to do work,-1,Refused
+Q40_4,How afraid are you of the following? People trusting artificial intelligence to do work,1,Very afraid
+Q40_4,How afraid are you of the following? People trusting artificial intelligence to do work,2,Afraid
+Q40_4,How afraid are you of the following? People trusting artificial intelligence to do work,3,Slightly afraid
+Q40_4,How afraid are you of the following? People trusting artificial intelligence to do work,4,Not afraid
+Q40_5,How afraid are you of the following? Technology that you don't understand,-1,Refused
+Q40_5,How afraid are you of the following? Technology that you don't understand,1,Very afraid
+Q40_5,How afraid are you of the following? Technology that you don't understand,2,Afraid
+Q40_5,How afraid are you of the following? Technology that you don't understand,3,Slightly afraid
+Q40_5,How afraid are you of the following? Technology that you don't understand,4,Not afraid
+Q40_6,How afraid are you of the following? Cyber-terrorism,-1,Refused
+Q40_6,How afraid are you of the following? Cyber-terrorism,1,Very afraid
+Q40_6,How afraid are you of the following? Cyber-terrorism,2,Afraid
+Q40_6,How afraid are you of the following? Cyber-terrorism,3,Slightly afraid
+Q40_6,How afraid are you of the following? Cyber-terrorism,4,Not afraid
+Q40_7,How afraid are you of the following? Government tracking of personal data,-1,Refused
+Q40_7,How afraid are you of the following? Government tracking of personal data,1,Very afraid
+Q40_7,How afraid are you of the following? Government tracking of personal data,2,Afraid
+Q40_7,How afraid are you of the following? Government tracking of personal data,3,Slightly afraid
+Q40_7,How afraid are you of the following? Government tracking of personal data,4,Not afraid
+Q40_8,How afraid are you of the following? Commercial industry tracking of personal data,-1,Refused
+Q40_8,How afraid are you of the following? Commercial industry tracking of personal data,1,Very afraid
+Q40_8,How afraid are you of the following? Commercial industry tracking of personal data,2,Afraid
+Q40_8,How afraid are you of the following? Commercial industry tracking of personal data,3,Slightly afraid
+Q40_8,How afraid are you of the following? Commercial industry tracking of personal data,4,Not afraid
+Q41_1,How afraid are you of the following events? Devastating earthquake,-1,Refused
+Q41_1,How afraid are you of the following events? Devastating earthquake,1,Very afraid
+Q41_1,How afraid are you of the following events? Devastating earthquake,2,Afraid
+Q41_1,How afraid are you of the following events? Devastating earthquake,3,Slightly afraid
+Q41_1,How afraid are you of the following events? Devastating earthquake,4,Not afraid
+Q41_2,How afraid are you of the following events? Devastating hurricane,-1,Refused
+Q41_2,How afraid are you of the following events? Devastating hurricane,1,Very afraid
+Q41_2,How afraid are you of the following events? Devastating hurricane,2,Afraid
+Q41_2,How afraid are you of the following events? Devastating hurricane,3,Slightly afraid
+Q41_2,How afraid are you of the following events? Devastating hurricane,4,Not afraid
+Q41_3,How afraid are you of the following events? Devastating tornado,-1,Refused
+Q41_3,How afraid are you of the following events? Devastating tornado,1,Very afraid
+Q41_3,How afraid are you of the following events? Devastating tornado,2,Afraid
+Q41_3,How afraid are you of the following events? Devastating tornado,3,Slightly afraid
+Q41_3,How afraid are you of the following events? Devastating tornado,4,Not afraid
+Q41_4,How afraid are you of the following events? Devastating flood,-1,Refused
+Q41_4,How afraid are you of the following events? Devastating flood,1,Very afraid
+Q41_4,How afraid are you of the following events? Devastating flood,2,Afraid
+Q41_4,How afraid are you of the following events? Devastating flood,3,Slightly afraid
+Q41_4,How afraid are you of the following events? Devastating flood,4,Not afraid
+Q41_5,How afraid are you of the following events? Devastating blizzard/winter storm,-1,Refused
+Q41_5,How afraid are you of the following events? Devastating blizzard/winter storm,1,Very afraid
+Q41_5,How afraid are you of the following events? Devastating blizzard/winter storm,2,Afraid
+Q41_5,How afraid are you of the following events? Devastating blizzard/winter storm,3,Slightly afraid
+Q41_5,How afraid are you of the following events? Devastating blizzard/winter storm,4,Not afraid
+Q41_6,How afraid are you of the following events? Devastating drought,-1,Refused
+Q41_6,How afraid are you of the following events? Devastating drought,1,Very afraid
+Q41_6,How afraid are you of the following events? Devastating drought,2,Afraid
+Q41_6,How afraid are you of the following events? Devastating drought,3,Slightly afraid
+Q41_6,How afraid are you of the following events? Devastating drought,4,Not afraid
+Q41_7,How afraid are you of the following events? Large volcanic eruption,-1,Refused
+Q41_7,How afraid are you of the following events? Large volcanic eruption,1,Very afraid
+Q41_7,How afraid are you of the following events? Large volcanic eruption,2,Afraid
+Q41_7,How afraid are you of the following events? Large volcanic eruption,3,Slightly afraid
+Q41_7,How afraid are you of the following events? Large volcanic eruption,4,Not afraid
+Q41_8,How afraid are you of the following events? The collapse of the electrical grid,-1,Refused
+Q41_8,How afraid are you of the following events? The collapse of the electrical grid,1,Very afraid
+Q41_8,How afraid are you of the following events? The collapse of the electrical grid,2,Afraid
+Q41_8,How afraid are you of the following events? The collapse of the electrical grid,3,Slightly afraid
+Q41_8,How afraid are you of the following events? The collapse of the electrical grid,4,Not afraid
+Q41_9,How afraid are you of the following events? Nuclear weapons attack,-1,Refused
+Q41_9,How afraid are you of the following events? Nuclear weapons attack,1,Very afraid
+Q41_9,How afraid are you of the following events? Nuclear weapons attack,2,Afraid
+Q41_9,How afraid are you of the following events? Nuclear weapons attack,3,Slightly afraid
+Q41_9,How afraid are you of the following events? Nuclear weapons attack,4,Not afraid
+Q41_10,How afraid are you of the following events? Nuclear accident/meltdown,-1,Refused
+Q41_10,How afraid are you of the following events? Nuclear accident/meltdown,1,Very afraid
+Q41_10,How afraid are you of the following events? Nuclear accident/meltdown,2,Afraid
+Q41_10,How afraid are you of the following events? Nuclear accident/meltdown,3,Slightly afraid
+Q41_10,How afraid are you of the following events? Nuclear accident/meltdown,4,Not afraid
+Q41_11,How afraid are you of the following events? Economic/Financial collapse,-1,Refused
+Q41_11,How afraid are you of the following events? Economic/Financial collapse,1,Very afraid
+Q41_11,How afraid are you of the following events? Economic/Financial collapse,2,Afraid
+Q41_11,How afraid are you of the following events? Economic/Financial collapse,3,Slightly afraid
+Q41_11,How afraid are you of the following events? Economic/Financial collapse,4,Not afraid
+Q41_12,How afraid are you of the following events? Pandemic or a major epidemic,-1,Refused
+Q41_12,How afraid are you of the following events? Pandemic or a major epidemic,1,Very afraid
+Q41_12,How afraid are you of the following events? Pandemic or a major epidemic,2,Afraid
+Q41_12,How afraid are you of the following events? Pandemic or a major epidemic,3,Slightly afraid
+Q41_12,How afraid are you of the following events? Pandemic or a major epidemic,4,Not afraid
+Q41_13,How afraid are you of the following events? Widespread civil unrest,-1,Refused
+Q41_13,How afraid are you of the following events? Widespread civil unrest,1,Very afraid
+Q41_13,How afraid are you of the following events? Widespread civil unrest,2,Afraid
+Q41_13,How afraid are you of the following events? Widespread civil unrest,3,Slightly afraid
+Q41_13,How afraid are you of the following events? Widespread civil unrest,4,Not afraid
+Q41_14,How afraid are you of the following events? The United States will be involved in another World War,-1,Refused
+Q41_14,How afraid are you of the following events? The United States will be involved in another World War,1,Very afraid
+Q41_14,How afraid are you of the following events? The United States will be involved in another World War,2,Afraid
+Q41_14,How afraid are you of the following events? The United States will be involved in another World War,3,Slightly afraid
+Q41_14,How afraid are you of the following events? The United States will be involved in another World War,4,Not afraid
+Q41_15,How afraid are you of the following events? Whites no longer being the majority in the United States,-1,Refused
+Q41_15,How afraid are you of the following events? Whites no longer being the majority in the United States,1,Very afraid
+Q41_15,How afraid are you of the following events? Whites no longer being the majority in the United States,2,Afraid
+Q41_15,How afraid are you of the following events? Whites no longer being the majority in the United States,3,Slightly afraid
+Q41_15,How afraid are you of the following events? Whites no longer being the majority in the United States,4,Not afraid
+Q41_16,How afraid are you of the following events? Illegal immigration,-1,Refused
+Q41_16,How afraid are you of the following events? Illegal immigration,1,Very afraid
+Q41_16,How afraid are you of the following events? Illegal immigration,2,Afraid
+Q41_16,How afraid are you of the following events? Illegal immigration,3,Slightly afraid
+Q41_16,How afraid are you of the following events? Illegal immigration,4,Not afraid
+Q41_17,How afraid are you of the following events? Biological warfare,-1,Refused
+Q41_17,How afraid are you of the following events? Biological warfare,1,Very afraid
+Q41_17,How afraid are you of the following events? Biological warfare,2,Afraid
+Q41_17,How afraid are you of the following events? Biological warfare,3,Slightly afraid
+Q41_17,How afraid are you of the following events? Biological warfare,4,Not afraid
+Q41_18,How afraid are you of the following events? Terrorist attack,-1,Refused
+Q41_18,How afraid are you of the following events? Terrorist attack,1,Very afraid
+Q41_18,How afraid are you of the following events? Terrorist attack,2,Afraid
+Q41_18,How afraid are you of the following events? Terrorist attack,3,Slightly afraid
+Q41_18,How afraid are you of the following events? Terrorist attack,4,Not afraid
+Q41_19,How afraid are you of the following events? Your property getting damaged in the event of a natural or man-made disaster in your area,-1,Refused
+Q41_19,How afraid are you of the following events? Your property getting damaged in the event of a natural or man-made disaster in your area,1,Very afraid
+Q41_19,How afraid are you of the following events? Your property getting damaged in the event of a natural or man-made disaster in your area,2,Afraid
+Q41_19,How afraid are you of the following events? Your property getting damaged in the event of a natural or man-made disaster in your area,3,Slightly afraid
+Q41_19,How afraid are you of the following events? Your property getting damaged in the event of a natural or man-made disaster in your area,4,Not afraid
+Q42,Would you be willing to give up some of your personal freedom in order to reduce the threat of terrorism?,-1,Refused
+Q42,Would you be willing to give up some of your personal freedom in order to reduce the threat of terrorism?,1,Definitely yes
+Q42,Would you be willing to give up some of your personal freedom in order to reduce the threat of terrorism?,2,Perhaps
+Q42,Would you be willing to give up some of your personal freedom in order to reduce the threat of terrorism?,3,Definitely no
+Q43,"Have you or anyone in your household put together a disaster or emergency supply kit, containing supplies, such as food, water, and medical supplies?",-1,Refused
+Q43,"Have you or anyone in your household put together a disaster or emergency supply kit, containing supplies, such as food, water, and medical supplies?",1,Yes
+Q43,"Have you or anyone in your household put together a disaster or emergency supply kit, containing supplies, such as food, water, and medical supplies?",2,No
+Q44_1,Please indicate your level of agreement with the following: Keeping an emergency supply kit improves a person's chances of surviving a natural or manmade disaster,-1,Refused
+Q44_1,Please indicate your level of agreement with the following: Keeping an emergency supply kit improves a person's chances of surviving a natural or manmade disaster,1,Strongly agree
+Q44_1,Please indicate your level of agreement with the following: Keeping an emergency supply kit improves a person's chances of surviving a natural or manmade disaster,2,Agree
+Q44_1,Please indicate your level of agreement with the following: Keeping an emergency supply kit improves a person's chances of surviving a natural or manmade disaster,3,Disagree
+Q44_1,Please indicate your level of agreement with the following: Keeping an emergency supply kit improves a person's chances of surviving a natural or manmade disaster,4,Strongly disagree
+Q44_2,Please indicate your level of agreement with the following: I will experience a significant natural or manmade disaster in the near future,-1,Refused
+Q44_2,Please indicate your level of agreement with the following: I will experience a significant natural or manmade disaster in the near future,1,Strongly agree
+Q44_2,Please indicate your level of agreement with the following: I will experience a significant natural or manmade disaster in the near future,2,Agree
+Q44_2,Please indicate your level of agreement with the following: I will experience a significant natural or manmade disaster in the near future,3,Disagree
+Q44_2,Please indicate your level of agreement with the following: I will experience a significant natural or manmade disaster in the near future,4,Strongly disagree
+Q44_3,Please indicate your level of agreement with the following: I will experience a significant natural or manmade disaster in my lifetime,-1,Refused
+Q44_3,Please indicate your level of agreement with the following: I will experience a significant natural or manmade disaster in my lifetime,1,Strongly agree
+Q44_3,Please indicate your level of agreement with the following: I will experience a significant natural or manmade disaster in my lifetime,2,Agree
+Q44_3,Please indicate your level of agreement with the following: I will experience a significant natural or manmade disaster in my lifetime,3,Disagree
+Q44_3,Please indicate your level of agreement with the following: I will experience a significant natural or manmade disaster in my lifetime,4,Strongly disagree
+Q45_1,"People have many reasons why they do not have any emergency kit or disaster supplies. How well do the following reasons apply to you? I think emergency services, such as fire, police, and others, will help me",-1,Refused
+Q45_1,"People have many reasons why they do not have any emergency kit or disaster supplies. How well do the following reasons apply to you? I think emergency services, such as fire, police, and others, will help me",1,Very much applicable
+Q45_1,"People have many reasons why they do not have any emergency kit or disaster supplies. How well do the following reasons apply to you? I think emergency services, such as fire, police, and others, will help me",2,Applicable
+Q45_1,"People have many reasons why they do not have any emergency kit or disaster supplies. How well do the following reasons apply to you? I think emergency services, such as fire, police, and others, will help me",3,Slightly applicable
+Q45_1,"People have many reasons why they do not have any emergency kit or disaster supplies. How well do the following reasons apply to you? I think emergency services, such as fire, police, and others, will help me",4,Not at all applicable
+Q45_2,People have many reasons why they do not have any emergency kit or disaster supplies. How well do the following reasons apply to you? I just have not had the time,-1,Refused
+Q45_2,People have many reasons why they do not have any emergency kit or disaster supplies. How well do the following reasons apply to you? I just have not had the time,1,Very much applicable
+Q45_2,People have many reasons why they do not have any emergency kit or disaster supplies. How well do the following reasons apply to you? I just have not had the time,2,Applicable
+Q45_2,People have many reasons why they do not have any emergency kit or disaster supplies. How well do the following reasons apply to you? I just have not had the time,3,Slightly applicable
+Q45_2,People have many reasons why they do not have any emergency kit or disaster supplies. How well do the following reasons apply to you? I just have not had the time,4,Not at all applicable
+Q45_3,People have many reasons why they do not have any emergency kit or disaster supplies. How well do the following reasons apply to you? I don't know what I am supposed to do,-1,Refused
+Q45_3,People have many reasons why they do not have any emergency kit or disaster supplies. How well do the following reasons apply to you? I don't know what I am supposed to do,1,Very much applicable
+Q45_3,People have many reasons why they do not have any emergency kit or disaster supplies. How well do the following reasons apply to you? I don't know what I am supposed to do,2,Applicable
+Q45_3,People have many reasons why they do not have any emergency kit or disaster supplies. How well do the following reasons apply to you? I don't know what I am supposed to do,3,Slightly applicable
+Q45_3,People have many reasons why they do not have any emergency kit or disaster supplies. How well do the following reasons apply to you? I don't know what I am supposed to do,4,Not at all applicable
+Q45_4,People have many reasons why they do not have any emergency kit or disaster supplies. How well do the following reasons apply to you? It costs too much,-1,Refused
+Q45_4,People have many reasons why they do not have any emergency kit or disaster supplies. How well do the following reasons apply to you? It costs too much,1,Very much applicable
+Q45_4,People have many reasons why they do not have any emergency kit or disaster supplies. How well do the following reasons apply to you? It costs too much,2,Applicable
+Q45_4,People have many reasons why they do not have any emergency kit or disaster supplies. How well do the following reasons apply to you? It costs too much,3,Slightly applicable
+Q45_4,People have many reasons why they do not have any emergency kit or disaster supplies. How well do the following reasons apply to you? It costs too much,4,Not at all applicable
+Q45_5,People have many reasons why they do not have any emergency kit or disaster supplies. How well do the following reasons apply to you? I don't think it will make a difference,-1,Refused
+Q45_5,People have many reasons why they do not have any emergency kit or disaster supplies. How well do the following reasons apply to you? I don't think it will make a difference,1,Very much applicable
+Q45_5,People have many reasons why they do not have any emergency kit or disaster supplies. How well do the following reasons apply to you? I don't think it will make a difference,2,Applicable
+Q45_5,People have many reasons why they do not have any emergency kit or disaster supplies. How well do the following reasons apply to you? I don't think it will make a difference,3,Slightly applicable
+Q45_5,People have many reasons why they do not have any emergency kit or disaster supplies. How well do the following reasons apply to you? I don't think it will make a difference,4,Not at all applicable
+Q45_6,People have many reasons why they do not have any emergency kit or disaster supplies. How well do the following reasons apply to you? I just don't think it's that important,-1,Refused
+Q45_6,People have many reasons why they do not have any emergency kit or disaster supplies. How well do the following reasons apply to you? I just don't think it's that important,1,Very much applicable
+Q45_6,People have many reasons why they do not have any emergency kit or disaster supplies. How well do the following reasons apply to you? I just don't think it's that important,2,Applicable
+Q45_6,People have many reasons why they do not have any emergency kit or disaster supplies. How well do the following reasons apply to you? I just don't think it's that important,3,Slightly applicable
+Q45_6,People have many reasons why they do not have any emergency kit or disaster supplies. How well do the following reasons apply to you? I just don't think it's that important,4,Not at all applicable
+Q45_7,People have many reasons why they do not have any emergency kit or disaster supplies. How well do the following reasons apply to you? I don't think I will need an emergency kit,-1,Refused
+Q45_7,People have many reasons why they do not have any emergency kit or disaster supplies. How well do the following reasons apply to you? I don't think I will need an emergency kit,1,Very much applicable
+Q45_7,People have many reasons why they do not have any emergency kit or disaster supplies. How well do the following reasons apply to you? I don't think I will need an emergency kit,2,Applicable
+Q45_7,People have many reasons why they do not have any emergency kit or disaster supplies. How well do the following reasons apply to you? I don't think I will need an emergency kit,3,Slightly applicable
+Q45_7,People have many reasons why they do not have any emergency kit or disaster supplies. How well do the following reasons apply to you? I don't think I will need an emergency kit,4,Not at all applicable
+Q45_8,People have many reasons why they do not have any emergency kit or disaster supplies. How well do the following reasons apply to you? I don't think I will experience a disaster,-1,Refused
+Q45_8,People have many reasons why they do not have any emergency kit or disaster supplies. How well do the following reasons apply to you? I don't think I will experience a disaster,1,Very much applicable
+Q45_8,People have many reasons why they do not have any emergency kit or disaster supplies. How well do the following reasons apply to you? I don't think I will experience a disaster,2,Applicable
+Q45_8,People have many reasons why they do not have any emergency kit or disaster supplies. How well do the following reasons apply to you? I don't think I will experience a disaster,3,Slightly applicable
+Q45_8,People have many reasons why they do not have any emergency kit or disaster supplies. How well do the following reasons apply to you? I don't think I will experience a disaster,4,Not at all applicable
+Q45_9,People have many reasons why they do not have any emergency kit or disaster supplies. How well do the following reasons apply to you? I don't want to think about it,-1,Refused
+Q45_9,People have many reasons why they do not have any emergency kit or disaster supplies. How well do the following reasons apply to you? I don't want to think about it,1,Very much applicable
+Q45_9,People have many reasons why they do not have any emergency kit or disaster supplies. How well do the following reasons apply to you? I don't want to think about it,2,Applicable
+Q45_9,People have many reasons why they do not have any emergency kit or disaster supplies. How well do the following reasons apply to you? I don't want to think about it,3,Slightly applicable
+Q45_9,People have many reasons why they do not have any emergency kit or disaster supplies. How well do the following reasons apply to you? I don't want to think about it,4,Not at all applicable
+PPAGE,Age,18,
+PPAGE,Age,19,
+PPAGE,Age,20,
+PPAGE,Age,21,
+PPAGE,Age,22,
+PPAGE,Age,23,
+PPAGE,Age,24,
+PPAGE,Age,25,
+PPAGE,Age,26,
+PPAGE,Age,27,
+PPAGE,Age,28,
+PPAGE,Age,29,
+PPAGE,Age,30,
+PPAGE,Age,31,
+PPAGE,Age,32,
+PPAGE,Age,33,
+PPAGE,Age,34,
+PPAGE,Age,35,
+PPAGE,Age,36,
+PPAGE,Age,37,
+PPAGE,Age,38,
+PPAGE,Age,39,
+PPAGE,Age,40,
+PPAGE,Age,41,
+PPAGE,Age,42,
+PPAGE,Age,43,
+PPAGE,Age,44,
+PPAGE,Age,45,
+PPAGE,Age,46,
+PPAGE,Age,47,
+PPAGE,Age,48,
+PPAGE,Age,49,
+PPAGE,Age,50,
+PPAGE,Age,51,
+PPAGE,Age,52,
+PPAGE,Age,53,
+PPAGE,Age,54,
+PPAGE,Age,55,
+PPAGE,Age,56,
+PPAGE,Age,57,
+PPAGE,Age,58,
+PPAGE,Age,59,
+PPAGE,Age,60,
+PPAGE,Age,61,
+PPAGE,Age,62,
+PPAGE,Age,63,
+PPAGE,Age,64,
+PPAGE,Age,65,
+PPAGE,Age,66,
+PPAGE,Age,67,
+PPAGE,Age,68,
+PPAGE,Age,69,
+PPAGE,Age,70,
+PPAGE,Age,71,
+PPAGE,Age,72,
+PPAGE,Age,73,
+PPAGE,Age,74,
+PPAGE,Age,75,
+PPAGE,Age,76,
+PPAGE,Age,77,
+PPAGE,Age,78,
+PPAGE,Age,79,
+PPAGE,Age,80,
+PPAGE,Age,81,
+PPAGE,Age,82,
+PPAGE,Age,83,
+PPAGE,Age,85,
+PPAGE,Age,86,
+PPAGE,Age,87,
+PPAGE,Age,88,
+PPAGE,Age,90,
+PPAGECAT,Age - Seven categories,1,18 to 24
+PPAGECAT,Age - Seven categories,2,25 to 34
+PPAGECAT,Age - Seven categories,3,35 to 44
+PPAGECAT,Age - Seven categories,4,45 to 54
+PPAGECAT,Age - Seven categories,5,55 to 64
+PPAGECAT,Age - Seven categories,6,65 to 74
+PPAGECAT,Age - Seven categories,7,75 or older
+PPAGECT4,Age - Four categories,1,18 to 29
+PPAGECT4,Age - Four categories,2,30 to 44
+PPAGECT4,Age - Four categories,3,45 to 59
+PPAGECT4,Age - Four categories,4,60 or older
+PPEDUC,Education (highest degree received),1,No formal education
+PPEDUC,Education (highest degree received),2,"First, second, third, or fourth grade"
+PPEDUC,Education (highest degree received),3,Fifth or sixth grade
+PPEDUC,Education (highest degree received),4,Seventh or eighth grade
+PPEDUC,Education (highest degree received),5,Ninth grade
+PPEDUC,Education (highest degree received),6,10th grade
+PPEDUC,Education (highest degree received),7,11th grade
+PPEDUC,Education (highest degree received),8,12th grade - No diploma
+PPEDUC,Education (highest degree received),9,High school graduate - High school diploma or the equivalent (GED)
+PPEDUC,Education (highest degree received),10,"Some college, no degree"
+PPEDUC,Education (highest degree received),11,Associate degree
+PPEDUC,Education (highest degree received),12,Bachelor's degree
+PPEDUC,Education (highest degree received),13,Master's degree
+PPEDUC,Education (highest degree received),14,Professional or doctorate degree
+PPEDUCAT,Education (categorical),1,Less than high school
+PPEDUCAT,Education (categorical),2,High school
+PPEDUCAT,Education (categorical),3,Some college
+PPEDUCAT,Education (categorical),4,Bachelor's degree or higher
+PPETHM,Race/Ethnicity,1,"White, non-Hispanic"
+PPETHM,Race/Ethnicity,2,"Black, non-Hispanic"
+PPETHM,Race/Ethnicity,3,"Other, non-Hispanic"
+PPETHM,Race/Ethnicity,4,Hispanic
+PPETHM,Race/Ethnicity,5,"Two or more races, non-Hispanic"
+PPGENDER,Gender,1,Male
+PPGENDER,Gender,2,Female
+PPHHHEAD,Household head,0,No
+PPHHHEAD,Household head,1,Yes
+PPHHSIZE,Household size,1,
+PPHHSIZE,Household size,2,
+PPHHSIZE,Household size,3,
+PPHHSIZE,Household size,4,
+PPHHSIZE,Household size,5,
+PPHHSIZE,Household size,6,
+PPHHSIZE,Household size,7,
+PPHHSIZE,Household size,8,
+PPHHSIZE,Household size,9,
+PPHHSIZE,Household size,10,
+PPHOUSE,Housing type,1,A one-family house detached from any other house
+PPHOUSE,Housing type,2,A one-family house attached to one or more houses
+PPHOUSE,Housing type,3,A building with two or more apartments
+PPHOUSE,Housing type,4,A mobile home
+PPHOUSE,Housing type,5,"Boat, RV, van, etc."
+PPINCIMP,Household income,1,"Less than $5,000"
+PPINCIMP,Household income,2,"$5,000 to $7,499"
+PPINCIMP,Household income,3,"$7,500 to $9,999"
+PPINCIMP,Household income,4,"$10,000 to $12,499"
+PPINCIMP,Household income,5,"$12,500 to $14,999"
+PPINCIMP,Household income,6,"$15,000 to $19,999"
+PPINCIMP,Household income,7,"$20,000 to $24,999"
+PPINCIMP,Household income,8,"$25,000 to $29,999"
+PPINCIMP,Household income,9,"$30,000 to $34,999"
+PPINCIMP,Household income,10,"$35,000 to $39,999"
+PPINCIMP,Household income,11,"$40,000 to $49,999"
+PPINCIMP,Household income,12,"$50,000 to $59,999"
+PPINCIMP,Household income,13,"$60,000 to $74,999"
+PPINCIMP,Household income,14,"$75,000 to $84,999"
+PPINCIMP,Household income,15,"$85,000 to $99,999"
+PPINCIMP,Household income,16,"$100,000 to $124,999"
+PPINCIMP,Household income,17,"$125,000 to $149,999"
+PPINCIMP,Household income,18,"$150,000 to $174,999"
+PPINCIMP,Household income,19,"$175,000 or more"
+PPMARIT,Marital status,1,Married
+PPMARIT,Marital status,2,Widowed
+PPMARIT,Marital status,3,Divorced
+PPMARIT,Marital status,4,Separated
+PPMARIT,Marital status,5,Never married
+PPMARIT,Marital status,6,Living with partner
+PPMSACAT,MSA (Metropolitan Statistical Area) status,0,Non-metro
+PPMSACAT,MSA (Metropolitan Statistical Area) status,1,Metro
+PPREG4,Region four - Based on state of residence,1,Northeast
+PPREG4,Region four - Based on state of residence,2,Midwest
+PPREG4,Region four - Based on state of residence,3,South
+PPREG4,Region four - Based on state of residence,4,West
+PPREG9,Region nine - Based on state of residence,1,New England
+PPREG9,Region nine - Based on state of residence,2,Mid-Atlantic
+PPREG9,Region nine - Based on state of residence,3,East-North Central
+PPREG9,Region nine - Based on state of residence,4,West-North Central
+PPREG9,Region nine - Based on state of residence,5,South Atlantic
+PPREG9,Region nine - Based on state of residence,6,East-South Central
+PPREG9,Region nine - Based on state of residence,7,West-South Central
+PPREG9,Region nine - Based on state of residence,8,Mountain
+PPREG9,Region nine - Based on state of residence,9,Pacific
+PPRENT,Ownership status of living quarters,1,Owned or being bought by you or someone in your household
+PPRENT,Ownership status of living quarters,2,Rented for cash
+PPRENT,Ownership status of living quarters,3,Occupied without payment of cash rent
+PPSTATEN,State,11,ME
+PPSTATEN,State,12,NH
+PPSTATEN,State,13,VT
+PPSTATEN,State,14,MA
+PPSTATEN,State,15,RI
+PPSTATEN,State,16,CT
+PPSTATEN,State,21,NY
+PPSTATEN,State,22,NJ
+PPSTATEN,State,23,PA
+PPSTATEN,State,31,OH
+PPSTATEN,State,32,IN
+PPSTATEN,State,33,IL
+PPSTATEN,State,34,MI
+PPSTATEN,State,35,WI
+PPSTATEN,State,41,MN
+PPSTATEN,State,42,IA
+PPSTATEN,State,43,MO
+PPSTATEN,State,44,ND
+PPSTATEN,State,45,SD
+PPSTATEN,State,46,NE
+PPSTATEN,State,47,KS
+PPSTATEN,State,51,DE
+PPSTATEN,State,52,MD
+PPSTATEN,State,53,DC
+PPSTATEN,State,54,VA
+PPSTATEN,State,55,WV
+PPSTATEN,State,56,NC
+PPSTATEN,State,57,SC
+PPSTATEN,State,58,GA
+PPSTATEN,State,59,FL
+PPSTATEN,State,61,KY
+PPSTATEN,State,62,TN
+PPSTATEN,State,63,AL
+PPSTATEN,State,64,MS
+PPSTATEN,State,71,AR
+PPSTATEN,State,72,LA
+PPSTATEN,State,73,OK
+PPSTATEN,State,74,TX
+PPSTATEN,State,81,MT
+PPSTATEN,State,82,ID
+PPSTATEN,State,83,WY
+PPSTATEN,State,84,CO
+PPSTATEN,State,85,NM
+PPSTATEN,State,86,AZ
+PPSTATEN,State,87,UT
+PPSTATEN,State,88,NV
+PPSTATEN,State,91,WA
+PPSTATEN,State,92,OR
+PPSTATEN,State,93,CA
+PPSTATEN,State,95,HI
+PPT01,Presence of household members - Children zero to one,0,
+PPT01,Presence of household members - Children zero to one,1,
+PPT01,Presence of household members - Children zero to one,2,
+PPT25,Presence of household members - Children two to five,0,
+PPT25,Presence of household members - Children two to five,1,
+PPT25,Presence of household members - Children two to five,2,
+PPT25,Presence of household members - Children two to five,4,
+PPT612,Presence of household members - Children six to 12,0,
+PPT612,Presence of household members - Children six to 12,1,
+PPT612,Presence of household members - Children six to 12,2,
+PPT612,Presence of household members - Children six to 12,3,
+PPT1317,Presence of household members - Children 13 to 17,0,
+PPT1317,Presence of household members - Children 13 to 17,1,
+PPT1317,Presence of household members - Children 13 to 17,2,
+PPT1317,Presence of household members - Children 13 to 17,3,
+PPT1317,Presence of household members - Children 13 to 17,4,
+PPT18OV,Presence of household members - Adults 18 or older,1,
+PPT18OV,Presence of household members - Adults 18 or older,2,
+PPT18OV,Presence of household members - Adults 18 or older,3,
+PPT18OV,Presence of household members - Adults 18 or older,4,
+PPT18OV,Presence of household members - Adults 18 or older,5,
+PPT18OV,Presence of household members - Adults 18 or older,6,
+PPT18OV,Presence of household members - Adults 18 or older,7,
+PPT18OV,Presence of household members - Adults 18 or older,8,
+PPWORK,Current employment status,1,Working - as a paid employee
+PPWORK,Current employment status,2,Working - self-employed
+PPWORK,Current employment status,3,Not working - on temporary layoff from a job
+PPWORK,Current employment status,4,Not working - looking for work
+PPWORK,Current employment status,5,Not working - retired
+PPWORK,Current employment status,6,Not working - disabled
+PPWORK,Current employment status,7,Not working - other
+PPNET,Household Internet access,0,No
+PPNET,Household Internet access,1,Yes
+I-ATTEND,"How often do you attend religious services at a church, mosque, synagogue or other place of worship? (Recoded for use with online analysis)",1,Never
+I-ATTEND,"How often do you attend religious services at a church, mosque, synagogue or other place of worship? (Recoded for use with online analysis)",2,Once or twice a year or fewer
+I-ATTEND,"How often do you attend religious services at a church, mosque, synagogue or other place of worship? (Recoded for use with online analysis)",3,Several times a year
+I-ATTEND,"How often do you attend religious services at a church, mosque, synagogue or other place of worship? (Recoded for use with online analysis)",4,One to three times a month
+I-ATTEND,"How often do you attend religious services at a church, mosque, synagogue or other place of worship? (Recoded for use with online analysis)",5,Weekly or more
+I-EDUC,Education (categorical) (for use with online analysis),1,Less than high school
+I-EDUC,Education (categorical) (for use with online analysis),2,High school
+I-EDUC,Education (categorical) (for use with online analysis),3,Some college
+I-EDUC,Education (categorical) (for use with online analysis),4,Bachelor's degree or higher
+I-GENDER,Gender (for use with online analysis),1,Male
+I-GENDER,Gender (for use with online analysis),2,Female
+I-MARITAL,Marital status (for use with online analysis),1,Married
+I-MARITAL,Marital status (for use with online analysis),2,Widowed
+I-MARITAL,Marital status (for use with online analysis),3,Divorced
+I-MARITAL,Marital status (for use with online analysis),4,Separated
+I-MARITAL,Marital status (for use with online analysis),5,Never married
+I-MARITAL,Marital status (for use with online analysis),6,Living with partner
+I-RACE,Race/Ethnicity (for use with online analysis),1,"White, non-Hispanic"
+I-RACE,Race/Ethnicity (for use with online analysis),2,"Black, non-Hispanic"
+I-RACE,Race/Ethnicity (for use with online analysis),3,"Other, non-Hispanic"
+I-RACE,Race/Ethnicity (for use with online analysis),4,Hispanic
+I-RACE,Race/Ethnicity (for use with online analysis),5,"Two or more races, non-Hispanic"
+I-RELIGION,"What is your religious preference, if any? (Recoded for use with online analysis)",1,Protestant
+I-RELIGION,"What is your religious preference, if any? (Recoded for use with online analysis)",2,Catholic
+I-RELIGION,"What is your religious preference, if any? (Recoded for use with online analysis)",3,Christian (neither Protestant nor Catholic)
+I-RELIGION,"What is your religious preference, if any? (Recoded for use with online analysis)",4,Other
+I-RELIGION,"What is your religious preference, if any? (Recoded for use with online analysis)",5,None

@@ -1,0 +1,982 @@
+Q_NAME,Description,Option_Num,Option_Text
+DEVICETYPE,Device used for survey completion,1,"PC/laptop/Large screen device (e.g., TV etc.)"
+DEVICETYPE,Device used for survey completion,2,IPhone/iPod
+DEVICETYPE,Device used for survey completion,4,Android smart phones
+DEVICETYPE,Device used for survey completion,6,"Other smart phone (smart phones, that is not iOS/Android/Windows mobile)"
+DEVICETYPE,Device used for survey completion,8,"Generic phones (e.g., older version of Nokia, Blackberry, etc.)"
+DEVICETYPE,Device used for survey completion,15,Android phone (no support for touch)
+Q1,Q1. How religious do you consider yourself to be? (Please select one.),1,Not at all religious
+Q1,Q1. How religious do you consider yourself to be? (Please select one.),2,Not too religious
+Q1,Q1. How religious do you consider yourself to be? (Please select one.),3,Somewhat religious
+Q1,Q1. How religious do you consider yourself to be? (Please select one.),4,Very religious
+Q2,"Q2. How often do you attend religious services at a church, mosque, synagogue or other place of worship? (Please select one.)",1,Never
+Q2,"Q2. How often do you attend religious services at a church, mosque, synagogue or other place of worship? (Please select one.)",2,"Only on special occasions (i.e., weddings, funerals, holidays)"
+Q2,"Q2. How often do you attend religious services at a church, mosque, synagogue or other place of worship? (Please select one.)",3,Less than once a year
+Q2,"Q2. How often do you attend religious services at a church, mosque, synagogue or other place of worship? (Please select one.)",4,Once or twice a year
+Q2,"Q2. How often do you attend religious services at a church, mosque, synagogue or other place of worship? (Please select one.)",5,Several times a year
+Q2,"Q2. How often do you attend religious services at a church, mosque, synagogue or other place of worship? (Please select one.)",6,Once a month
+Q2,"Q2. How often do you attend religious services at a church, mosque, synagogue or other place of worship? (Please select one.)",7,Two to three times a month
+Q2,"Q2. How often do you attend religious services at a church, mosque, synagogue or other place of worship? (Please select one.)",8,Weekly
+Q2,"Q2. How often do you attend religious services at a church, mosque, synagogue or other place of worship? (Please select one.)",9,Several times a week
+Q3,Q3. Which one statement comes closest to your personal beliefs about the Christian Bible? (Please select one.),1,"The Bible means exactly what it says.  It should be taken literally, word-for-word, on all subjects."
+Q3,Q3. Which one statement comes closest to your personal beliefs about the Christian Bible? (Please select one.),2,"The Bible is perfectly true, but it should not be taken literally, word-for-word. We must interpret its meaning."
+Q3,Q3. Which one statement comes closest to your personal beliefs about the Christian Bible? (Please select one.),3,The Bible contains some human error.
+Q3,Q3. Which one statement comes closest to your personal beliefs about the Christian Bible? (Please select one.),4,The Bible is an ancient book of history and legends.
+Q3,Q3. Which one statement comes closest to your personal beliefs about the Christian Bible? (Please select one.),5,I don't know
+Q4,Q4. How would you describe yourself politically? (Please select one.),-1,Web blank
+Q4,Q4. How would you describe yourself politically? (Please select one.),1,Extremely conservative
+Q4,Q4. How would you describe yourself politically? (Please select one.),2,Conservative
+Q4,Q4. How would you describe yourself politically? (Please select one.),3,Leaning conservative
+Q4,Q4. How would you describe yourself politically? (Please select one.),4,Moderate
+Q4,Q4. How would you describe yourself politically? (Please select one.),5,Leaning liberal
+Q4,Q4. How would you describe yourself politically? (Please select one.),6,Liberal
+Q4,Q4. How would you describe yourself politically? (Please select one.),7,Extremely liberal
+Q5,"Q5. Do you think of yourself as Republican, Democrat or Independent? (Please select one.)",-1,Web blank
+Q5,"Q5. Do you think of yourself as Republican, Democrat or Independent? (Please select one.)",1,Strong Republican
+Q5,"Q5. Do you think of yourself as Republican, Democrat or Independent? (Please select one.)",2,Moderate Republican
+Q5,"Q5. Do you think of yourself as Republican, Democrat or Independent? (Please select one.)",3,Leaning Republican
+Q5,"Q5. Do you think of yourself as Republican, Democrat or Independent? (Please select one.)",4,Independent
+Q5,"Q5. Do you think of yourself as Republican, Democrat or Independent? (Please select one.)",5,Leaning Democrat
+Q5,"Q5. Do you think of yourself as Republican, Democrat or Independent? (Please select one.)",6,Moderate Democrat
+Q5,"Q5. Do you think of yourself as Republican, Democrat or Independent? (Please select one.)",7,Strong Democrat
+Q6,Q6. Who did you vote for in the 2020 Presidential election?,1,"Donald Trump, the Republican nominee"
+Q6,Q6. Who did you vote for in the 2020 Presidential election?,2,"Joseph Biden, the Democratic nominee"
+Q6,Q6. Who did you vote for in the 2020 Presidential election?,3,Someone else
+Q6,Q6. Who did you vote for in the 2020 Presidential election?,4,Did not vote
+Q9A,Q9a. How often do you...? (Please select one response for each.) a. Read a local newspaper from your hometown?,1,Every day
+Q9A,Q9a. How often do you...? (Please select one response for each.) a. Read a local newspaper from your hometown?,2,Most days
+Q9A,Q9a. How often do you...? (Please select one response for each.) a. Read a local newspaper from your hometown?,3,Once or twice a week
+Q9A,Q9a. How often do you...? (Please select one response for each.) a. Read a local newspaper from your hometown?,4,Once or twice a month
+Q9A,Q9a. How often do you...? (Please select one response for each.) a. Read a local newspaper from your hometown?,5,Less than once a month but at least once a year
+Q9A,Q9a. How often do you...? (Please select one response for each.) a. Read a local newspaper from your hometown?,6,Never
+Q9B,"Q9b. How often do you...? (Please select one response for each.) b. Read a national newspaper such as USA Today, The Wall Street Journal, or The New York Times?",1,Every day
+Q9B,"Q9b. How often do you...? (Please select one response for each.) b. Read a national newspaper such as USA Today, The Wall Street Journal, or The New York Times?",2,Most days
+Q9B,"Q9b. How often do you...? (Please select one response for each.) b. Read a national newspaper such as USA Today, The Wall Street Journal, or The New York Times?",3,Once or twice a week
+Q9B,"Q9b. How often do you...? (Please select one response for each.) b. Read a national newspaper such as USA Today, The Wall Street Journal, or The New York Times?",4,Once or twice a month
+Q9B,"Q9b. How often do you...? (Please select one response for each.) b. Read a national newspaper such as USA Today, The Wall Street Journal, or The New York Times?",5,Less than once a month but at least once a year
+Q9B,"Q9b. How often do you...? (Please select one response for each.) b. Read a national newspaper such as USA Today, The Wall Street Journal, or The New York Times?",6,Never
+Q9C,Q9c. How often do you...? (Please select one response for each.) c. Read online news websites?,1,Every day
+Q9C,Q9c. How often do you...? (Please select one response for each.) c. Read online news websites?,2,Most days
+Q9C,Q9c. How often do you...? (Please select one response for each.) c. Read online news websites?,3,Once or twice a week
+Q9C,Q9c. How often do you...? (Please select one response for each.) c. Read online news websites?,4,Once or twice a month
+Q9C,Q9c. How often do you...? (Please select one response for each.) c. Read online news websites?,5,Less than once a month but at least once a year
+Q9C,Q9c. How often do you...? (Please select one response for each.) c. Read online news websites?,6,Never
+Q9D,Q9d. How often do you...? (Please select one response for each.) d. Watch the national nightly network news?,1,Every day
+Q9D,Q9d. How often do you...? (Please select one response for each.) d. Watch the national nightly network news?,2,Most days
+Q9D,Q9d. How often do you...? (Please select one response for each.) d. Watch the national nightly network news?,3,Once or twice a week
+Q9D,Q9d. How often do you...? (Please select one response for each.) d. Watch the national nightly network news?,4,Once or twice a month
+Q9D,Q9d. How often do you...? (Please select one response for each.) d. Watch the national nightly network news?,5,Less than once a month but at least once a year
+Q9D,Q9d. How often do you...? (Please select one response for each.) d. Watch the national nightly network news?,6,Never
+Q9E,Q9e. How often do you...? (Please select one response for each.) e. Watch Fox News?,1,Every day
+Q9E,Q9e. How often do you...? (Please select one response for each.) e. Watch Fox News?,2,Most days
+Q9E,Q9e. How often do you...? (Please select one response for each.) e. Watch Fox News?,3,Once or twice a week
+Q9E,Q9e. How often do you...? (Please select one response for each.) e. Watch Fox News?,4,Once or twice a month
+Q9E,Q9e. How often do you...? (Please select one response for each.) e. Watch Fox News?,5,Less than once a month but at least once a year
+Q9E,Q9e. How often do you...? (Please select one response for each.) e. Watch Fox News?,6,Never
+Q9F,Q9f. How often do you...? (Please select one response for each.) f. Watch CNN?,1,Every day
+Q9F,Q9f. How often do you...? (Please select one response for each.) f. Watch CNN?,2,Most days
+Q9F,Q9f. How often do you...? (Please select one response for each.) f. Watch CNN?,3,Once or twice a week
+Q9F,Q9f. How often do you...? (Please select one response for each.) f. Watch CNN?,4,Once or twice a month
+Q9F,Q9f. How often do you...? (Please select one response for each.) f. Watch CNN?,5,Less than once a month but at least once a year
+Q9F,Q9f. How often do you...? (Please select one response for each.) f. Watch CNN?,6,Never
+Q9G,Q9g. How often do you...? (Please select one response for each.) g. Watch MSNBC?,-1,Web blank
+Q9G,Q9g. How often do you...? (Please select one response for each.) g. Watch MSNBC?,1,Every day
+Q9G,Q9g. How often do you...? (Please select one response for each.) g. Watch MSNBC?,2,Most days
+Q9G,Q9g. How often do you...? (Please select one response for each.) g. Watch MSNBC?,3,Once or twice a week
+Q9G,Q9g. How often do you...? (Please select one response for each.) g. Watch MSNBC?,4,Once or twice a month
+Q9G,Q9g. How often do you...? (Please select one response for each.) g. Watch MSNBC?,5,Less than once a month but at least once a year
+Q9G,Q9g. How often do you...? (Please select one response for each.) g. Watch MSNBC?,6,Never
+Q9H,Q9h. How often do you...? (Please select one response for each.) h. Watch the local TV news?,1,Every day
+Q9H,Q9h. How often do you...? (Please select one response for each.) h. Watch the local TV news?,2,Most days
+Q9H,Q9h. How often do you...? (Please select one response for each.) h. Watch the local TV news?,3,Once or twice a week
+Q9H,Q9h. How often do you...? (Please select one response for each.) h. Watch the local TV news?,4,Once or twice a month
+Q9H,Q9h. How often do you...? (Please select one response for each.) h. Watch the local TV news?,5,Less than once a month but at least once a year
+Q9H,Q9h. How often do you...? (Please select one response for each.) h. Watch the local TV news?,6,Never
+Q9I,Q9i. How often do you...? (Please select one response for each.) i. Watch daytime talk shows?,1,Every day
+Q9I,Q9i. How often do you...? (Please select one response for each.) i. Watch daytime talk shows?,2,Most days
+Q9I,Q9i. How often do you...? (Please select one response for each.) i. Watch daytime talk shows?,3,Once or twice a week
+Q9I,Q9i. How often do you...? (Please select one response for each.) i. Watch daytime talk shows?,4,Once or twice a month
+Q9I,Q9i. How often do you...? (Please select one response for each.) i. Watch daytime talk shows?,5,Less than once a month but at least once a year
+Q9I,Q9i. How often do you...? (Please select one response for each.) i. Watch daytime talk shows?,6,Never
+Q9J,Q9j. How often do you...? (Please select one response for each.) j. Listen to a talk radio show that discusses politics?,1,Every day
+Q9J,Q9j. How often do you...? (Please select one response for each.) j. Listen to a talk radio show that discusses politics?,2,Most days
+Q9J,Q9j. How often do you...? (Please select one response for each.) j. Listen to a talk radio show that discusses politics?,3,Once or twice a week
+Q9J,Q9j. How often do you...? (Please select one response for each.) j. Listen to a talk radio show that discusses politics?,4,Once or twice a month
+Q9J,Q9j. How often do you...? (Please select one response for each.) j. Listen to a talk radio show that discusses politics?,5,Less than once a month but at least once a year
+Q9J,Q9j. How often do you...? (Please select one response for each.) j. Listen to a talk radio show that discusses politics?,6,Never
+Q9K,Q9k. How often do you...? (Please select one response for each.) k. Get news from social media?,1,Every day
+Q9K,Q9k. How often do you...? (Please select one response for each.) k. Get news from social media?,2,Most days
+Q9K,Q9k. How often do you...? (Please select one response for each.) k. Get news from social media?,3,Once or twice a week
+Q9K,Q9k. How often do you...? (Please select one response for each.) k. Get news from social media?,4,Once or twice a month
+Q9K,Q9k. How often do you...? (Please select one response for each.) k. Get news from social media?,5,Less than once a month but at least once a year
+Q9K,Q9k. How often do you...? (Please select one response for each.) k. Get news from social media?,6,Never
+Q10A,Q10a. How afraid are you of the following? (Please select one response for each.) a. Becoming seriously ill,1,Very afraid
+Q10A,Q10a. How afraid are you of the following? (Please select one response for each.) a. Becoming seriously ill,2,Afraid
+Q10A,Q10a. How afraid are you of the following? (Please select one response for each.) a. Becoming seriously ill,3,Slightly afraid
+Q10A,Q10a. How afraid are you of the following? (Please select one response for each.) a. Becoming seriously ill,4,Not afraid
+Q10B,Q10b. How afraid are you of the following? (Please select one response for each.) b. People I love becoming seriously ill,1,Very afraid
+Q10B,Q10b. How afraid are you of the following? (Please select one response for each.) b. People I love becoming seriously ill,2,Afraid
+Q10B,Q10b. How afraid are you of the following? (Please select one response for each.) b. People I love becoming seriously ill,3,Slightly afraid
+Q10B,Q10b. How afraid are you of the following? (Please select one response for each.) b. People I love becoming seriously ill,4,Not afraid
+Q10C,Q10c. How afraid are you of the following? (Please select one response for each.) c. Dying,1,Very afraid
+Q10C,Q10c. How afraid are you of the following? (Please select one response for each.) c. Dying,2,Afraid
+Q10C,Q10c. How afraid are you of the following? (Please select one response for each.) c. Dying,3,Slightly afraid
+Q10C,Q10c. How afraid are you of the following? (Please select one response for each.) c. Dying,4,Not afraid
+Q10D,Q10d. How afraid are you of the following? (Please select one response for each.) d. People I love dying,1,Very afraid
+Q10D,Q10d. How afraid are you of the following? (Please select one response for each.) d. People I love dying,2,Afraid
+Q10D,Q10d. How afraid are you of the following? (Please select one response for each.) d. People I love dying,3,Slightly afraid
+Q10D,Q10d. How afraid are you of the following? (Please select one response for each.) d. People I love dying,4,Not afraid
+Q11A,How afraid are you of the following? (Please select one response for each.) a. Air pollution,1,Very afraid
+Q11A,How afraid are you of the following? (Please select one response for each.) a. Air pollution,2,Afraid
+Q11A,How afraid are you of the following? (Please select one response for each.) a. Air pollution,3,Slightly afraid
+Q11A,How afraid are you of the following? (Please select one response for each.) a. Air pollution,4,Not afraid
+Q11B,Q11b. How afraid are you of the following? (Please select one response for each.) b. Pollution of drinking water,-1,Web blank
+Q11B,Q11b. How afraid are you of the following? (Please select one response for each.) b. Pollution of drinking water,1,Very afraid
+Q11B,Q11b. How afraid are you of the following? (Please select one response for each.) b. Pollution of drinking water,2,Afraid
+Q11B,Q11b. How afraid are you of the following? (Please select one response for each.) b. Pollution of drinking water,3,Slightly afraid
+Q11B,Q11b. How afraid are you of the following? (Please select one response for each.) b. Pollution of drinking water,4,Not afraid
+Q11C,"Q11c. How afraid are you of the following? (Please select one response for each.) c. Pollution of oceans, rivers and lakes",1,Very afraid
+Q11C,"Q11c. How afraid are you of the following? (Please select one response for each.) c. Pollution of oceans, rivers and lakes",2,Afraid
+Q11C,"Q11c. How afraid are you of the following? (Please select one response for each.) c. Pollution of oceans, rivers and lakes",3,Slightly afraid
+Q11C,"Q11c. How afraid are you of the following? (Please select one response for each.) c. Pollution of oceans, rivers and lakes",4,Not afraid
+Q11D,Q11d. How afraid are you of the following? (Please select one response for each.) d. Extinction of plant and animal species,-1,Web blank
+Q11D,Q11d. How afraid are you of the following? (Please select one response for each.) d. Extinction of plant and animal species,1,Very afraid
+Q11D,Q11d. How afraid are you of the following? (Please select one response for each.) d. Extinction of plant and animal species,2,Afraid
+Q11D,Q11d. How afraid are you of the following? (Please select one response for each.) d. Extinction of plant and animal species,3,Slightly afraid
+Q11D,Q11d. How afraid are you of the following? (Please select one response for each.) d. Extinction of plant and animal species,4,Not afraid
+Q11E,Q11e. How afraid are you of the following? (Please select one response for each.) e. Oil spills,-1,Web blank
+Q11E,Q11e. How afraid are you of the following? (Please select one response for each.) e. Oil spills,1,Very afraid
+Q11E,Q11e. How afraid are you of the following? (Please select one response for each.) e. Oil spills,2,Afraid
+Q11E,Q11e. How afraid are you of the following? (Please select one response for each.) e. Oil spills,3,Slightly afraid
+Q11E,Q11e. How afraid are you of the following? (Please select one response for each.) e. Oil spills,4,Not afraid
+Q11F,Q11f. How afraid are you of the following? (Please select one response for each.) f. Global warming and climate change,1,Very afraid
+Q11F,Q11f. How afraid are you of the following? (Please select one response for each.) f. Global warming and climate change,2,Afraid
+Q11F,Q11f. How afraid are you of the following? (Please select one response for each.) f. Global warming and climate change,3,Slightly afraid
+Q11F,Q11f. How afraid are you of the following? (Please select one response for each.) f. Global warming and climate change,4,Not afraid
+Q13A,Q13a. How afraid are you of the following? (Please select one response for each.) a. Not having enough money for the future,-1,Web blank
+Q13A,Q13a. How afraid are you of the following? (Please select one response for each.) a. Not having enough money for the future,1,Very afraid
+Q13A,Q13a. How afraid are you of the following? (Please select one response for each.) a. Not having enough money for the future,2,Afraid
+Q13A,Q13a. How afraid are you of the following? (Please select one response for each.) a. Not having enough money for the future,3,Slightly afraid
+Q13A,Q13a. How afraid are you of the following? (Please select one response for each.) a. Not having enough money for the future,4,Not afraid
+Q13B,Q13b. How afraid are you of the following? (Please select one response for each.) b. Not being able to pay off the college debt of myself or a family member,1,Very afraid
+Q13B,Q13b. How afraid are you of the following? (Please select one response for each.) b. Not being able to pay off the college debt of myself or a family member,2,Afraid
+Q13B,Q13b. How afraid are you of the following? (Please select one response for each.) b. Not being able to pay off the college debt of myself or a family member,3,Slightly afraid
+Q13B,Q13b. How afraid are you of the following? (Please select one response for each.) b. Not being able to pay off the college debt of myself or a family member,4,Not afraid
+Q13B,Q13b. How afraid are you of the following? (Please select one response for each.) b. Not being able to pay off the college debt of myself or a family member,5,Doesn't apply to me
+Q13C,Q13c. How afraid are you of the following? (Please select one response for each.) c. Not having enough money to pay my rent or mortgage,1,Very afraid
+Q13C,Q13c. How afraid are you of the following? (Please select one response for each.) c. Not having enough money to pay my rent or mortgage,2,Afraid
+Q13C,Q13c. How afraid are you of the following? (Please select one response for each.) c. Not having enough money to pay my rent or mortgage,3,Slightly afraid
+Q13C,Q13c. How afraid are you of the following? (Please select one response for each.) c. Not having enough money to pay my rent or mortgage,4,Not afraid
+Q13C,Q13c. How afraid are you of the following? (Please select one response for each.) c. Not having enough money to pay my rent or mortgage,5,Doesn't apply to me
+Q13D,Q13d. How afraid are you of the following? (Please select one response for each.) d. Being unemployed,-1,Web blank
+Q13D,Q13d. How afraid are you of the following? (Please select one response for each.) d. Being unemployed,1,Very afraid
+Q13D,Q13d. How afraid are you of the following? (Please select one response for each.) d. Being unemployed,2,Afraid
+Q13D,Q13d. How afraid are you of the following? (Please select one response for each.) d. Being unemployed,3,Slightly afraid
+Q13D,Q13d. How afraid are you of the following? (Please select one response for each.) d. Being unemployed,4,Not afraid
+Q13D,Q13d. How afraid are you of the following? (Please select one response for each.) d. Being unemployed,5,Doesn't apply to me
+Q13E,Q13e. How afraid are you of the following? (Please select one response for each.) e. High medical bills,1,Very afraid
+Q13E,Q13e. How afraid are you of the following? (Please select one response for each.) e. High medical bills,2,Afraid
+Q13E,Q13e. How afraid are you of the following? (Please select one response for each.) e. High medical bills,3,Slightly afraid
+Q13E,Q13e. How afraid are you of the following? (Please select one response for each.) e. High medical bills,4,Not afraid
+Q13F,Q13f. How afraid are you of the following? (Please select one response for each.) f. Catching influenza (the seasonal flu),1,Very afraid
+Q13F,Q13f. How afraid are you of the following? (Please select one response for each.) f. Catching influenza (the seasonal flu),2,Afraid
+Q13F,Q13f. How afraid are you of the following? (Please select one response for each.) f. Catching influenza (the seasonal flu),3,Slightly afraid
+Q13F,Q13f. How afraid are you of the following? (Please select one response for each.) f. Catching influenza (the seasonal flu),4,Not afraid
+Q13G,Q13g. How afraid are you of the following? (Please select one response for each.) g. Catching the coronavirus (COVID-19),1,Very afraid
+Q13G,Q13g. How afraid are you of the following? (Please select one response for each.) g. Catching the coronavirus (COVID-19),2,Afraid
+Q13G,Q13g. How afraid are you of the following? (Please select one response for each.) g. Catching the coronavirus (COVID-19),3,Slightly afraid
+Q13G,Q13g. How afraid are you of the following? (Please select one response for each.) g. Catching the coronavirus (COVID-19),4,Not afraid
+Q14A,Q14a. How afraid are you of the following? (Please select one response for each.) a. Computers replacing people in the workforce,1,Very afraid
+Q14A,Q14a. How afraid are you of the following? (Please select one response for each.) a. Computers replacing people in the workforce,2,Afraid
+Q14A,Q14a. How afraid are you of the following? (Please select one response for each.) a. Computers replacing people in the workforce,3,Slightly afraid
+Q14A,Q14a. How afraid are you of the following? (Please select one response for each.) a. Computers replacing people in the workforce,4,Not afraid
+Q14B,Q14b. How afraid are you of the following? (Please select one response for each.) b. Technology that I don't understand,1,Very afraid
+Q14B,Q14b. How afraid are you of the following? (Please select one response for each.) b. Technology that I don't understand,2,Afraid
+Q14B,Q14b. How afraid are you of the following? (Please select one response for each.) b. Technology that I don't understand,3,Slightly afraid
+Q14B,Q14b. How afraid are you of the following? (Please select one response for each.) b. Technology that I don't understand,4,Not afraid
+Q14C,Q14c. How afraid are you of the following? (Please select one response for each.) c. Cyber-terrorism,1,Very afraid
+Q14C,Q14c. How afraid are you of the following? (Please select one response for each.) c. Cyber-terrorism,2,Afraid
+Q14C,Q14c. How afraid are you of the following? (Please select one response for each.) c. Cyber-terrorism,3,Slightly afraid
+Q14C,Q14c. How afraid are you of the following? (Please select one response for each.) c. Cyber-terrorism,4,Not afraid
+Q14D,Q14d. How afraid are you of the following? (Please select one response for each.) d. Corporate tracking of personal data,1,Very afraid
+Q14D,Q14d. How afraid are you of the following? (Please select one response for each.) d. Corporate tracking of personal data,2,Afraid
+Q14D,Q14d. How afraid are you of the following? (Please select one response for each.) d. Corporate tracking of personal data,3,Slightly afraid
+Q14D,Q14d. How afraid are you of the following? (Please select one response for each.) d. Corporate tracking of personal data,4,Not afraid
+Q14E,Q14e. How afraid are you of the following? (Please select one response for each.) e. Government tracking of personal data,1,Very afraid
+Q14E,Q14e. How afraid are you of the following? (Please select one response for each.) e. Government tracking of personal data,2,Afraid
+Q14E,Q14e. How afraid are you of the following? (Please select one response for each.) e. Government tracking of personal data,3,Slightly afraid
+Q14E,Q14e. How afraid are you of the following? (Please select one response for each.) e. Government tracking of personal data,4,Not afraid
+Q15A,Q15a. How afraid are you of the following events? (Please select one response for each.) a. A devastating earthquake,-1,Web blank
+Q15A,Q15a. How afraid are you of the following events? (Please select one response for each.) a. A devastating earthquake,1,Very afraid
+Q15A,Q15a. How afraid are you of the following events? (Please select one response for each.) a. A devastating earthquake,2,Afraid
+Q15A,Q15a. How afraid are you of the following events? (Please select one response for each.) a. A devastating earthquake,3,Slightly afraid
+Q15A,Q15a. How afraid are you of the following events? (Please select one response for each.) a. A devastating earthquake,4,Not afraid
+Q15B,Q15b. How afraid are you of the following events? (Please select one response for each.) b. A devastating hurricane,-1,Web blank
+Q15B,Q15b. How afraid are you of the following events? (Please select one response for each.) b. A devastating hurricane,1,Very afraid
+Q15B,Q15b. How afraid are you of the following events? (Please select one response for each.) b. A devastating hurricane,2,Afraid
+Q15B,Q15b. How afraid are you of the following events? (Please select one response for each.) b. A devastating hurricane,3,Slightly afraid
+Q15B,Q15b. How afraid are you of the following events? (Please select one response for each.) b. A devastating hurricane,4,Not afraid
+Q15C,Q15c. How afraid are you of the following events? (Please select one response for each.) c. A devastating tornado,-1,Web blank
+Q15C,Q15c. How afraid are you of the following events? (Please select one response for each.) c. A devastating tornado,1,Very afraid
+Q15C,Q15c. How afraid are you of the following events? (Please select one response for each.) c. A devastating tornado,2,Afraid
+Q15C,Q15c. How afraid are you of the following events? (Please select one response for each.) c. A devastating tornado,3,Slightly afraid
+Q15C,Q15c. How afraid are you of the following events? (Please select one response for each.) c. A devastating tornado,4,Not afraid
+Q15D,Q15d. How afraid are you of the following events? (Please select one response for each.) d. A devastating flood,-1,Web blank
+Q15D,Q15d. How afraid are you of the following events? (Please select one response for each.) d. A devastating flood,1,Very afraid
+Q15D,Q15d. How afraid are you of the following events? (Please select one response for each.) d. A devastating flood,2,Afraid
+Q15D,Q15d. How afraid are you of the following events? (Please select one response for each.) d. A devastating flood,3,Slightly afraid
+Q15D,Q15d. How afraid are you of the following events? (Please select one response for each.) d. A devastating flood,4,Not afraid
+Q15E,Q15e. How afraid are you of the following events? (Please select one response for each.) e. A devastating blizzard/Winter storm,-1,Web blank
+Q15E,Q15e. How afraid are you of the following events? (Please select one response for each.) e. A devastating blizzard/Winter storm,1,Very afraid
+Q15E,Q15e. How afraid are you of the following events? (Please select one response for each.) e. A devastating blizzard/Winter storm,2,Afraid
+Q15E,Q15e. How afraid are you of the following events? (Please select one response for each.) e. A devastating blizzard/Winter storm,3,Slightly afraid
+Q15E,Q15e. How afraid are you of the following events? (Please select one response for each.) e. A devastating blizzard/Winter storm,4,Not afraid
+Q15F,Q15f. How afraid are you of the following events? (Please select one response for each.) f. A devastating drought,-1,Web blank
+Q15F,Q15f. How afraid are you of the following events? (Please select one response for each.) f. A devastating drought,1,Very afraid
+Q15F,Q15f. How afraid are you of the following events? (Please select one response for each.) f. A devastating drought,2,Afraid
+Q15F,Q15f. How afraid are you of the following events? (Please select one response for each.) f. A devastating drought,3,Slightly afraid
+Q15F,Q15f. How afraid are you of the following events? (Please select one response for each.) f. A devastating drought,4,Not afraid
+Q15G,Q15g. How afraid are you of the following events? (Please select one response for each.) g. A devastating wildfire,-1,Web blank
+Q15G,Q15g. How afraid are you of the following events? (Please select one response for each.) g. A devastating wildfire,1,Very afraid
+Q15G,Q15g. How afraid are you of the following events? (Please select one response for each.) g. A devastating wildfire,2,Afraid
+Q15G,Q15g. How afraid are you of the following events? (Please select one response for each.) g. A devastating wildfire,3,Slightly afraid
+Q15G,Q15g. How afraid are you of the following events? (Please select one response for each.) g. A devastating wildfire,4,Not afraid
+Q15H,Q15h. How afraid are you of the following events? (Please select one response for each.) h. A large volcanic eruption,-1,Web blank
+Q15H,Q15h. How afraid are you of the following events? (Please select one response for each.) h. A large volcanic eruption,1,Very afraid
+Q15H,Q15h. How afraid are you of the following events? (Please select one response for each.) h. A large volcanic eruption,2,Afraid
+Q15H,Q15h. How afraid are you of the following events? (Please select one response for each.) h. A large volcanic eruption,3,Slightly afraid
+Q15H,Q15h. How afraid are you of the following events? (Please select one response for each.) h. A large volcanic eruption,4,Not afraid
+Q15I,Q15i. How afraid are you of the following events? (Please select one response for each.) i. A new pandemic or a major epidemic,-1,Web blank
+Q15I,Q15i. How afraid are you of the following events? (Please select one response for each.) i. A new pandemic or a major epidemic,1,Very afraid
+Q15I,Q15i. How afraid are you of the following events? (Please select one response for each.) i. A new pandemic or a major epidemic,2,Afraid
+Q15I,Q15i. How afraid are you of the following events? (Please select one response for each.) i. A new pandemic or a major epidemic,3,Slightly afraid
+Q15I,Q15i. How afraid are you of the following events? (Please select one response for each.) i. A new pandemic or a major epidemic,4,Not afraid
+Q15J,Q15j. How afraid are you of the following events? (Please select one response for each.) j. Climate change impacting where I live,-1,Web blank
+Q15J,Q15j. How afraid are you of the following events? (Please select one response for each.) j. Climate change impacting where I live,1,Very afraid
+Q15J,Q15j. How afraid are you of the following events? (Please select one response for each.) j. Climate change impacting where I live,2,Afraid
+Q15J,Q15j. How afraid are you of the following events? (Please select one response for each.) j. Climate change impacting where I live,3,Slightly afraid
+Q15J,Q15j. How afraid are you of the following events? (Please select one response for each.) j. Climate change impacting where I live,4,Not afraid
+Q15K,Q15k. How afraid are you of the following events? (Please select one response for each.) k. A devastating natural disaster where I live,-1,Web blank
+Q15K,Q15k. How afraid are you of the following events? (Please select one response for each.) k. A devastating natural disaster where I live,1,Very afraid
+Q15K,Q15k. How afraid are you of the following events? (Please select one response for each.) k. A devastating natural disaster where I live,2,Afraid
+Q15K,Q15k. How afraid are you of the following events? (Please select one response for each.) k. A devastating natural disaster where I live,3,Slightly afraid
+Q15K,Q15k. How afraid are you of the following events? (Please select one response for each.) k. A devastating natural disaster where I live,4,Not afraid
+Q15AA,Q15aa. How afraid are you of the following events? (Please select one response for each.) a. The collapse of the electrical grid,-1,Web blank
+Q15AA,Q15aa. How afraid are you of the following events? (Please select one response for each.) a. The collapse of the electrical grid,1,Very afraid
+Q15AA,Q15aa. How afraid are you of the following events? (Please select one response for each.) a. The collapse of the electrical grid,2,Afraid
+Q15AA,Q15aa. How afraid are you of the following events? (Please select one response for each.) a. The collapse of the electrical grid,3,Slightly afraid
+Q15AA,Q15aa. How afraid are you of the following events? (Please select one response for each.) a. The collapse of the electrical grid,4,Not afraid
+Q15AB,Q15ab. How afraid are you of the following events? (Please select one response for each.) b. A nuclear accident/meltdown,-1,Web blank
+Q15AB,Q15ab. How afraid are you of the following events? (Please select one response for each.) b. A nuclear accident/meltdown,1,Very afraid
+Q15AB,Q15ab. How afraid are you of the following events? (Please select one response for each.) b. A nuclear accident/meltdown,2,Afraid
+Q15AB,Q15ab. How afraid are you of the following events? (Please select one response for each.) b. A nuclear accident/meltdown,3,Slightly afraid
+Q15AB,Q15ab. How afraid are you of the following events? (Please select one response for each.) b. A nuclear accident/meltdown,4,Not afraid
+Q15AC,Q15ac. How afraid are you of the following events? (Please select one response for each.) c. Economic/financial collapse,-1,Web blank
+Q15AC,Q15ac. How afraid are you of the following events? (Please select one response for each.) c. Economic/financial collapse,1,Very afraid
+Q15AC,Q15ac. How afraid are you of the following events? (Please select one response for each.) c. Economic/financial collapse,2,Afraid
+Q15AC,Q15ac. How afraid are you of the following events? (Please select one response for each.) c. Economic/financial collapse,3,Slightly afraid
+Q15AC,Q15ac. How afraid are you of the following events? (Please select one response for each.) c. Economic/financial collapse,4,Not afraid
+Q15AD,Q15ad. How afraid are you of the following events? (Please select one response for each.) d. Widespread civil unrest,-1,Web blank
+Q15AD,Q15ad. How afraid are you of the following events? (Please select one response for each.) d. Widespread civil unrest,1,Very afraid
+Q15AD,Q15ad. How afraid are you of the following events? (Please select one response for each.) d. Widespread civil unrest,2,Afraid
+Q15AD,Q15ad. How afraid are you of the following events? (Please select one response for each.) d. Widespread civil unrest,3,Slightly afraid
+Q15AD,Q15ad. How afraid are you of the following events? (Please select one response for each.) d. Widespread civil unrest,4,Not afraid
+Q15AE,Q15ae. How afraid are you of the following events? (Please select one response for each.) e. The US becoming involved in another world war,-1,Web blank
+Q15AE,Q15ae. How afraid are you of the following events? (Please select one response for each.) e. The US becoming involved in another world war,1,Very afraid
+Q15AE,Q15ae. How afraid are you of the following events? (Please select one response for each.) e. The US becoming involved in another world war,2,Afraid
+Q15AE,Q15ae. How afraid are you of the following events? (Please select one response for each.) e. The US becoming involved in another world war,3,Slightly afraid
+Q15AE,Q15ae. How afraid are you of the following events? (Please select one response for each.) e. The US becoming involved in another world war,4,Not afraid
+Q15AF,Q15af. How afraid are you of the following events? (Please select one response for each.) f. Whites no longer being the majority in the US,-1,Web blank
+Q15AF,Q15af. How afraid are you of the following events? (Please select one response for each.) f. Whites no longer being the majority in the US,1,Very afraid
+Q15AF,Q15af. How afraid are you of the following events? (Please select one response for each.) f. Whites no longer being the majority in the US,2,Afraid
+Q15AF,Q15af. How afraid are you of the following events? (Please select one response for each.) f. Whites no longer being the majority in the US,3,Slightly afraid
+Q15AF,Q15af. How afraid are you of the following events? (Please select one response for each.) f. Whites no longer being the majority in the US,4,Not afraid
+Q15AG,Q15ag. How afraid are you of the following events? (Please select one response for each.) g. Illegal immigration,-1,Web blank
+Q15AG,Q15ag. How afraid are you of the following events? (Please select one response for each.) g. Illegal immigration,1,Very afraid
+Q15AG,Q15ag. How afraid are you of the following events? (Please select one response for each.) g. Illegal immigration,2,Afraid
+Q15AG,Q15ag. How afraid are you of the following events? (Please select one response for each.) g. Illegal immigration,3,Slightly afraid
+Q15AG,Q15ag. How afraid are you of the following events? (Please select one response for each.) g. Illegal immigration,4,Not afraid
+Q15AH,Q15ah. How afraid are you of the following events? (Please select one response for each.) h. Violent overthrow of the U.S. government,-1,Web blank
+Q15AH,Q15ah. How afraid are you of the following events? (Please select one response for each.) h. Violent overthrow of the U.S. government,1,Very afraid
+Q15AH,Q15ah. How afraid are you of the following events? (Please select one response for each.) h. Violent overthrow of the U.S. government,2,Afraid
+Q15AH,Q15ah. How afraid are you of the following events? (Please select one response for each.) h. Violent overthrow of the U.S. government,3,Slightly afraid
+Q15AH,Q15ah. How afraid are you of the following events? (Please select one response for each.) h. Violent overthrow of the U.S. government,4,Not afraid
+Q15AI,Q15ai. How afraid are you of the following events? (Please select one response for each.) i. Widespread voter fraud,-1,Web blank
+Q15AI,Q15ai. How afraid are you of the following events? (Please select one response for each.) i. Widespread voter fraud,1,Very afraid
+Q15AI,Q15ai. How afraid are you of the following events? (Please select one response for each.) i. Widespread voter fraud,2,Afraid
+Q15AI,Q15ai. How afraid are you of the following events? (Please select one response for each.) i. Widespread voter fraud,3,Slightly afraid
+Q15AI,Q15ai. How afraid are you of the following events? (Please select one response for each.) i. Widespread voter fraud,4,Not afraid
+Q15AJ,Q15aj. How afraid are you of the following events? (Please select one response for each.) j. Biological warfare,-1,Web blank
+Q15AJ,Q15aj. How afraid are you of the following events? (Please select one response for each.) j. Biological warfare,1,Very afraid
+Q15AJ,Q15aj. How afraid are you of the following events? (Please select one response for each.) j. Biological warfare,2,Afraid
+Q15AJ,Q15aj. How afraid are you of the following events? (Please select one response for each.) j. Biological warfare,3,Slightly afraid
+Q15AJ,Q15aj. How afraid are you of the following events? (Please select one response for each.) j. Biological warfare,4,Not afraid
+Q15AK,Q15ak. How afraid are you of the following events? (Please select one response for each.) k. A terrorist attack,-1,Web blank
+Q15AK,Q15ak. How afraid are you of the following events? (Please select one response for each.) k. A terrorist attack,1,Very afraid
+Q15AK,Q15ak. How afraid are you of the following events? (Please select one response for each.) k. A terrorist attack,2,Afraid
+Q15AK,Q15ak. How afraid are you of the following events? (Please select one response for each.) k. A terrorist attack,3,Slightly afraid
+Q15AK,Q15ak. How afraid are you of the following events? (Please select one response for each.) k. A terrorist attack,4,Not afraid
+Q15AL,Q15al. How afraid are you of the following events? (Please select one response for each.) l. North Korea using nuclear weapons,-1,Web blank
+Q15AL,Q15al. How afraid are you of the following events? (Please select one response for each.) l. North Korea using nuclear weapons,1,Very afraid
+Q15AL,Q15al. How afraid are you of the following events? (Please select one response for each.) l. North Korea using nuclear weapons,2,Afraid
+Q15AL,Q15al. How afraid are you of the following events? (Please select one response for each.) l. North Korea using nuclear weapons,3,Slightly afraid
+Q15AL,Q15al. How afraid are you of the following events? (Please select one response for each.) l. North Korea using nuclear weapons,4,Not afraid
+Q15AM,Q15am. How afraid are you of the following events? (Please select one response for each.) m. Iran using nuclear weapons,-1,Web blank
+Q15AM,Q15am. How afraid are you of the following events? (Please select one response for each.) m. Iran using nuclear weapons,1,Very afraid
+Q15AM,Q15am. How afraid are you of the following events? (Please select one response for each.) m. Iran using nuclear weapons,2,Afraid
+Q15AM,Q15am. How afraid are you of the following events? (Please select one response for each.) m. Iran using nuclear weapons,3,Slightly afraid
+Q15AM,Q15am. How afraid are you of the following events? (Please select one response for each.) m. Iran using nuclear weapons,4,Not afraid
+Q15AN,Q15an. How afraid are you of the following events? (Please select one response for each.) n. Russia using nuclear weapons,-1,Web blank
+Q15AN,Q15an. How afraid are you of the following events? (Please select one response for each.) n. Russia using nuclear weapons,1,Very afraid
+Q15AN,Q15an. How afraid are you of the following events? (Please select one response for each.) n. Russia using nuclear weapons,2,Afraid
+Q15AN,Q15an. How afraid are you of the following events? (Please select one response for each.) n. Russia using nuclear weapons,3,Slightly afraid
+Q15AN,Q15an. How afraid are you of the following events? (Please select one response for each.) n. Russia using nuclear weapons,4,Not afraid
+Q16A,Q16a. How afraid are you of the following? (Please select one response for each.) a. Blood,1,Very afraid
+Q16A,Q16a. How afraid are you of the following? (Please select one response for each.) a. Blood,2,Afraid
+Q16A,Q16a. How afraid are you of the following? (Please select one response for each.) a. Blood,3,Slightly afraid
+Q16A,Q16a. How afraid are you of the following? (Please select one response for each.) a. Blood,4,Not afraid
+Q16B,Q16b. How afraid are you of the following? (Please select one response for each.) b. Needles,1,Very afraid
+Q16B,Q16b. How afraid are you of the following? (Please select one response for each.) b. Needles,2,Afraid
+Q16B,Q16b. How afraid are you of the following? (Please select one response for each.) b. Needles,3,Slightly afraid
+Q16B,Q16b. How afraid are you of the following? (Please select one response for each.) b. Needles,4,Not afraid
+Q16C,"Q16c. How afraid are you of the following? (Please select one response for each.) c. Insects/arachnids (spiders, bees, etc.)",-1,Web blank
+Q16C,"Q16c. How afraid are you of the following? (Please select one response for each.) c. Insects/arachnids (spiders, bees, etc.)",1,Very afraid
+Q16C,"Q16c. How afraid are you of the following? (Please select one response for each.) c. Insects/arachnids (spiders, bees, etc.)",2,Afraid
+Q16C,"Q16c. How afraid are you of the following? (Please select one response for each.) c. Insects/arachnids (spiders, bees, etc.)",3,Slightly afraid
+Q16C,"Q16c. How afraid are you of the following? (Please select one response for each.) c. Insects/arachnids (spiders, bees, etc.)",4,Not afraid
+Q16D,"Q16d. How afraid are you of the following? (Please select one response for each.) d. Reptiles (snakes, lizards, etc.)",1,Very afraid
+Q16D,"Q16d. How afraid are you of the following? (Please select one response for each.) d. Reptiles (snakes, lizards, etc.)",2,Afraid
+Q16D,"Q16d. How afraid are you of the following? (Please select one response for each.) d. Reptiles (snakes, lizards, etc.)",3,Slightly afraid
+Q16D,"Q16d. How afraid are you of the following? (Please select one response for each.) d. Reptiles (snakes, lizards, etc.)",4,Not afraid
+Q16E,"Q16e. How afraid are you of the following? (Please select one response for each.) e. Animals (dogs, rats, etc.)",-1,Web blank
+Q16E,"Q16e. How afraid are you of the following? (Please select one response for each.) e. Animals (dogs, rats, etc.)",1,Very afraid
+Q16E,"Q16e. How afraid are you of the following? (Please select one response for each.) e. Animals (dogs, rats, etc.)",2,Afraid
+Q16E,"Q16e. How afraid are you of the following? (Please select one response for each.) e. Animals (dogs, rats, etc.)",3,Slightly afraid
+Q16E,"Q16e. How afraid are you of the following? (Please select one response for each.) e. Animals (dogs, rats, etc.)",4,Not afraid
+Q16F,Q16f. How afraid are you of the following? (Please select one response for each.) f. Sharks,-1,Web blank
+Q16F,Q16f. How afraid are you of the following? (Please select one response for each.) f. Sharks,1,Very afraid
+Q16F,Q16f. How afraid are you of the following? (Please select one response for each.) f. Sharks,2,Afraid
+Q16F,Q16f. How afraid are you of the following? (Please select one response for each.) f. Sharks,3,Slightly afraid
+Q16F,Q16f. How afraid are you of the following? (Please select one response for each.) f. Sharks,4,Not afraid
+Q16G,Q16g. How afraid are you of the following? (Please select one response for each.) g. Germs,-1,Web blank
+Q16G,Q16g. How afraid are you of the following? (Please select one response for each.) g. Germs,1,Very afraid
+Q16G,Q16g. How afraid are you of the following? (Please select one response for each.) g. Germs,2,Afraid
+Q16G,Q16g. How afraid are you of the following? (Please select one response for each.) g. Germs,3,Slightly afraid
+Q16G,Q16g. How afraid are you of the following? (Please select one response for each.) g. Germs,4,Not afraid
+Q16H,Q16h. How afraid are you of the following? (Please select one response for each.) h. Deep lakes and oceans,1,Very afraid
+Q16H,Q16h. How afraid are you of the following? (Please select one response for each.) h. Deep lakes and oceans,2,Afraid
+Q16H,Q16h. How afraid are you of the following? (Please select one response for each.) h. Deep lakes and oceans,3,Slightly afraid
+Q16H,Q16h. How afraid are you of the following? (Please select one response for each.) h. Deep lakes and oceans,4,Not afraid
+Q16I,Q16i. How afraid are you of the following? (Please select one response for each.) i. Flying,-1,Web blank
+Q16I,Q16i. How afraid are you of the following? (Please select one response for each.) i. Flying,1,Very afraid
+Q16I,Q16i. How afraid are you of the following? (Please select one response for each.) i. Flying,2,Afraid
+Q16I,Q16i. How afraid are you of the following? (Please select one response for each.) i. Flying,3,Slightly afraid
+Q16I,Q16i. How afraid are you of the following? (Please select one response for each.) i. Flying,4,Not afraid
+Q16J,Q16j. How afraid are you of the following? (Please select one response for each.) j. Ghosts,1,Very afraid
+Q16J,Q16j. How afraid are you of the following? (Please select one response for each.) j. Ghosts,2,Afraid
+Q16J,Q16j. How afraid are you of the following? (Please select one response for each.) j. Ghosts,3,Slightly afraid
+Q16J,Q16j. How afraid are you of the following? (Please select one response for each.) j. Ghosts,4,Not afraid
+Q16K,Q16k. How afraid are you of the following? (Please select one response for each.) k. Heights,1,Very afraid
+Q16K,Q16k. How afraid are you of the following? (Please select one response for each.) k. Heights,2,Afraid
+Q16K,Q16k. How afraid are you of the following? (Please select one response for each.) k. Heights,3,Slightly afraid
+Q16K,Q16k. How afraid are you of the following? (Please select one response for each.) k. Heights,4,Not afraid
+Q16L,Q16l. How afraid are you of the following? (Please select one response for each.) l. Public speaking,1,Very afraid
+Q16L,Q16l. How afraid are you of the following? (Please select one response for each.) l. Public speaking,2,Afraid
+Q16L,Q16l. How afraid are you of the following? (Please select one response for each.) l. Public speaking,3,Slightly afraid
+Q16L,Q16l. How afraid are you of the following? (Please select one response for each.) l. Public speaking,4,Not afraid
+Q16M,"Q16m. How afraid are you of the following? (Please select one response for each.) m. Small, enclosed spaces",1,Very afraid
+Q16M,"Q16m. How afraid are you of the following? (Please select one response for each.) m. Small, enclosed spaces",2,Afraid
+Q16M,"Q16m. How afraid are you of the following? (Please select one response for each.) m. Small, enclosed spaces",3,Slightly afraid
+Q16M,"Q16m. How afraid are you of the following? (Please select one response for each.) m. Small, enclosed spaces",4,Not afraid
+Q16N,Q16n. How afraid are you of the following? (Please select one response for each.) n. Zombies,1,Very afraid
+Q16N,Q16n. How afraid are you of the following? (Please select one response for each.) n. Zombies,2,Afraid
+Q16N,Q16n. How afraid are you of the following? (Please select one response for each.) n. Zombies,3,Slightly afraid
+Q16N,Q16n. How afraid are you of the following? (Please select one response for each.) n. Zombies,4,Not afraid
+Q16O,Q16o. How afraid are you of the following? (Please select one response for each.) o. Strangers,-1,Web blank
+Q16O,Q16o. How afraid are you of the following? (Please select one response for each.) o. Strangers,1,Very afraid
+Q16O,Q16o. How afraid are you of the following? (Please select one response for each.) o. Strangers,2,Afraid
+Q16O,Q16o. How afraid are you of the following? (Please select one response for each.) o. Strangers,3,Slightly afraid
+Q16O,Q16o. How afraid are you of the following? (Please select one response for each.) o. Strangers,4,Not afraid
+Q16P,Q16p. How afraid are you of the following? (Please select one response for each.) p. Walking alone at night,-1,Web blank
+Q16P,Q16p. How afraid are you of the following? (Please select one response for each.) p. Walking alone at night,1,Very afraid
+Q16P,Q16p. How afraid are you of the following? (Please select one response for each.) p. Walking alone at night,2,Afraid
+Q16P,Q16p. How afraid are you of the following? (Please select one response for each.) p. Walking alone at night,3,Slightly afraid
+Q16P,Q16p. How afraid are you of the following? (Please select one response for each.) p. Walking alone at night,4,Not afraid
+Q17A,Q17a. How afraid are you of being the victim of the following crimes? (Please select one response for each.) a. Mugging,1,Very afraid
+Q17A,Q17a. How afraid are you of being the victim of the following crimes? (Please select one response for each.) a. Mugging,2,Afraid
+Q17A,Q17a. How afraid are you of being the victim of the following crimes? (Please select one response for each.) a. Mugging,3,Slightly afraid
+Q17A,Q17a. How afraid are you of being the victim of the following crimes? (Please select one response for each.) a. Mugging,4,Not afraid
+Q17B,Q17b. How afraid are you of being the victim of the following crimes? (Please select one response for each.) b. Stalking,1,Very afraid
+Q17B,Q17b. How afraid are you of being the victim of the following crimes? (Please select one response for each.) b. Stalking,2,Afraid
+Q17B,Q17b. How afraid are you of being the victim of the following crimes? (Please select one response for each.) b. Stalking,3,Slightly afraid
+Q17B,Q17b. How afraid are you of being the victim of the following crimes? (Please select one response for each.) b. Stalking,4,Not afraid
+Q17C,Q17c. How afraid are you of being the victim of the following crimes? (Please select one response for each.) c. Murder by a stranger,1,Very afraid
+Q17C,Q17c. How afraid are you of being the victim of the following crimes? (Please select one response for each.) c. Murder by a stranger,2,Afraid
+Q17C,Q17c. How afraid are you of being the victim of the following crimes? (Please select one response for each.) c. Murder by a stranger,3,Slightly afraid
+Q17C,Q17c. How afraid are you of being the victim of the following crimes? (Please select one response for each.) c. Murder by a stranger,4,Not afraid
+Q17D,Q17d. How afraid are you of being the victim of the following crimes? (Please select one response for each.) d. Murder by someone you know,1,Very afraid
+Q17D,Q17d. How afraid are you of being the victim of the following crimes? (Please select one response for each.) d. Murder by someone you know,2,Afraid
+Q17D,Q17d. How afraid are you of being the victim of the following crimes? (Please select one response for each.) d. Murder by someone you know,3,Slightly afraid
+Q17D,Q17d. How afraid are you of being the victim of the following crimes? (Please select one response for each.) d. Murder by someone you know,4,Not afraid
+Q17E,Q17e. How afraid are you of being the victim of the following crimes? (Please select one response for each.) e. Being hit by a drunk driver,-1,Web blank
+Q17E,Q17e. How afraid are you of being the victim of the following crimes? (Please select one response for each.) e. Being hit by a drunk driver,1,Very afraid
+Q17E,Q17e. How afraid are you of being the victim of the following crimes? (Please select one response for each.) e. Being hit by a drunk driver,2,Afraid
+Q17E,Q17e. How afraid are you of being the victim of the following crimes? (Please select one response for each.) e. Being hit by a drunk driver,3,Slightly afraid
+Q17E,Q17e. How afraid are you of being the victim of the following crimes? (Please select one response for each.) e. Being hit by a drunk driver,4,Not afraid
+Q17F,Q17f. How afraid are you of being the victim of the following crimes? (Please select one response for each.) f. Police brutality,1,Very afraid
+Q17F,Q17f. How afraid are you of being the victim of the following crimes? (Please select one response for each.) f. Police brutality,2,Afraid
+Q17F,Q17f. How afraid are you of being the victim of the following crimes? (Please select one response for each.) f. Police brutality,3,Slightly afraid
+Q17F,Q17f. How afraid are you of being the victim of the following crimes? (Please select one response for each.) f. Police brutality,4,Not afraid
+Q17G,Q17g. How afraid are you of being the victim of the following crimes? (Please select one response for each.) g. Sexual assault by a stranger,-1,Web blank
+Q17G,Q17g. How afraid are you of being the victim of the following crimes? (Please select one response for each.) g. Sexual assault by a stranger,1,Very afraid
+Q17G,Q17g. How afraid are you of being the victim of the following crimes? (Please select one response for each.) g. Sexual assault by a stranger,2,Afraid
+Q17G,Q17g. How afraid are you of being the victim of the following crimes? (Please select one response for each.) g. Sexual assault by a stranger,3,Slightly afraid
+Q17G,Q17g. How afraid are you of being the victim of the following crimes? (Please select one response for each.) g. Sexual assault by a stranger,4,Not afraid
+Q17H,Q17h. How afraid are you of being the victim of the following crimes? (Please select one response for each.) h. Sexual assault by someone you know,-1,Web blank
+Q17H,Q17h. How afraid are you of being the victim of the following crimes? (Please select one response for each.) h. Sexual assault by someone you know,1,Very afraid
+Q17H,Q17h. How afraid are you of being the victim of the following crimes? (Please select one response for each.) h. Sexual assault by someone you know,2,Afraid
+Q17H,Q17h. How afraid are you of being the victim of the following crimes? (Please select one response for each.) h. Sexual assault by someone you know,3,Slightly afraid
+Q17H,Q17h. How afraid are you of being the victim of the following crimes? (Please select one response for each.) h. Sexual assault by someone you know,4,Not afraid
+Q17I,Q17i. How afraid are you of being the victim of the following crimes? (Please select one response for each.) i. Racial/hate crime,1,Very afraid
+Q17I,Q17i. How afraid are you of being the victim of the following crimes? (Please select one response for each.) i. Racial/hate crime,2,Afraid
+Q17I,Q17i. How afraid are you of being the victim of the following crimes? (Please select one response for each.) i. Racial/hate crime,3,Slightly afraid
+Q17I,Q17i. How afraid are you of being the victim of the following crimes? (Please select one response for each.) i. Racial/hate crime,4,Not afraid
+Q17J,Q17j. How afraid are you of being the victim of the following crimes? (Please select one response for each.) j. Random/mass shooting,-1,Web blank
+Q17J,Q17j. How afraid are you of being the victim of the following crimes? (Please select one response for each.) j. Random/mass shooting,1,Very afraid
+Q17J,Q17j. How afraid are you of being the victim of the following crimes? (Please select one response for each.) j. Random/mass shooting,2,Afraid
+Q17J,Q17j. How afraid are you of being the victim of the following crimes? (Please select one response for each.) j. Random/mass shooting,3,Slightly afraid
+Q17J,Q17j. How afraid are you of being the victim of the following crimes? (Please select one response for each.) j. Random/mass shooting,4,Not afraid
+Q17K,Q17k. How afraid are you of being the victim of the following crimes? (Please select one response for each.) k. Break-ins,-1,Web blank
+Q17K,Q17k. How afraid are you of being the victim of the following crimes? (Please select one response for each.) k. Break-ins,1,Very afraid
+Q17K,Q17k. How afraid are you of being the victim of the following crimes? (Please select one response for each.) k. Break-ins,2,Afraid
+Q17K,Q17k. How afraid are you of being the victim of the following crimes? (Please select one response for each.) k. Break-ins,3,Slightly afraid
+Q17K,Q17k. How afraid are you of being the victim of the following crimes? (Please select one response for each.) k. Break-ins,4,Not afraid
+Q17L,Q17l. How afraid are you of being the victim of the following crimes? (Please select one response for each.) l. Theft of property,-1,Web blank
+Q17L,Q17l. How afraid are you of being the victim of the following crimes? (Please select one response for each.) l. Theft of property,1,Very afraid
+Q17L,Q17l. How afraid are you of being the victim of the following crimes? (Please select one response for each.) l. Theft of property,2,Afraid
+Q17L,Q17l. How afraid are you of being the victim of the following crimes? (Please select one response for each.) l. Theft of property,3,Slightly afraid
+Q17L,Q17l. How afraid are you of being the victim of the following crimes? (Please select one response for each.) l. Theft of property,4,Not afraid
+Q17M,Q17m. How afraid are you of being the victim of the following crimes? (Please select one response for each.) m. Gang violence,1,Very afraid
+Q17M,Q17m. How afraid are you of being the victim of the following crimes? (Please select one response for each.) m. Gang violence,2,Afraid
+Q17M,Q17m. How afraid are you of being the victim of the following crimes? (Please select one response for each.) m. Gang violence,3,Slightly afraid
+Q17M,Q17m. How afraid are you of being the victim of the following crimes? (Please select one response for each.) m. Gang violence,4,Not afraid
+Q17N,Q17n. How afraid are you of being the victim of the following crimes? (Please select one response for each.) n. Abduction/Kidnapping,-1,Web blank
+Q17N,Q17n. How afraid are you of being the victim of the following crimes? (Please select one response for each.) n. Abduction/Kidnapping,1,Very afraid
+Q17N,Q17n. How afraid are you of being the victim of the following crimes? (Please select one response for each.) n. Abduction/Kidnapping,2,Afraid
+Q17N,Q17n. How afraid are you of being the victim of the following crimes? (Please select one response for each.) n. Abduction/Kidnapping,3,Slightly afraid
+Q17N,Q17n. How afraid are you of being the victim of the following crimes? (Please select one response for each.) n. Abduction/Kidnapping,4,Not afraid
+Q17O,Q17o. How afraid are you of being the victim of the following crimes? (Please select one response for each.) o. Identity theft,1,Very afraid
+Q17O,Q17o. How afraid are you of being the victim of the following crimes? (Please select one response for each.) o. Identity theft,2,Afraid
+Q17O,Q17o. How afraid are you of being the victim of the following crimes? (Please select one response for each.) o. Identity theft,3,Slightly afraid
+Q17O,Q17o. How afraid are you of being the victim of the following crimes? (Please select one response for each.) o. Identity theft,4,Not afraid
+Q17P,Q17p. How afraid are you of being the victim of the following crimes? (Please select one response for each.) p. Credit card fraud,-1,Web blank
+Q17P,Q17p. How afraid are you of being the victim of the following crimes? (Please select one response for each.) p. Credit card fraud,1,Very afraid
+Q17P,Q17p. How afraid are you of being the victim of the following crimes? (Please select one response for each.) p. Credit card fraud,2,Afraid
+Q17P,Q17p. How afraid are you of being the victim of the following crimes? (Please select one response for each.) p. Credit card fraud,3,Slightly afraid
+Q17P,Q17p. How afraid are you of being the victim of the following crimes? (Please select one response for each.) p. Credit card fraud,4,Not afraid
+Q17Q,"Q17q. How afraid are you of being the victim of the following crimes? (Please select one response for each.) q. Financial fraud (such as a Ponzi Scheme, embezzlement, etc.)",-1,Web blank
+Q17Q,"Q17q. How afraid are you of being the victim of the following crimes? (Please select one response for each.) q. Financial fraud (such as a Ponzi Scheme, embezzlement, etc.)",1,Very afraid
+Q17Q,"Q17q. How afraid are you of being the victim of the following crimes? (Please select one response for each.) q. Financial fraud (such as a Ponzi Scheme, embezzlement, etc.)",2,Afraid
+Q17Q,"Q17q. How afraid are you of being the victim of the following crimes? (Please select one response for each.) q. Financial fraud (such as a Ponzi Scheme, embezzlement, etc.)",3,Slightly afraid
+Q17Q,"Q17q. How afraid are you of being the victim of the following crimes? (Please select one response for each.) q. Financial fraud (such as a Ponzi Scheme, embezzlement, etc.)",4,Not afraid
+Q17R,Q17r. How afraid are you of being the victim of the following crimes? (Please select one response for each.) r. Terrorism,-1,Web blank
+Q17R,Q17r. How afraid are you of being the victim of the following crimes? (Please select one response for each.) r. Terrorism,1,Very afraid
+Q17R,Q17r. How afraid are you of being the victim of the following crimes? (Please select one response for each.) r. Terrorism,2,Afraid
+Q17R,Q17r. How afraid are you of being the victim of the following crimes? (Please select one response for each.) r. Terrorism,3,Slightly afraid
+Q17R,Q17r. How afraid are you of being the victim of the following crimes? (Please select one response for each.) r. Terrorism,4,Not afraid
+Q18A,Q18a. How afraid are you of the following? (Please select one response for each.) a. Antifa,-1,Web blank
+Q18A,Q18a. How afraid are you of the following? (Please select one response for each.) a. Antifa,1,Very afraid
+Q18A,Q18a. How afraid are you of the following? (Please select one response for each.) a. Antifa,2,Afraid
+Q18A,Q18a. How afraid are you of the following? (Please select one response for each.) a. Antifa,3,Slightly afraid
+Q18A,Q18a. How afraid are you of the following? (Please select one response for each.) a. Antifa,4,Not afraid
+Q18A,Q18a. How afraid are you of the following? (Please select one response for each.) a. Antifa,5,I don't know who/what this is
+Q18B,Q18b. How afraid are you of the following? (Please select one response for each.) b. White supremacists,-1,Web blank
+Q18B,Q18b. How afraid are you of the following? (Please select one response for each.) b. White supremacists,1,Very afraid
+Q18B,Q18b. How afraid are you of the following? (Please select one response for each.) b. White supremacists,2,Afraid
+Q18B,Q18b. How afraid are you of the following? (Please select one response for each.) b. White supremacists,3,Slightly afraid
+Q18B,Q18b. How afraid are you of the following? (Please select one response for each.) b. White supremacists,4,Not afraid
+Q18B,Q18b. How afraid are you of the following? (Please select one response for each.) b. White supremacists,5,I don't know who/what this is
+Q18C,Q18c. How afraid are you of the following? (Please select one response for each.) c. Black Lives Matter (BLM),-1,Web blank
+Q18C,Q18c. How afraid are you of the following? (Please select one response for each.) c. Black Lives Matter (BLM),1,Very afraid
+Q18C,Q18c. How afraid are you of the following? (Please select one response for each.) c. Black Lives Matter (BLM),2,Afraid
+Q18C,Q18c. How afraid are you of the following? (Please select one response for each.) c. Black Lives Matter (BLM),3,Slightly afraid
+Q18C,Q18c. How afraid are you of the following? (Please select one response for each.) c. Black Lives Matter (BLM),4,Not afraid
+Q18C,Q18c. How afraid are you of the following? (Please select one response for each.) c. Black Lives Matter (BLM),5,I don't know who/what this is
+Q18D,Q18d. How afraid are you of the following? (Please select one response for each.) d. The Proud Boys,-1,Web blank
+Q18D,Q18d. How afraid are you of the following? (Please select one response for each.) d. The Proud Boys,1,Very afraid
+Q18D,Q18d. How afraid are you of the following? (Please select one response for each.) d. The Proud Boys,2,Afraid
+Q18D,Q18d. How afraid are you of the following? (Please select one response for each.) d. The Proud Boys,3,Slightly afraid
+Q18D,Q18d. How afraid are you of the following? (Please select one response for each.) d. The Proud Boys,4,Not afraid
+Q18D,Q18d. How afraid are you of the following? (Please select one response for each.) d. The Proud Boys,5,I don't know who/what this is
+Q18E,Q18e. How afraid are you of the following? (Please select one response for each.) e. Immigrants,-1,Web blank
+Q18E,Q18e. How afraid are you of the following? (Please select one response for each.) e. Immigrants,1,Very afraid
+Q18E,Q18e. How afraid are you of the following? (Please select one response for each.) e. Immigrants,2,Afraid
+Q18E,Q18e. How afraid are you of the following? (Please select one response for each.) e. Immigrants,3,Slightly afraid
+Q18E,Q18e. How afraid are you of the following? (Please select one response for each.) e. Immigrants,4,Not afraid
+Q18E,Q18e. How afraid are you of the following? (Please select one response for each.) e. Immigrants,5,I don't know who/what this is
+Q18F,Q18f. How afraid are you of the following? (Please select one response for each.) f. Muslims,-1,Web blank
+Q18F,Q18f. How afraid are you of the following? (Please select one response for each.) f. Muslims,1,Very afraid
+Q18F,Q18f. How afraid are you of the following? (Please select one response for each.) f. Muslims,2,Afraid
+Q18F,Q18f. How afraid are you of the following? (Please select one response for each.) f. Muslims,3,Slightly afraid
+Q18F,Q18f. How afraid are you of the following? (Please select one response for each.) f. Muslims,4,Not afraid
+Q18F,Q18f. How afraid are you of the following? (Please select one response for each.) f. Muslims,5,I don't know who/what this is
+Q18G,Q18g. How afraid are you of the following? (Please select one response for each.) g. Right wing extremists,-1,Web blank
+Q18G,Q18g. How afraid are you of the following? (Please select one response for each.) g. Right wing extremists,1,Very afraid
+Q18G,Q18g. How afraid are you of the following? (Please select one response for each.) g. Right wing extremists,2,Afraid
+Q18G,Q18g. How afraid are you of the following? (Please select one response for each.) g. Right wing extremists,3,Slightly afraid
+Q18G,Q18g. How afraid are you of the following? (Please select one response for each.) g. Right wing extremists,4,Not afraid
+Q18G,Q18g. How afraid are you of the following? (Please select one response for each.) g. Right wing extremists,5,I don't know who/what this is
+Q18H,Q18h. How afraid are you of the following? (Please select one response for each.) h. Left wing extremists,-1,Web blank
+Q18H,Q18h. How afraid are you of the following? (Please select one response for each.) h. Left wing extremists,1,Very afraid
+Q18H,Q18h. How afraid are you of the following? (Please select one response for each.) h. Left wing extremists,2,Afraid
+Q18H,Q18h. How afraid are you of the following? (Please select one response for each.) h. Left wing extremists,3,Slightly afraid
+Q18H,Q18h. How afraid are you of the following? (Please select one response for each.) h. Left wing extremists,4,Not afraid
+Q18H,Q18h. How afraid are you of the following? (Please select one response for each.) h. Left wing extremists,5,I don't know who/what this is
+Q19A,Q19a. How afraid are you of the following? (Please select one response for each.) a. Government use of drones within the US,-1,Web blank
+Q19A,Q19a. How afraid are you of the following? (Please select one response for each.) a. Government use of drones within the US,1,Very afraid
+Q19A,Q19a. How afraid are you of the following? (Please select one response for each.) a. Government use of drones within the US,2,Afraid
+Q19A,Q19a. How afraid are you of the following? (Please select one response for each.) a. Government use of drones within the US,3,Slightly afraid
+Q19A,Q19a. How afraid are you of the following? (Please select one response for each.) a. Government use of drones within the US,4,Not afraid
+Q19B,Q19b. How afraid are you of the following? (Please select one response for each.) b. Corrupt government officials,-1,Web blank
+Q19B,Q19b. How afraid are you of the following? (Please select one response for each.) b. Corrupt government officials,1,Very afraid
+Q19B,Q19b. How afraid are you of the following? (Please select one response for each.) b. Corrupt government officials,2,Afraid
+Q19B,Q19b. How afraid are you of the following? (Please select one response for each.) b. Corrupt government officials,3,Slightly afraid
+Q19B,Q19b. How afraid are you of the following? (Please select one response for each.) b. Corrupt government officials,4,Not afraid
+Q19C,Q19c. How afraid are you of the following? (Please select one response for each.) c. Government restrictions on firearms and ammunition,-1,Web blank
+Q19C,Q19c. How afraid are you of the following? (Please select one response for each.) c. Government restrictions on firearms and ammunition,1,Very afraid
+Q19C,Q19c. How afraid are you of the following? (Please select one response for each.) c. Government restrictions on firearms and ammunition,2,Afraid
+Q19C,Q19c. How afraid are you of the following? (Please select one response for each.) c. Government restrictions on firearms and ammunition,3,Slightly afraid
+Q19C,Q19c. How afraid are you of the following? (Please select one response for each.) c. Government restrictions on firearms and ammunition,4,Not afraid
+Q20A,Q20a. Please indicate your level of agreement with the following statements. (Please select one response for each.) a. I support the Black Lives Matter (BLM) movement.,-1,Web blank
+Q20A,Q20a. Please indicate your level of agreement with the following statements. (Please select one response for each.) a. I support the Black Lives Matter (BLM) movement.,1,Strongly agree
+Q20A,Q20a. Please indicate your level of agreement with the following statements. (Please select one response for each.) a. I support the Black Lives Matter (BLM) movement.,2,Agree
+Q20A,Q20a. Please indicate your level of agreement with the following statements. (Please select one response for each.) a. I support the Black Lives Matter (BLM) movement.,3,Disagree
+Q20A,Q20a. Please indicate your level of agreement with the following statements. (Please select one response for each.) a. I support the Black Lives Matter (BLM) movement.,4,Strongly disagree
+Q20B,Q20b. Please indicate your level of agreement with the following statements. (Please select one response for each.) b. Local governments should enact curfews during protests.,-1,Web blank
+Q20B,Q20b. Please indicate your level of agreement with the following statements. (Please select one response for each.) b. Local governments should enact curfews during protests.,1,Strongly agree
+Q20B,Q20b. Please indicate your level of agreement with the following statements. (Please select one response for each.) b. Local governments should enact curfews during protests.,2,Agree
+Q20B,Q20b. Please indicate your level of agreement with the following statements. (Please select one response for each.) b. Local governments should enact curfews during protests.,3,Disagree
+Q20B,Q20b. Please indicate your level of agreement with the following statements. (Please select one response for each.) b. Local governments should enact curfews during protests.,4,Strongly disagree
+Q20C,Q20c. Please indicate your level of agreement with the following statements. (Please select one response for each.) c. The National Guard should be called in to cities to stop protests when needed.,-1,Web blank
+Q20C,Q20c. Please indicate your level of agreement with the following statements. (Please select one response for each.) c. The National Guard should be called in to cities to stop protests when needed.,1,Strongly agree
+Q20C,Q20c. Please indicate your level of agreement with the following statements. (Please select one response for each.) c. The National Guard should be called in to cities to stop protests when needed.,2,Agree
+Q20C,Q20c. Please indicate your level of agreement with the following statements. (Please select one response for each.) c. The National Guard should be called in to cities to stop protests when needed.,3,Disagree
+Q20C,Q20c. Please indicate your level of agreement with the following statements. (Please select one response for each.) c. The National Guard should be called in to cities to stop protests when needed.,4,Strongly disagree
+Q20D,Q20d. Please indicate your level of agreement with the following statements. (Please select one response for each.) d. Our nation needs to reform the entire system of law enforcement.,-1,Web blank
+Q20D,Q20d. Please indicate your level of agreement with the following statements. (Please select one response for each.) d. Our nation needs to reform the entire system of law enforcement.,1,Strongly agree
+Q20D,Q20d. Please indicate your level of agreement with the following statements. (Please select one response for each.) d. Our nation needs to reform the entire system of law enforcement.,2,Agree
+Q20D,Q20d. Please indicate your level of agreement with the following statements. (Please select one response for each.) d. Our nation needs to reform the entire system of law enforcement.,3,Disagree
+Q20D,Q20d. Please indicate your level of agreement with the following statements. (Please select one response for each.) d. Our nation needs to reform the entire system of law enforcement.,4,Strongly disagree
+Q20E,Q20e. Please indicate your level of agreement with the following statements. (Please select one response for each.) e. We should defund the police.,-1,Web blank
+Q20E,Q20e. Please indicate your level of agreement with the following statements. (Please select one response for each.) e. We should defund the police.,1,Strongly agree
+Q20E,Q20e. Please indicate your level of agreement with the following statements. (Please select one response for each.) e. We should defund the police.,2,Agree
+Q20E,Q20e. Please indicate your level of agreement with the following statements. (Please select one response for each.) e. We should defund the police.,3,Disagree
+Q20E,Q20e. Please indicate your level of agreement with the following statements. (Please select one response for each.) e. We should defund the police.,4,Strongly disagree
+Q22A,"Q22a. Please indicate your level of agreement with the following statements. (Please select one response for each.) a. Overall, the Black Lives Matter (BLM) movement has been bad for the United States.",-1,Web blank
+Q22A,"Q22a. Please indicate your level of agreement with the following statements. (Please select one response for each.) a. Overall, the Black Lives Matter (BLM) movement has been bad for the United States.",1,Strongly agree
+Q22A,"Q22a. Please indicate your level of agreement with the following statements. (Please select one response for each.) a. Overall, the Black Lives Matter (BLM) movement has been bad for the United States.",2,Agree
+Q22A,"Q22a. Please indicate your level of agreement with the following statements. (Please select one response for each.) a. Overall, the Black Lives Matter (BLM) movement has been bad for the United States.",3,Disagree
+Q22A,"Q22a. Please indicate your level of agreement with the following statements. (Please select one response for each.) a. Overall, the Black Lives Matter (BLM) movement has been bad for the United States.",4,Strongly disagree
+Q22B,Q22b. Please indicate your level of agreement with the following statements. (Please select one response for each.) b. A serious barrier to healthy race relations in the United States is that white people become defensive when confronted with information about racial injustice.,-1,Web blank
+Q22B,Q22b. Please indicate your level of agreement with the following statements. (Please select one response for each.) b. A serious barrier to healthy race relations in the United States is that white people become defensive when confronted with information about racial injustice.,1,Strongly agree
+Q22B,Q22b. Please indicate your level of agreement with the following statements. (Please select one response for each.) b. A serious barrier to healthy race relations in the United States is that white people become defensive when confronted with information about racial injustice.,2,Agree
+Q22B,Q22b. Please indicate your level of agreement with the following statements. (Please select one response for each.) b. A serious barrier to healthy race relations in the United States is that white people become defensive when confronted with information about racial injustice.,3,Disagree
+Q22B,Q22b. Please indicate your level of agreement with the following statements. (Please select one response for each.) b. A serious barrier to healthy race relations in the United States is that white people become defensive when confronted with information about racial injustice.,4,Strongly disagree
+Q22C,Q22c. Please indicate your level of agreement with the following statements. (Please select one response for each.) c. Generations of slavery and discrimination have created conditions that make it difficult for black people to work their way out of the lower class.,-1,Web blank
+Q22C,Q22c. Please indicate your level of agreement with the following statements. (Please select one response for each.) c. Generations of slavery and discrimination have created conditions that make it difficult for black people to work their way out of the lower class.,1,Strongly agree
+Q22C,Q22c. Please indicate your level of agreement with the following statements. (Please select one response for each.) c. Generations of slavery and discrimination have created conditions that make it difficult for black people to work their way out of the lower class.,2,Agree
+Q22C,Q22c. Please indicate your level of agreement with the following statements. (Please select one response for each.) c. Generations of slavery and discrimination have created conditions that make it difficult for black people to work their way out of the lower class.,3,Disagree
+Q22C,Q22c. Please indicate your level of agreement with the following statements. (Please select one response for each.) c. Generations of slavery and discrimination have created conditions that make it difficult for black people to work their way out of the lower class.,4,Strongly disagree
+Q22D,Q22d. Please indicate your level of agreement with the following statements. (Please select one response for each.) d. Government officials usually pay more attention to a request or complaint from a white person than from a black person.,-1,Web blank
+Q22D,Q22d. Please indicate your level of agreement with the following statements. (Please select one response for each.) d. Government officials usually pay more attention to a request or complaint from a white person than from a black person.,1,Strongly agree
+Q22D,Q22d. Please indicate your level of agreement with the following statements. (Please select one response for each.) d. Government officials usually pay more attention to a request or complaint from a white person than from a black person.,2,Agree
+Q22D,Q22d. Please indicate your level of agreement with the following statements. (Please select one response for each.) d. Government officials usually pay more attention to a request or complaint from a white person than from a black person.,3,Disagree
+Q22D,Q22d. Please indicate your level of agreement with the following statements. (Please select one response for each.) d. Government officials usually pay more attention to a request or complaint from a white person than from a black person.,4,Strongly disagree
+Q22E,"Q22e. Please indicate your level of agreement with the following statements. (Please select one response for each.) e. Over the past few years, black people have gotten less than they deserve.",-1,Web blank
+Q22E,"Q22e. Please indicate your level of agreement with the following statements. (Please select one response for each.) e. Over the past few years, black people have gotten less than they deserve.",1,Strongly agree
+Q22E,"Q22e. Please indicate your level of agreement with the following statements. (Please select one response for each.) e. Over the past few years, black people have gotten less than they deserve.",2,Agree
+Q22E,"Q22e. Please indicate your level of agreement with the following statements. (Please select one response for each.) e. Over the past few years, black people have gotten less than they deserve.",3,Disagree
+Q22E,"Q22e. Please indicate your level of agreement with the following statements. (Please select one response for each.) e. Over the past few years, black people have gotten less than they deserve.",4,Strongly disagree
+Q22F,Q22f. Please indicate your level of agreement with the following statements. (Please select one response for each.) f. The norms of white supremacy do not have much influence in the United States.,-1,Web blank
+Q22F,Q22f. Please indicate your level of agreement with the following statements. (Please select one response for each.) f. The norms of white supremacy do not have much influence in the United States.,1,Strongly agree
+Q22F,Q22f. Please indicate your level of agreement with the following statements. (Please select one response for each.) f. The norms of white supremacy do not have much influence in the United States.,2,Agree
+Q22F,Q22f. Please indicate your level of agreement with the following statements. (Please select one response for each.) f. The norms of white supremacy do not have much influence in the United States.,3,Disagree
+Q22F,Q22f. Please indicate your level of agreement with the following statements. (Please select one response for each.) f. The norms of white supremacy do not have much influence in the United States.,4,Strongly disagree
+Q23A,Q23a. Please indicate your level of agreement with the following statements. (Please select one response for each.) a. An emergency supply kit improves the chance of surviving a natural or manmade disaster.,1,Strongly agree
+Q23A,Q23a. Please indicate your level of agreement with the following statements. (Please select one response for each.) a. An emergency supply kit improves the chance of surviving a natural or manmade disaster.,2,Agree
+Q23A,Q23a. Please indicate your level of agreement with the following statements. (Please select one response for each.) a. An emergency supply kit improves the chance of surviving a natural or manmade disaster.,3,Disagree
+Q23A,Q23a. Please indicate your level of agreement with the following statements. (Please select one response for each.) a. An emergency supply kit improves the chance of surviving a natural or manmade disaster.,4,Strongly disagree
+Q23B,Q23b. Please indicate your level of agreement with the following statements. (Please select one response for each.) b. I will experience a significant natural or manmade disaster in the near future.,-1,Web blank
+Q23B,Q23b. Please indicate your level of agreement with the following statements. (Please select one response for each.) b. I will experience a significant natural or manmade disaster in the near future.,1,Strongly agree
+Q23B,Q23b. Please indicate your level of agreement with the following statements. (Please select one response for each.) b. I will experience a significant natural or manmade disaster in the near future.,2,Agree
+Q23B,Q23b. Please indicate your level of agreement with the following statements. (Please select one response for each.) b. I will experience a significant natural or manmade disaster in the near future.,3,Disagree
+Q23B,Q23b. Please indicate your level of agreement with the following statements. (Please select one response for each.) b. I will experience a significant natural or manmade disaster in the near future.,4,Strongly disagree
+Q23C,Q23c. Please indicate your level of agreement with the following statements. (Please select one response for each.) c. I have not done enough to prepare for disasters.,-1,Web blank
+Q23C,Q23c. Please indicate your level of agreement with the following statements. (Please select one response for each.) c. I have not done enough to prepare for disasters.,1,Strongly agree
+Q23C,Q23c. Please indicate your level of agreement with the following statements. (Please select one response for each.) c. I have not done enough to prepare for disasters.,2,Agree
+Q23C,Q23c. Please indicate your level of agreement with the following statements. (Please select one response for each.) c. I have not done enough to prepare for disasters.,3,Disagree
+Q23C,Q23c. Please indicate your level of agreement with the following statements. (Please select one response for each.) c. I have not done enough to prepare for disasters.,4,Strongly disagree
+Q23D,Q23d. Please indicate your level of agreement with the following statements. (Please select one response for each.) d. I know how to prepare for disasters.,1,Strongly agree
+Q23D,Q23d. Please indicate your level of agreement with the following statements. (Please select one response for each.) d. I know how to prepare for disasters.,2,Agree
+Q23D,Q23d. Please indicate your level of agreement with the following statements. (Please select one response for each.) d. I know how to prepare for disasters.,3,Disagree
+Q23D,Q23d. Please indicate your level of agreement with the following statements. (Please select one response for each.) d. I know how to prepare for disasters.,4,Strongly disagree
+Q23E,Q23e. Please indicate your level of agreement with the following statements. (Please select one response for each.) e. Natural disasters in my area are capable of seriously harming or damaging me or my property.,1,Strongly agree
+Q23E,Q23e. Please indicate your level of agreement with the following statements. (Please select one response for each.) e. Natural disasters in my area are capable of seriously harming or damaging me or my property.,2,Agree
+Q23E,Q23e. Please indicate your level of agreement with the following statements. (Please select one response for each.) e. Natural disasters in my area are capable of seriously harming or damaging me or my property.,3,Disagree
+Q23E,Q23e. Please indicate your level of agreement with the following statements. (Please select one response for each.) e. Natural disasters in my area are capable of seriously harming or damaging me or my property.,4,Strongly disagree
+Q23H,"Q23h. Please indicate your level of agreement with the following statements. (Please select one response for each.) h. Over the past year, I have been impacted by natural disasters or extreme weather in my area.",1,Strongly agree
+Q23H,"Q23h. Please indicate your level of agreement with the following statements. (Please select one response for each.) h. Over the past year, I have been impacted by natural disasters or extreme weather in my area.",2,Agree
+Q23H,"Q23h. Please indicate your level of agreement with the following statements. (Please select one response for each.) h. Over the past year, I have been impacted by natural disasters or extreme weather in my area.",3,Disagree
+Q23H,"Q23h. Please indicate your level of agreement with the following statements. (Please select one response for each.) h. Over the past year, I have been impacted by natural disasters or extreme weather in my area.",4,Strongly disagree
+Q23I,"Q23i. Please indicate your level of agreement with the following statements. (Please select one response for each.) i. Because of natural disasters or extreme weather I have experienced, I'm more concerned with disaster preparedness.",1,Strongly agree
+Q23I,"Q23i. Please indicate your level of agreement with the following statements. (Please select one response for each.) i. Because of natural disasters or extreme weather I have experienced, I'm more concerned with disaster preparedness.",2,Agree
+Q23I,"Q23i. Please indicate your level of agreement with the following statements. (Please select one response for each.) i. Because of natural disasters or extreme weather I have experienced, I'm more concerned with disaster preparedness.",3,Disagree
+Q23I,"Q23i. Please indicate your level of agreement with the following statements. (Please select one response for each.) i. Because of natural disasters or extreme weather I have experienced, I'm more concerned with disaster preparedness.",4,Strongly disagree
+Q23J,"Q23j. Please indicate your level of agreement with the following statements. (Please select one response for each.) j. Because of climate change, I am more concerned with disaster preparedness",1,Strongly agree
+Q23J,"Q23j. Please indicate your level of agreement with the following statements. (Please select one response for each.) j. Because of climate change, I am more concerned with disaster preparedness",2,Agree
+Q23J,"Q23j. Please indicate your level of agreement with the following statements. (Please select one response for each.) j. Because of climate change, I am more concerned with disaster preparedness",3,Disagree
+Q23J,"Q23j. Please indicate your level of agreement with the following statements. (Please select one response for each.) j. Because of climate change, I am more concerned with disaster preparedness",4,Strongly disagree
+Q24,Q24. Do you have a disability or a health condition that might affect your ability to prepare for a disaster?,1,Yes
+Q24,Q24. Do you have a disability or a health condition that might affect your ability to prepare for a disaster?,2,No
+Q25,Q25. Does someone in your household have a disability or a health condition that might affect their ability to prepare for a disaster?,-1,Web blank
+Q25,Q25. Does someone in your household have a disability or a health condition that might affect their ability to prepare for a disaster?,1,Yes
+Q25,Q25. Does someone in your household have a disability or a health condition that might affect their ability to prepare for a disaster?,2,No
+Q26A,Q26a. Please indicate your level of agreement with the following statements. (Please select one response for each.) a. The world as we know it will end within my lifetime.,-1,Web blank
+Q26A,Q26a. Please indicate your level of agreement with the following statements. (Please select one response for each.) a. The world as we know it will end within my lifetime.,1,Strongly agree
+Q26A,Q26a. Please indicate your level of agreement with the following statements. (Please select one response for each.) a. The world as we know it will end within my lifetime.,2,Agree
+Q26A,Q26a. Please indicate your level of agreement with the following statements. (Please select one response for each.) a. The world as we know it will end within my lifetime.,3,Disagree
+Q26A,Q26a. Please indicate your level of agreement with the following statements. (Please select one response for each.) a. The world as we know it will end within my lifetime.,4,Strongly disagree
+Q26B,Q26b. Please indicate your level of agreement with the following statements. (Please select one response for each.) b. The world as we know it will end as outlined in the Bible.,-1,Web blank
+Q26B,Q26b. Please indicate your level of agreement with the following statements. (Please select one response for each.) b. The world as we know it will end as outlined in the Bible.,1,Strongly agree
+Q26B,Q26b. Please indicate your level of agreement with the following statements. (Please select one response for each.) b. The world as we know it will end as outlined in the Bible.,2,Agree
+Q26B,Q26b. Please indicate your level of agreement with the following statements. (Please select one response for each.) b. The world as we know it will end as outlined in the Bible.,3,Disagree
+Q26B,Q26b. Please indicate your level of agreement with the following statements. (Please select one response for each.) b. The world as we know it will end as outlined in the Bible.,4,Strongly disagree
+Q26C,Q26c. Please indicate your level of agreement with the following statements. (Please select one response for each.) c. The world as we know it will end due to a world war or nuclear war.,-1,Web blank
+Q26C,Q26c. Please indicate your level of agreement with the following statements. (Please select one response for each.) c. The world as we know it will end due to a world war or nuclear war.,1,Strongly agree
+Q26C,Q26c. Please indicate your level of agreement with the following statements. (Please select one response for each.) c. The world as we know it will end due to a world war or nuclear war.,2,Agree
+Q26C,Q26c. Please indicate your level of agreement with the following statements. (Please select one response for each.) c. The world as we know it will end due to a world war or nuclear war.,3,Disagree
+Q26C,Q26c. Please indicate your level of agreement with the following statements. (Please select one response for each.) c. The world as we know it will end due to a world war or nuclear war.,4,Strongly disagree
+Q26D,Q26d. Please indicate your level of agreement with the following statements. (Please select one response for each.) d. The world as we know it will end due to a manmade environmental disaster or climate change.,-1,Web blank
+Q26D,Q26d. Please indicate your level of agreement with the following statements. (Please select one response for each.) d. The world as we know it will end due to a manmade environmental disaster or climate change.,1,Strongly agree
+Q26D,Q26d. Please indicate your level of agreement with the following statements. (Please select one response for each.) d. The world as we know it will end due to a manmade environmental disaster or climate change.,2,Agree
+Q26D,Q26d. Please indicate your level of agreement with the following statements. (Please select one response for each.) d. The world as we know it will end due to a manmade environmental disaster or climate change.,3,Disagree
+Q26D,Q26d. Please indicate your level of agreement with the following statements. (Please select one response for each.) d. The world as we know it will end due to a manmade environmental disaster or climate change.,4,Strongly disagree
+Q26E,"Q26e. Please indicate your level of agreement with the following statements. (Please select one response for each.) e. The world as we know it will end due to a natural disaster (such as a comet strike, massive volcanic explosion, etc.)",-1,Web blank
+Q26E,"Q26e. Please indicate your level of agreement with the following statements. (Please select one response for each.) e. The world as we know it will end due to a natural disaster (such as a comet strike, massive volcanic explosion, etc.)",1,Strongly agree
+Q26E,"Q26e. Please indicate your level of agreement with the following statements. (Please select one response for each.) e. The world as we know it will end due to a natural disaster (such as a comet strike, massive volcanic explosion, etc.)",2,Agree
+Q26E,"Q26e. Please indicate your level of agreement with the following statements. (Please select one response for each.) e. The world as we know it will end due to a natural disaster (such as a comet strike, massive volcanic explosion, etc.)",3,Disagree
+Q26E,"Q26e. Please indicate your level of agreement with the following statements. (Please select one response for each.) e. The world as we know it will end due to a natural disaster (such as a comet strike, massive volcanic explosion, etc.)",4,Strongly disagree
+Q28A,Q28a. Please indicate your level of agreement with the following statements. (Please select one response for each.) a. Climate change is causing more frequent and severe floods.,-1,Web blank
+Q28A,Q28a. Please indicate your level of agreement with the following statements. (Please select one response for each.) a. Climate change is causing more frequent and severe floods.,1,Strongly agree
+Q28A,Q28a. Please indicate your level of agreement with the following statements. (Please select one response for each.) a. Climate change is causing more frequent and severe floods.,2,Agree
+Q28A,Q28a. Please indicate your level of agreement with the following statements. (Please select one response for each.) a. Climate change is causing more frequent and severe floods.,3,Disagree
+Q28A,Q28a. Please indicate your level of agreement with the following statements. (Please select one response for each.) a. Climate change is causing more frequent and severe floods.,4,Strongly disagree
+Q28B,Q28b. Please indicate your level of agreement with the following statements. (Please select one response for each.) b. Climate change is causing more frequent and severe wildfires.,-1,Web blank
+Q28B,Q28b. Please indicate your level of agreement with the following statements. (Please select one response for each.) b. Climate change is causing more frequent and severe wildfires.,1,Strongly agree
+Q28B,Q28b. Please indicate your level of agreement with the following statements. (Please select one response for each.) b. Climate change is causing more frequent and severe wildfires.,2,Agree
+Q28B,Q28b. Please indicate your level of agreement with the following statements. (Please select one response for each.) b. Climate change is causing more frequent and severe wildfires.,3,Disagree
+Q28B,Q28b. Please indicate your level of agreement with the following statements. (Please select one response for each.) b. Climate change is causing more frequent and severe wildfires.,4,Strongly disagree
+Q28C,Q28c. Please indicate your level of agreement with the following statements. (Please select one response for each.) c. Climate change is causing more frequent and severe droughts.,-1,Web blank
+Q28C,Q28c. Please indicate your level of agreement with the following statements. (Please select one response for each.) c. Climate change is causing more frequent and severe droughts.,1,Strongly agree
+Q28C,Q28c. Please indicate your level of agreement with the following statements. (Please select one response for each.) c. Climate change is causing more frequent and severe droughts.,2,Agree
+Q28C,Q28c. Please indicate your level of agreement with the following statements. (Please select one response for each.) c. Climate change is causing more frequent and severe droughts.,3,Disagree
+Q28C,Q28c. Please indicate your level of agreement with the following statements. (Please select one response for each.) c. Climate change is causing more frequent and severe droughts.,4,Strongly disagree
+Q28D,Q28d. Please indicate your level of agreement with the following statements. (Please select one response for each.) d. Climate change is causing more frequent and severe hurricanes.,-1,Web blank
+Q28D,Q28d. Please indicate your level of agreement with the following statements. (Please select one response for each.) d. Climate change is causing more frequent and severe hurricanes.,1,Strongly agree
+Q28D,Q28d. Please indicate your level of agreement with the following statements. (Please select one response for each.) d. Climate change is causing more frequent and severe hurricanes.,2,Agree
+Q28D,Q28d. Please indicate your level of agreement with the following statements. (Please select one response for each.) d. Climate change is causing more frequent and severe hurricanes.,3,Disagree
+Q28D,Q28d. Please indicate your level of agreement with the following statements. (Please select one response for each.) d. Climate change is causing more frequent and severe hurricanes.,4,Strongly disagree
+Q29,"Q29. Do you have a disaster or emergency supply kit in your household, containing supplies such as food, water and medical supplies?",1,Yes
+Q29,"Q29. Do you have a disaster or emergency supply kit in your household, containing supplies such as food, water and medical supplies?",2,No
+Q30,Q30. Have you or anyone in your household put together a plan for what you would do in a natural disaster or emergency such as a fire in your home?,-1,Web blank
+Q30,Q30. Have you or anyone in your household put together a plan for what you would do in a natural disaster or emergency such as a fire in your home?,1,Yes
+Q30,Q30. Have you or anyone in your household put together a plan for what you would do in a natural disaster or emergency such as a fire in your home?,2,No
+Q31,Q31. Have you or anyone in your household put together a plan for what you would do with your pet(s) in a natural disaster or emergency as a fire in your home?,-1,Web blank
+Q31,Q31. Have you or anyone in your household put together a plan for what you would do with your pet(s) in a natural disaster or emergency as a fire in your home?,1,Yes
+Q31,Q31. Have you or anyone in your household put together a plan for what you would do with your pet(s) in a natural disaster or emergency as a fire in your home?,2,No
+Q31,Q31. Have you or anyone in your household put together a plan for what you would do with your pet(s) in a natural disaster or emergency as a fire in your home?,3,I do not have pets
+Q32,"Q32. Have you or anyone in your household backed up and/or stored personal, medical and financial records in a safe accessible place in case of natural disaster or emergency such as fire in your home?",-1,Web blank
+Q32,"Q32. Have you or anyone in your household backed up and/or stored personal, medical and financial records in a safe accessible place in case of natural disaster or emergency such as fire in your home?",1,Yes
+Q32,"Q32. Have you or anyone in your household backed up and/or stored personal, medical and financial records in a safe accessible place in case of natural disaster or emergency such as fire in your home?",2,No
+Q27A,Q27a. Please indicate your level of agreement with the following statements. (Please select one response for each.) a. I have lost friendships because of COVID-19.,1,Strongly agree
+Q27A,Q27a. Please indicate your level of agreement with the following statements. (Please select one response for each.) a. I have lost friendships because of COVID-19.,2,Agree
+Q27A,Q27a. Please indicate your level of agreement with the following statements. (Please select one response for each.) a. I have lost friendships because of COVID-19.,3,Disagree
+Q27A,Q27a. Please indicate your level of agreement with the following statements. (Please select one response for each.) a. I have lost friendships because of COVID-19.,4,Strongly disagree
+Q27B,Q27b. Please indicate your level of agreement with the following statements. (Please select one response for each.) b. I have spent more time alone because of COVID-19.,1,Strongly agree
+Q27B,Q27b. Please indicate your level of agreement with the following statements. (Please select one response for each.) b. I have spent more time alone because of COVID-19.,2,Agree
+Q27B,Q27b. Please indicate your level of agreement with the following statements. (Please select one response for each.) b. I have spent more time alone because of COVID-19.,3,Disagree
+Q27B,Q27b. Please indicate your level of agreement with the following statements. (Please select one response for each.) b. I have spent more time alone because of COVID-19.,4,Strongly disagree
+Q27C,Q27c. Please indicate your level of agreement with the following statements. (Please select one response for each.) c. I have had arguments with friends or family because of COVID-19.,1,Strongly agree
+Q27C,Q27c. Please indicate your level of agreement with the following statements. (Please select one response for each.) c. I have had arguments with friends or family because of COVID-19.,2,Agree
+Q27C,Q27c. Please indicate your level of agreement with the following statements. (Please select one response for each.) c. I have had arguments with friends or family because of COVID-19.,3,Disagree
+Q27C,Q27c. Please indicate your level of agreement with the following statements. (Please select one response for each.) c. I have had arguments with friends or family because of COVID-19.,4,Strongly disagree
+Q27D,Q27d. Please indicate your level of agreement with the following statements. (Please select one response for each.) d. I have done more to prepare my household for emergencies and disasters because of COVID-19.,1,Strongly agree
+Q27D,Q27d. Please indicate your level of agreement with the following statements. (Please select one response for each.) d. I have done more to prepare my household for emergencies and disasters because of COVID-19.,2,Agree
+Q27D,Q27d. Please indicate your level of agreement with the following statements. (Please select one response for each.) d. I have done more to prepare my household for emergencies and disasters because of COVID-19.,3,Disagree
+Q27D,Q27d. Please indicate your level of agreement with the following statements. (Please select one response for each.) d. I have done more to prepare my household for emergencies and disasters because of COVID-19.,4,Strongly disagree
+Q33A,"Q33a. Please indicate your level of agreement with the following statements about elections. (Please select one response for each.) a. Donald Trump is to blame for the violent events that occurred on January 6th, 2021.",-1,Web blank
+Q33A,"Q33a. Please indicate your level of agreement with the following statements about elections. (Please select one response for each.) a. Donald Trump is to blame for the violent events that occurred on January 6th, 2021.",1,Strongly agree
+Q33A,"Q33a. Please indicate your level of agreement with the following statements about elections. (Please select one response for each.) a. Donald Trump is to blame for the violent events that occurred on January 6th, 2021.",2,Agree
+Q33A,"Q33a. Please indicate your level of agreement with the following statements about elections. (Please select one response for each.) a. Donald Trump is to blame for the violent events that occurred on January 6th, 2021.",3,Disagree
+Q33A,"Q33a. Please indicate your level of agreement with the following statements about elections. (Please select one response for each.) a. Donald Trump is to blame for the violent events that occurred on January 6th, 2021.",4,Strongly disagree
+Q33B,Q33b. Please indicate your level of agreement with the following statements about elections. (Please select one response for each.) b. Joseph Biden was the legitimate winner of the 2020 U.S. presidential election.,-1,Web blank
+Q33B,Q33b. Please indicate your level of agreement with the following statements about elections. (Please select one response for each.) b. Joseph Biden was the legitimate winner of the 2020 U.S. presidential election.,1,Strongly agree
+Q33B,Q33b. Please indicate your level of agreement with the following statements about elections. (Please select one response for each.) b. Joseph Biden was the legitimate winner of the 2020 U.S. presidential election.,2,Agree
+Q33B,Q33b. Please indicate your level of agreement with the following statements about elections. (Please select one response for each.) b. Joseph Biden was the legitimate winner of the 2020 U.S. presidential election.,3,Disagree
+Q33B,Q33b. Please indicate your level of agreement with the following statements about elections. (Please select one response for each.) b. Joseph Biden was the legitimate winner of the 2020 U.S. presidential election.,4,Strongly disagree
+Q33C,"Q33c. Please indicate your level of agreement with the following statements about elections. (Please select one response for each.) c. Because of widespread election fraud, we'll never know who won the 2020 presidential election.",-1,Web blank
+Q33C,"Q33c. Please indicate your level of agreement with the following statements about elections. (Please select one response for each.) c. Because of widespread election fraud, we'll never know who won the 2020 presidential election.",1,Strongly agree
+Q33C,"Q33c. Please indicate your level of agreement with the following statements about elections. (Please select one response for each.) c. Because of widespread election fraud, we'll never know who won the 2020 presidential election.",2,Agree
+Q33C,"Q33c. Please indicate your level of agreement with the following statements about elections. (Please select one response for each.) c. Because of widespread election fraud, we'll never know who won the 2020 presidential election.",3,Disagree
+Q33C,"Q33c. Please indicate your level of agreement with the following statements about elections. (Please select one response for each.) c. Because of widespread election fraud, we'll never know who won the 2020 presidential election.",4,Strongly disagree
+Q33D,"Q33d. Please indicate your level of agreement with the following statements about elections. (Please select one response for each.) d. The protestors who attacked the U.S. Capitol on January 6th, 2021 were patriots.",-1,Web blank
+Q33D,"Q33d. Please indicate your level of agreement with the following statements about elections. (Please select one response for each.) d. The protestors who attacked the U.S. Capitol on January 6th, 2021 were patriots.",1,Strongly agree
+Q33D,"Q33d. Please indicate your level of agreement with the following statements about elections. (Please select one response for each.) d. The protestors who attacked the U.S. Capitol on January 6th, 2021 were patriots.",2,Agree
+Q33D,"Q33d. Please indicate your level of agreement with the following statements about elections. (Please select one response for each.) d. The protestors who attacked the U.S. Capitol on January 6th, 2021 were patriots.",3,Disagree
+Q33D,"Q33d. Please indicate your level of agreement with the following statements about elections. (Please select one response for each.) d. The protestors who attacked the U.S. Capitol on January 6th, 2021 were patriots.",4,Strongly disagree
+Q33G,Q33g. Please indicate your level of agreement with the following statements about elections. (Please select one response for each.) g. We need new voting laws because there is too much voter fraud.,-1,Web blank
+Q33G,Q33g. Please indicate your level of agreement with the following statements about elections. (Please select one response for each.) g. We need new voting laws because there is too much voter fraud.,1,Strongly agree
+Q33G,Q33g. Please indicate your level of agreement with the following statements about elections. (Please select one response for each.) g. We need new voting laws because there is too much voter fraud.,2,Agree
+Q33G,Q33g. Please indicate your level of agreement with the following statements about elections. (Please select one response for each.) g. We need new voting laws because there is too much voter fraud.,3,Disagree
+Q33G,Q33g. Please indicate your level of agreement with the following statements about elections. (Please select one response for each.) g. We need new voting laws because there is too much voter fraud.,4,Strongly disagree
+Q21,Q21. With which gender identity do you identify the most?,-1,Web Blank
+Q21,Q21. With which gender identity do you identify the most?,1,Male
+Q21,Q21. With which gender identity do you identify the most?,2,Female
+Q21,Q21. With which gender identity do you identify the most?,3,Non-binary
+INT5,INT5. About how often do you use the internet?,1,Almost constantly
+INT5,INT5. About how often do you use the internet?,2,Several times a day
+INT5,INT5. About how often do you use the internet?,3,About once a day
+INT5,INT5. About how often do you use the internet?,4,Several times a week
+INT5,INT5. About how often do you use the internet?,5,Less often
+Z8,Z8. What is the highest level of school you have completed or the highest degree you have received? (Please select one.) (Note: Select 'High school graduate' if you completed training that did not count toward a degree.),1,Less than high school (Grades one through eight or no formal schooling)
+Z8,Z8. What is the highest level of school you have completed or the highest degree you have received? (Please select one.) (Note: Select 'High school graduate' if you completed training that did not count toward a degree.),2,High school incomplete (Grades nine to 11 or grade 12 with no diploma)
+Z8,Z8. What is the highest level of school you have completed or the highest degree you have received? (Please select one.) (Note: Select 'High school graduate' if you completed training that did not count toward a degree.),3,"High school graduate (Grade 12 with diploma or GED certificate or vocational, business, technical or other training that did not count toward a degree)"
+Z8,Z8. What is the highest level of school you have completed or the highest degree you have received? (Please select one.) (Note: Select 'High school graduate' if you completed training that did not count toward a degree.),4,"Some college, no degree (includes some community college)"
+Z8,Z8. What is the highest level of school you have completed or the highest degree you have received? (Please select one.) (Note: Select 'High school graduate' if you completed training that did not count toward a degree.),5,Two-year associate degree from a college or university
+Z8,Z8. What is the highest level of school you have completed or the highest degree you have received? (Please select one.) (Note: Select 'High school graduate' if you completed training that did not count toward a degree.),6,"Four-year college or university degree/Bachelor's degree (e.g., BS, BA, AB)"
+Z8,Z8. What is the highest level of school you have completed or the highest degree you have received? (Please select one.) (Note: Select 'High school graduate' if you completed training that did not count toward a degree.),7,"Some postgraduate or professional schooling, no postgraduate degree"
+Z8,Z8. What is the highest level of school you have completed or the highest degree you have received? (Please select one.) (Note: Select 'High school graduate' if you completed training that did not count toward a degree.),8,"Postgraduate or professional degree, including master's, doctorate, medical or law degree (e.g., MA, MS, PhD, MD, JD)"
+Z8A,(ASK IF Z8=4) Z8a. How many semesters did you complete?,1,Less than one semester
+Z8A,(ASK IF Z8=4) Z8a. How many semesters did you complete?,2,One or more semesters
+EDUCATION,Combined EDUCATION from Z8 and Z8A,1,Less than high school (Grades one through eight or no formal schooling)
+EDUCATION,Combined EDUCATION from Z8 and Z8A,2,High school incomplete (Grades nine to 11 or grade 12 with no diploma)
+EDUCATION,Combined EDUCATION from Z8 and Z8A,3,"High school graduate (Grade 12 with diploma or GED certificate or vocational, business, technical or other training that did not count toward a degree)"
+EDUCATION,Combined EDUCATION from Z8 and Z8A,4,"Some college, no degree (includes some community college)"
+EDUCATION,Combined EDUCATION from Z8 and Z8A,5,Two-year associate degree from a college or university
+EDUCATION,Combined EDUCATION from Z8 and Z8A,6,"Four-year college or university degree/Bachelor's degree (e.g., BS, BA, AB)"
+EDUCATION,Combined EDUCATION from Z8 and Z8A,7,"Some postgraduate or professional schooling, no postgraduate degree"
+EDUCATION,Combined EDUCATION from Z8 and Z8A,8,"Postgraduate or professional degree, including master's, doctorate, medical or law degree (e.g., MA, MS, PhD, MD, JD)"
+EDUC,Recoded education from Z8,1,Less than high school
+EDUC,Recoded education from Z8,2,High school
+EDUC,Recoded education from Z8,3,Some college
+EDUC,Recoded education from Z8,4,College plus
+Z4,"Z4. Currently, are you yourself employed full-time, part-time, or not at all? (Please select one.)",1,Full-time
+Z4,"Z4. Currently, are you yourself employed full-time, part-time, or not at all? (Please select one.)",2,Part-time
+Z4,"Z4. Currently, are you yourself employed full-time, part-time, or not at all? (Please select one.)",3,Not employed
+Z5,(ASK IF Z4=3) Z5. Would you say you are....? (Please select one.),1,Retired
+Z5,(ASK IF Z4=3) Z5. Would you say you are....? (Please select one.),2,A homemaker
+Z5,(ASK IF Z4=3) Z5. Would you say you are....? (Please select one.),3,A student
+Z5,(ASK IF Z4=3) Z5. Would you say you are....? (Please select one.),4,Temporarily unemployed
+Z5,(ASK IF Z4=3) Z5. Would you say you are....? (Please select one.),5,Disabled/handicapped
+Z5,(ASK IF Z4=3) Z5. Would you say you are....? (Please select one.),7,Other
+EMPLOY,Employment status from survey,1,Full-time
+EMPLOY,Employment status from survey,2,Part-time
+EMPLOY,Employment status from survey,3,Retired
+EMPLOY,Employment status from survey,4,Homemaker
+EMPLOY,Employment status from survey,5,Student
+EMPLOY,Employment status from survey,6,Temporarily unemployed
+EMPLOY,Employment status from survey,7,Disabled/Handicapped
+EMPLOY,Employment status from survey,8,Other not employed
+Z9,"Z9. What is your total annual household income from all sources, and before taxes? (Please select one.)",-1,Web blank
+Z9,"Z9. What is your total annual household income from all sources, and before taxes? (Please select one.)",1,"Less than $15,000"
+Z9,"Z9. What is your total annual household income from all sources, and before taxes? (Please select one.)",2,"$15,000 to less than $20,000"
+Z9,"Z9. What is your total annual household income from all sources, and before taxes? (Please select one.)",3,"$25,000 to less than $30,000"
+Z9,"Z9. What is your total annual household income from all sources, and before taxes? (Please select one.)",4,"$30,000 to less than $40,000"
+Z9,"Z9. What is your total annual household income from all sources, and before taxes? (Please select one.)",5,"$40,000 to less than $50,000"
+Z9,"Z9. What is your total annual household income from all sources, and before taxes? (Please select one.)",6,"$50,000 to less than $75,000"
+Z9,"Z9. What is your total annual household income from all sources, and before taxes? (Please select one.)",7,"$75,000 to less than $100,000"
+Z9,"Z9. What is your total annual household income from all sources, and before taxes? (Please select one.)",8,"$100,000 and over"
+Z9,"Z9. What is your total annual household income from all sources, and before taxes? (Please select one.)",9,"$20,000 but less than $25,000"
+Z9A,(ASK IF Z9=99) Z9a. Could you say if your total annual household income falls into one of these broader categories? (Please select one.),-1,Web Blank
+Z9B,(ASK IF Z9=8) Z9b. Would that be: (Please select one.),1,"$100,000 to less than $150,000"
+Z9B,(ASK IF Z9=8) Z9b. Would that be: (Please select one.),2,"$150,000 to less than $200,000"
+Z9B,(ASK IF Z9=8) Z9b. Would that be: (Please select one.),3,"$200,000 to less than $250,000"
+Z9B,(ASK IF Z9=8) Z9b. Would that be: (Please select one.),4,"$250,000 or more"
+NEWINCOME,"Recoded income from Z9, Z9a, and Z9b",1,"Less than $15,000"
+NEWINCOME,"Recoded income from Z9, Z9a, and Z9b",2,"$15,000 to less than $20,000"
+NEWINCOME,"Recoded income from Z9, Z9a, and Z9b",3,"$25,000 to less than $30,000"
+NEWINCOME,"Recoded income from Z9, Z9a, and Z9b",4,"$30,000 to less than $40,000"
+NEWINCOME,"Recoded income from Z9, Z9a, and Z9b",5,"$40,000 to less than $50,000"
+NEWINCOME,"Recoded income from Z9, Z9a, and Z9b",6,"$50,000 to less than $75,000"
+NEWINCOME,"Recoded income from Z9, Z9a, and Z9b",7,"$75,000 to less than $100,000"
+NEWINCOME,"Recoded income from Z9, Z9a, and Z9b",12,"$100,000 to less than $150,000"
+NEWINCOME,"Recoded income from Z9, Z9a, and Z9b",13,"$150,000 to less than $200,000"
+NEWINCOME,"Recoded income from Z9, Z9a, and Z9b",14,"$200,000 to less than $250,000"
+NEWINCOME,"Recoded income from Z9, Z9a, and Z9b",15,"$250,000 or more"
+NEWINCOME,"Recoded income from Z9, Z9a, and Z9b",17,"$20,000 to less than $25,000"
+NEWINCOME,"Recoded income from Z9, Z9a, and Z9b",99,Refused
+VOTER,"VOTER. Are you registered to vote at your presidential address, or not?",1,Yes
+VOTER,"VOTER. Are you registered to vote at your presidential address, or not?",2,No
+PAGEFINAL,Age collapsed (PAGE1 + PAGE2),1,18 to 29
+PAGEFINAL,Age collapsed (PAGE1 + PAGE2),2,30 to 49
+PAGEFINAL,Age collapsed (PAGE1 + PAGE2),3,50 to 64
+PAGEFINAL,Age collapsed (PAGE1 + PAGE2),4,65 or older
+PAGEFINAL,Age collapsed (PAGE1 + PAGE2),999,Refused
+PGENDER,Gender,1,Male
+PGENDER,Gender,2,Female
+PGENDER,Gender,3,Another gender
+PGENDER,Gender,999,Refused
+PRACE,Race,1,White non-Hispanic
+PRACE,Race,2,Black non-Hispanic
+PRACE,Race,3,White Hispanic
+PRACE,Race,4,Black Hispanic
+PRACE,Race,5,Unspecified Hispanic
+PRACE,Race,6,Asian/Chinese/Japanese
+PRACE,Race,9,Other Race
+PRACE,Race,10,Mixed
+PRACE,Race,999,Refused
+PREGION,Census region,1,North East
+PREGION,Census region,2,North Central
+PREGION,Census region,3,South
+PREGION,Census region,4,West
+PREGION,Census region,999,Refused
+PMSTATUS,Marital status,1,"Single, that is never married"
+PMSTATUS,Marital status,2,"Single, living with a partner"
+PMSTATUS,Marital status,3,Married
+PMSTATUS,Marital status,4,Separated
+PMSTATUS,Marital status,5,Widowed
+PMSTATUS,Marital status,6,Divorced
+PADULTS,Number of adults in HH,1,
+PADULTS,Number of adults in HH,2,
+PADULTS,Number of adults in HH,3,
+PADULTS,Number of adults in HH,4,
+PADULTS,Number of adults in HH,5,
+PADULTS,Number of adults in HH,6,
+PADULTS,Number of adults in HH,999,Don't know/Refused/Web blank
+PPARENT,Parent of child in HH,1,Yes
+PPARENT,Parent of child in HH,2,No
+PPARENT,Parent of child in HH,999,Don't know/Refused/Web blank
+PAGE1,Numeric age,18,
+PAGE1,Numeric age,19,
+PAGE1,Numeric age,20,
+PAGE1,Numeric age,21,
+PAGE1,Numeric age,22,
+PAGE1,Numeric age,23,
+PAGE1,Numeric age,24,
+PAGE1,Numeric age,25,
+PAGE1,Numeric age,26,
+PAGE1,Numeric age,27,
+PAGE1,Numeric age,28,
+PAGE1,Numeric age,29,
+PAGE1,Numeric age,30,
+PAGE1,Numeric age,31,
+PAGE1,Numeric age,32,
+PAGE1,Numeric age,33,
+PAGE1,Numeric age,34,
+PAGE1,Numeric age,35,
+PAGE1,Numeric age,36,
+PAGE1,Numeric age,37,
+PAGE1,Numeric age,38,
+PAGE1,Numeric age,39,
+PAGE1,Numeric age,40,
+PAGE1,Numeric age,41,
+PAGE1,Numeric age,42,
+PAGE1,Numeric age,43,
+PAGE1,Numeric age,44,
+PAGE1,Numeric age,45,
+PAGE1,Numeric age,46,
+PAGE1,Numeric age,47,
+PAGE1,Numeric age,48,
+PAGE1,Numeric age,49,
+PAGE1,Numeric age,50,
+PAGE1,Numeric age,51,
+PAGE1,Numeric age,52,
+PAGE1,Numeric age,53,
+PAGE1,Numeric age,54,
+PAGE1,Numeric age,55,
+PAGE1,Numeric age,56,
+PAGE1,Numeric age,57,
+PAGE1,Numeric age,58,
+PAGE1,Numeric age,59,
+PAGE1,Numeric age,60,
+PAGE1,Numeric age,61,
+PAGE1,Numeric age,62,
+PAGE1,Numeric age,63,
+PAGE1,Numeric age,64,
+PAGE1,Numeric age,65,
+PAGE1,Numeric age,66,
+PAGE1,Numeric age,67,
+PAGE1,Numeric age,68,
+PAGE1,Numeric age,69,
+PAGE1,Numeric age,70,
+PAGE1,Numeric age,71,
+PAGE1,Numeric age,72,
+PAGE1,Numeric age,73,
+PAGE1,Numeric age,74,
+PAGE1,Numeric age,75,
+PAGE1,Numeric age,76,
+PAGE1,Numeric age,77,
+PAGE1,Numeric age,78,
+PAGE1,Numeric age,79,
+PAGE1,Numeric age,80,
+PAGE1,Numeric age,81,
+PAGE1,Numeric age,82,
+PAGE1,Numeric age,83,
+PAGE1,Numeric age,84,
+PAGE1,Numeric age,87,
+PAGE1,Numeric age,90,
+PAGE1,Numeric age,91,
+PAGE1,Numeric age,99,
+PAGE2,Age for those refusing to give a number,1,18 to 29
+PAGE2,Age for those refusing to give a number,2,30 to 49
+PAGE2,Age for those refusing to give a number,3,50 to 64
+PAGE2,Age for those refusing to give a number,4,65 or older
+PAGE2,Age for those refusing to give a number,999,Don't know/Refused/Web blank
+PRELIGION,Religion,1,Baptist
+PRELIGION,Religion,2,"Catholic, Roman Catholic"
+PRELIGION,Religion,5,Evangelical
+PRELIGION,Religion,6,Jehovah's Witness
+PRELIGION,Religion,7,Jewish/Judaism
+PRELIGION,Religion,8,Lutheran
+PRELIGION,Religion,10,Mormon (Church of Jesus Christ of Latter-day Saints/LDS)
+PRELIGION,Religion,11,Muslim/Islamic
+PRELIGION,Religion,12,"Orthodox (Eastern, Greek, Russian, Armenian, etc.)"
+PRELIGION,Religion,13,"Pentecostal (Assemblies of God, Four-Square Gospel)"
+PRELIGION,Religion,14,Presbyterian
+PRELIGION,Religion,15,Protestant
+PRELIGION,Religion,16,Seventh-day Adventist
+PRELIGION,Religion,19,Unitarian/Universalist
+PRELIGION,Religion,20,Buddhist
+PRELIGION,Religion,21,Hindu
+PRELIGION,Religion,22,Christian (Just Christian)
+PRELIGION,Religion,23,Non-denominational or Independent Church
+PRELIGION,Religion,24,Episcopalian or Anglican
+PRELIGION,Religion,25,Methodist
+PRELIGION,Religion,26,"Church of Christ, or Disciples of Christ (Christian Church)"
+PRELIGION,Religion,27,Church of God
+PRELIGION,Religion,29,"Holiness (Nazarenes, Wesleyan Church, Salvation Army)"
+PRELIGION,Religion,30,Reformed
+PRELIGION,Religion,990,Nothing in particular
+PRELIGION,Religion,995,Atheist
+PRELIGION,Religion,996,Agnostic
+PRELIGION,Religion,997,Other (please specify)
+PRELIGION,Religion,999,Don't know/Refused/Web blank
+I-GENDER,Gender (Recoded for use with online analysis),1,Male
+I-GENDER,Gender (Recoded for use with online analysis),2,Female
+I-AGE,Age for those refusing to give a number (Recoded for use with online analysis),1,18 to 29
+I-AGE,Age for those refusing to give a number (Recoded for use with online analysis),2,30 to 49
+I-AGE,Age for those refusing to give a number (Recoded for use with online analysis),3,50 to 64
+I-AGE,Age for those refusing to give a number (Recoded for use with online analysis),4,65 or older
+I-MARITAL,Marital status (Recoded for use with online analysis),1,"Single, that is never married"
+I-MARITAL,Marital status (Recoded for use with online analysis),2,"Single, living with a partner"
+I-MARITAL,Marital status (Recoded for use with online analysis),3,Married
+I-MARITAL,Marital status (Recoded for use with online analysis),4,"Separated, divorced, or widowed"
+I-REGION,Census region (Recoded for use with online analysis),1,North East
+I-REGION,Census region (Recoded for use with online analysis),2,North Central
+I-REGION,Census region (Recoded for use with online analysis),3,South
+I-REGION,Census region (Recoded for use with online analysis),4,West
+I-RELIGION,Religion (Recoded for use with online analysis),1,"Protestant (Baptist, Episcopalian, Evangelical, Lutheran, Pentecostal, Presbyterian, Methodist, Church of Christ, Church of God)"
+I-RELIGION,Religion (Recoded for use with online analysis),2,Catholic
+I-RELIGION,Religion (Recoded for use with online analysis),3,"Other Christian (Jehovah's Witness, Mormon, Orthodox, Seventh-day Adventist, non-denominational/independent) or 'Just Christian'"
+I-RELIGION,Religion (Recoded for use with online analysis),4,"Other (Jewish, Muslim, Unitarian/Universalist, Buddhist, Hindu, something else)"
+I-RELIGION,Religion (Recoded for use with online analysis),5,"Atheist, agnostic, or nothing in particular"
