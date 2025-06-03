@@ -31,26 +31,26 @@ Q5;Do you think of yourself as a Republican, Democrat or Independent?;4;Independ
 Q5;Do you think of yourself as a Republican, Democrat or Independent?;5;Leaning Democrat
 Q5;Do you think of yourself as a Republican, Democrat or Independent?;6;Moderate Democrat
 Q5;Do you think of yourself as a Republican, Democrat or Independent?;7;Strong Democrat
-Q6;Who did you vote for in the 2020 Presidential election?;-1;Web blank
+Q6;Who did you vote for in the 2020 Presidential election?;-1;
 Q6;Who did you vote for in the 2020 Presidential election?;1;Donald Trump, the Republican nominee
 Q6;Who did you vote for in the 2020 Presidential election?;2;Joseph Biden, the Democratic nominee
 Q6;Who did you vote for in the 2020 Presidential election?;3;Someone else
 Q6;Who did you vote for in the 2020 Presidential election?;4;Did not vote
-Q9A;How often do you... Read a local newspaper from your hometown (in print or the digital version)?;-1;Web blank
+Q9A;How often do you... Read a local newspaper from your hometown (in print or the digital version)?;-1;
 Q9A;How often do you... Read a local newspaper from your hometown (in print or the digital version)?;1;Every day
 Q9A;How often do you... Read a local newspaper from your hometown (in print or the digital version)?;2;Most days
 Q9A;How often do you... Read a local newspaper from your hometown (in print or the digital version)?;3;Once or twice a week
 Q9A;How often do you... Read a local newspaper from your hometown (in print or the digital version)?;4;Once or twice a month
 Q9A;How often do you... Read a local newspaper from your hometown (in print or the digital version)?;5;Less than once a month but at least once a year
 Q9A;How often do you... Read a local newspaper from your hometown (in print or the digital version)?;6;Never
-Q9B;How often do you... Read a national newspaper, such as USA Today, The Wall Street Journal or The New York Times (in print or the digital version, app, etc.)?;-1;Web blank
+Q9B;How often do you... Read a national newspaper, such as USA Today, The Wall Street Journal or The New York Times (in print or the digital version, app, etc.)?;-1;
 Q9B;How often do you... Read a national newspaper, such as USA Today, The Wall Street Journal or The New York Times (in print or the digital version, app, etc.)?;1;Every day
 Q9B;How often do you... Read a national newspaper, such as USA Today, The Wall Street Journal or The New York Times (in print or the digital version, app, etc.)?;2;Most days
 Q9B;How often do you... Read a national newspaper, such as USA Today, The Wall Street Journal or The New York Times (in print or the digital version, app, etc.)?;3;Once or twice a week
 Q9B;How often do you... Read a national newspaper, such as USA Today, The Wall Street Journal or The New York Times (in print or the digital version, app, etc.)?;4;Once or twice a month
 Q9B;How often do you... Read a national newspaper, such as USA Today, The Wall Street Journal or The New York Times (in print or the digital version, app, etc.)?;5;Less than once a month but at least once a year
 Q9B;How often do you... Read a national newspaper, such as USA Today, The Wall Street Journal or The New York Times (in print or the digital version, app, etc.)?;6;Never
-Q9C;How often do you... Read online news websites (such as Yahoo News or Google)?;-1;Web blank
+Q9C;How often do you... Read online news websites (such as Yahoo News or Google)?;-1;
 Q9C;How often do you... Read online news websites (such as Yahoo News or Google)?;1;Every day
 Q9C;How often do you... Read online news websites (such as Yahoo News or Google)?;2;Most days
 Q9C;How often do you... Read online news websites (such as Yahoo News or Google)?;3;Once or twice a week
@@ -63,35 +63,35 @@ Q9D;How often do you... Watch the national nightly network news (such as World N
 Q9D;How often do you... Watch the national nightly network news (such as World News Tonight, CBS Evening News)?;4;Once or twice a month
 Q9D;How often do you... Watch the national nightly network news (such as World News Tonight, CBS Evening News)?;5;Less than once a month but at least once a year
 Q9D;How often do you... Watch the national nightly network news (such as World News Tonight, CBS Evening News)?;6;Never
-Q9E;How often do you... Watch Fox News?;-1;Web blank
+Q9E;How often do you... Watch Fox News?;-1;
 Q9E;How often do you... Watch Fox News?;1;Every day
 Q9E;How often do you... Watch Fox News?;2;Most days
 Q9E;How often do you... Watch Fox News?;3;Once or twice a week
 Q9E;How often do you... Watch Fox News?;4;Once or twice a month
 Q9E;How often do you... Watch Fox News?;5;Less than once a month but at least once a year
 Q9E;How often do you... Watch Fox News?;6;Never
-Q9F;How often do you... Watch CNN?;-1;Web blank
+Q9F;How often do you... Watch CNN?;-1;
 Q9F;How often do you... Watch CNN?;1;Every day
 Q9F;How often do you... Watch CNN?;2;Most days
 Q9F;How often do you... Watch CNN?;3;Once or twice a week
 Q9F;How often do you... Watch CNN?;4;Once or twice a month
 Q9F;How often do you... Watch CNN?;5;Less than once a month but at least once a year
 Q9F;How often do you... Watch CNN?;6;Never
-Q9G;How often do you... Watch MSNBC?;-1;Web blank
+Q9G;How often do you... Watch MSNBC?;-1;
 Q9G;How often do you... Watch MSNBC?;1;Every day
 Q9G;How often do you... Watch MSNBC?;2;Most days
 Q9G;How often do you... Watch MSNBC?;3;Once or twice a week
 Q9G;How often do you... Watch MSNBC?;4;Once or twice a month
 Q9G;How often do you... Watch MSNBC?;5;Less than once a month but at least once a year
 Q9G;How often do you... Watch MSNBC?;6;Never
-Q9H;How often do you... Watch the local TV news to learn about your area?;-1;Web blank
+Q9H;How often do you... Watch the local TV news to learn about your area?;-1;
 Q9H;How often do you... Watch the local TV news to learn about your area?;1;Every day
 Q9H;How often do you... Watch the local TV news to learn about your area?;2;Most days
 Q9H;How often do you... Watch the local TV news to learn about your area?;3;Once or twice a week
 Q9H;How often do you... Watch the local TV news to learn about your area?;4;Once or twice a month
 Q9H;How often do you... Watch the local TV news to learn about your area?;5;Less than once a month but at least once a year
 Q9H;How often do you... Watch the local TV news to learn about your area?;6;Never
-Q9I;How often do you... Watch daytime talk shows, such as The Ellen DeGeneres Show or The View?;-1;Web blank
+Q9I;How often do you... Watch daytime talk shows, such as The Ellen DeGeneres Show or The View?;-1;
 Q9I;How often do you... Watch daytime talk shows, such as The Ellen DeGeneres Show or The View?;1;Every day
 Q9I;How often do you... Watch daytime talk shows, such as The Ellen DeGeneres Show or The View?;2;Most days
 Q9I;How often do you... Watch daytime talk shows, such as The Ellen DeGeneres Show or The View?;3;Once or twice a week
@@ -104,14 +104,14 @@ Q9J;How often do you... Listen to a talk radio show that discusses politics?;3;O
 Q9J;How often do you... Listen to a talk radio show that discusses politics?;4;Once or twice a month
 Q9J;How often do you... Listen to a talk radio show that discusses politics?;5;Less than once a month but at least once a year
 Q9J;How often do you... Listen to a talk radio show that discusses politics?;6;Never
-Q9K;How often do you... Get news from social media (e.g., Twitter, Facebook)?;-1;Web blank
+Q9K;How often do you... Get news from social media (e.g., Twitter, Facebook)?;-1;
 Q9K;How often do you... Get news from social media (e.g., Twitter, Facebook)?;1;Every day
 Q9K;How often do you... Get news from social media (e.g., Twitter, Facebook)?;2;Most days
 Q9K;How often do you... Get news from social media (e.g., Twitter, Facebook)?;3;Once or twice a week
 Q9K;How often do you... Get news from social media (e.g., Twitter, Facebook)?;4;Once or twice a month
 Q9K;How often do you... Get news from social media (e.g., Twitter, Facebook)?;5;Less than once a month but at least once a year
 Q9K;How often do you... Get news from social media (e.g., Twitter, Facebook)?;6;Never
-Q10A;How afraid are you of the following: Becoming seriously ill?;-1;Web blank
+Q10A;How afraid are you of the following: Becoming seriously ill?;-1;
 Q10A;How afraid are you of the following: Becoming seriously ill?;1;Very afraid
 Q10A;How afraid are you of the following: Becoming seriously ill?;2;Afraid
 Q10A;How afraid are you of the following: Becoming seriously ill?;3;Slightly afraid
@@ -128,7 +128,7 @@ Q10D;How afraid are you of the following: People I love dying?;1;Very afraid
 Q10D;How afraid are you of the following: People I love dying?;2;Afraid
 Q10D;How afraid are you of the following: People I love dying?;3;Slightly afraid
 Q10D;How afraid are you of the following: People I love dying?;4;Not afraid
-Q11A;How many days during the past 30 days would you say... Your physical health was not good?;-1;Web blank
+Q11A;How many days during the past 30 days would you say... Your physical health was not good?;-1;
 Q11A;How many days during the past 30 days would you say... Your physical health was not good?;0;
 Q11A;How many days during the past 30 days would you say... Your physical health was not good?;1;
 Q11A;How many days during the past 30 days would you say... Your physical health was not good?;2;
@@ -174,7 +174,7 @@ Q11B;How many days during the past 30 days would you say... Your mental health w
 Q11B;How many days during the past 30 days would you say... Your mental health was not good?;28;
 Q11B;How many days during the past 30 days would you say... Your mental health was not good?;29;
 Q11B;How many days during the past 30 days would you say... Your mental health was not good?;30;
-Q11C;How many days during the past 30 days would you say... Physical pain made it difficult to perform usual activities?;-1;Web blank
+Q11C;How many days during the past 30 days would you say... Physical pain made it difficult to perform usual activities?;-1;
 Q11C;How many days during the past 30 days would you say... Physical pain made it difficult to perform usual activities?;0;
 Q11C;How many days during the past 30 days would you say... Physical pain made it difficult to perform usual activities?;1;
 Q11C;How many days during the past 30 days would you say... Physical pain made it difficult to perform usual activities?;2;
@@ -199,7 +199,7 @@ Q11C;How many days during the past 30 days would you say... Physical pain made i
 Q11C;How many days during the past 30 days would you say... Physical pain made it difficult to perform usual activities?;26;
 Q11C;How many days during the past 30 days would you say... Physical pain made it difficult to perform usual activities?;28;
 Q11C;How many days during the past 30 days would you say... Physical pain made it difficult to perform usual activities?;30;
-Q11D;How many days during the past 30 days would you say... You felt sad, blue, or depressed?;-1;Web blank
+Q11D;How many days during the past 30 days would you say... You felt sad, blue, or depressed?;-1;
 Q11D;How many days during the past 30 days would you say... You felt sad, blue, or depressed?;0;
 Q11D;How many days during the past 30 days would you say... You felt sad, blue, or depressed?;1;
 Q11D;How many days during the past 30 days would you say... You felt sad, blue, or depressed?;2;
@@ -227,7 +227,7 @@ Q11D;How many days during the past 30 days would you say... You felt sad, blue, 
 Q11D;How many days during the past 30 days would you say... You felt sad, blue, or depressed?;28;
 Q11D;How many days during the past 30 days would you say... You felt sad, blue, or depressed?;29;
 Q11D;How many days during the past 30 days would you say... You felt sad, blue, or depressed?;30;
-Q11E;How many days during the past 30 days would you say... You felt very healthy and full of energy?;-1;Web blank
+Q11E;How many days during the past 30 days would you say... You felt very healthy and full of energy?;-1;
 Q11E;How many days during the past 30 days would you say... You felt very healthy and full of energy?;0;
 Q11E;How many days during the past 30 days would you say... You felt very healthy and full of energy?;1;
 Q11E;How many days during the past 30 days would you say... You felt very healthy and full of energy?;2;
@@ -279,7 +279,7 @@ Q11F;How many days during the past 30 days would you say... You have worried tha
 Q11F;How many days during the past 30 days would you say... You have worried that you contracted the coronavirus (COVID-19)?;21;
 Q11F;How many days during the past 30 days would you say... You have worried that you contracted the coronavirus (COVID-19)?;25;
 Q11F;How many days during the past 30 days would you say... You have worried that you contracted the coronavirus (COVID-19)?;30;
-Q11G;How many days during the past 30 days would you say... You have worried that a loved one has contracted the coronavirus (COVID-19)?;-1;Web blank
+Q11G;How many days during the past 30 days would you say... You have worried that a loved one has contracted the coronavirus (COVID-19)?;-1;
 Q11G;How many days during the past 30 days would you say... You have worried that a loved one has contracted the coronavirus (COVID-19)?;0;
 Q11G;How many days during the past 30 days would you say... You have worried that a loved one has contracted the coronavirus (COVID-19)?;1;
 Q11G;How many days during the past 30 days would you say... You have worried that a loved one has contracted the coronavirus (COVID-19)?;2;
@@ -300,12 +300,12 @@ Q11G;How many days during the past 30 days would you say... You have worried tha
 Q11G;How many days during the past 30 days would you say... You have worried that a loved one has contracted the coronavirus (COVID-19)?;28;
 Q11G;How many days during the past 30 days would you say... You have worried that a loved one has contracted the coronavirus (COVID-19)?;29;
 Q11G;How many days during the past 30 days would you say... You have worried that a loved one has contracted the coronavirus (COVID-19)?;30;
-Q13A;How afraid are you of the following: Air pollution?;-1;Web blank
+Q13A;How afraid are you of the following: Air pollution?;-1;
 Q13A;How afraid are you of the following: Air pollution?;1;Very afraid
 Q13A;How afraid are you of the following: Air pollution?;2;Afraid
 Q13A;How afraid are you of the following: Air pollution?;3;Slightly afraid
 Q13A;How afraid are you of the following: Air pollution?;4;Not afraid
-Q13B;How afraid are you of the following: Pollution of drinking water?;-1;Web blank
+Q13B;How afraid are you of the following: Pollution of drinking water?;-1;
 Q13B;How afraid are you of the following: Pollution of drinking water?;1;Very afraid
 Q13B;How afraid are you of the following: Pollution of drinking water?;2;Afraid
 Q13B;How afraid are you of the following: Pollution of drinking water?;3;Slightly afraid
@@ -322,12 +322,12 @@ Q13E;How afraid are you of the following: Oil spills?;1;Very afraid
 Q13E;How afraid are you of the following: Oil spills?;2;Afraid
 Q13E;How afraid are you of the following: Oil spills?;3;Slightly afraid
 Q13E;How afraid are you of the following: Oil spills?;4;Not afraid
-Q13F;How afraid are you of the following: Global warming and climate change?;-1;Web blank
+Q13F;How afraid are you of the following: Global warming and climate change?;-1;
 Q13F;How afraid are you of the following: Global warming and climate change?;1;Very afraid
 Q13F;How afraid are you of the following: Global warming and climate change?;2;Afraid
 Q13F;How afraid are you of the following: Global warming and climate change?;3;Slightly afraid
 Q13F;How afraid are you of the following: Global warming and climate change?;4;Not afraid
-Q14A;How afraid are you of the following: Not having enough money for the future?;-1;Web blank
+Q14A;How afraid are you of the following: Not having enough money for the future?;-1;
 Q14A;How afraid are you of the following: Not having enough money for the future?;1;Very afraid
 Q14A;How afraid are you of the following: Not having enough money for the future?;2;Afraid
 Q14A;How afraid are you of the following: Not having enough money for the future?;3;Slightly afraid
@@ -355,7 +355,7 @@ Q14F;How afraid are you of the following: Catching influenza (the seasonal flu)?
 Q14F;How afraid are you of the following: Catching influenza (the seasonal flu)?;2;Afraid
 Q14F;How afraid are you of the following: Catching influenza (the seasonal flu)?;3;Slightly afraid
 Q14F;How afraid are you of the following: Catching influenza (the seasonal flu)?;4;Not afraid
-Q14G;How afraid are you of the following: Catching the coronavirus (COVID-19)?;-1;Web blank
+Q14G;How afraid are you of the following: Catching the coronavirus (COVID-19)?;-1;
 Q14G;How afraid are you of the following: Catching the coronavirus (COVID-19)?;1;Very afraid
 Q14G;How afraid are you of the following: Catching the coronavirus (COVID-19)?;2;Afraid
 Q14G;How afraid are you of the following: Catching the coronavirus (COVID-19)?;3;Slightly afraid
@@ -369,7 +369,7 @@ Q15A;How afraid are you of the following: Computers replacing people in the work
 Q15A;How afraid are you of the following: Computers replacing people in the workforce?;2;Afraid
 Q15A;How afraid are you of the following: Computers replacing people in the workforce?;3;Slightly afraid
 Q15A;How afraid are you of the following: Computers replacing people in the workforce?;4;Not afraid
-Q15B;How afraid are you of the following: Technology that I don't understand?;-1;Web blank
+Q15B;How afraid are you of the following: Technology that I don't understand?;-1;
 Q15B;How afraid are you of the following: Technology that I don't understand?;1;Very afraid
 Q15B;How afraid are you of the following: Technology that I don't understand?;2;Afraid
 Q15B;How afraid are you of the following: Technology that I don't understand?;3;Slightly afraid
@@ -378,22 +378,22 @@ Q15C;How afraid are you of the following: Cyber-terrorism?;1;Very afraid
 Q15C;How afraid are you of the following: Cyber-terrorism?;2;Afraid
 Q15C;How afraid are you of the following: Cyber-terrorism?;3;Slightly afraid
 Q15C;How afraid are you of the following: Cyber-terrorism?;4;Not afraid
-Q15D;How afraid are you of the following: Corporate tracking of personal data?;-1;Web blank
+Q15D;How afraid are you of the following: Corporate tracking of personal data?;-1;
 Q15D;How afraid are you of the following: Corporate tracking of personal data?;1;Very afraid
 Q15D;How afraid are you of the following: Corporate tracking of personal data?;2;Afraid
 Q15D;How afraid are you of the following: Corporate tracking of personal data?;3;Slightly afraid
 Q15D;How afraid are you of the following: Corporate tracking of personal data?;4;Not afraid
-Q15E;How afraid are you of the following: Government tracking of personal data?;-1;Web blank
+Q15E;How afraid are you of the following: Government tracking of personal data?;-1;
 Q15E;How afraid are you of the following: Government tracking of personal data?;1;Very afraid
 Q15E;How afraid are you of the following: Government tracking of personal data?;2;Afraid
 Q15E;How afraid are you of the following: Government tracking of personal data?;3;Slightly afraid
 Q15E;How afraid are you of the following: Government tracking of personal data?;4;Not afraid
-Q16A;How afraid are you of the following events: A devastating earthquake?;-1;Web blank
+Q16A;How afraid are you of the following events: A devastating earthquake?;-1;
 Q16A;How afraid are you of the following events: A devastating earthquake?;1;Very afraid
 Q16A;How afraid are you of the following events: A devastating earthquake?;2;Afraid
 Q16A;How afraid are you of the following events: A devastating earthquake?;3;Slightly afraid
 Q16A;How afraid are you of the following events: A devastating earthquake?;4;Not afraid
-Q16B;How afraid are you of the following events: A devastating hurricane?;-1;Web blank
+Q16B;How afraid are you of the following events: A devastating hurricane?;-1;
 Q16B;How afraid are you of the following events: A devastating hurricane?;1;Very afraid
 Q16B;How afraid are you of the following events: A devastating hurricane?;2;Afraid
 Q16B;How afraid are you of the following events: A devastating hurricane?;3;Slightly afraid
@@ -406,7 +406,7 @@ Q16D;How afraid are you of the following events: A devastating flood?;1;Very afr
 Q16D;How afraid are you of the following events: A devastating flood?;2;Afraid
 Q16D;How afraid are you of the following events: A devastating flood?;3;Slightly afraid
 Q16D;How afraid are you of the following events: A devastating flood?;4;Not afraid
-Q16E;How afraid are you of the following events: A devastating blizzard/Winter storm?;-1;Web blank
+Q16E;How afraid are you of the following events: A devastating blizzard/Winter storm?;-1;
 Q16E;How afraid are you of the following events: A devastating blizzard/Winter storm?;1;Very afraid
 Q16E;How afraid are you of the following events: A devastating blizzard/Winter storm?;2;Afraid
 Q16E;How afraid are you of the following events: A devastating blizzard/Winter storm?;3;Slightly afraid
@@ -419,17 +419,17 @@ Q16G;How afraid are you of the following events: A devastating wildfire?;1;Very 
 Q16G;How afraid are you of the following events: A devastating wildfire?;2;Afraid
 Q16G;How afraid are you of the following events: A devastating wildfire?;3;Slightly afraid
 Q16G;How afraid are you of the following events: A devastating wildfire?;4;Not afraid
-Q16H;How afraid are you of the following events: A large volcanic eruption?;-1;Web blank
+Q16H;How afraid are you of the following events: A large volcanic eruption?;-1;
 Q16H;How afraid are you of the following events: A large volcanic eruption?;1;Very afraid
 Q16H;How afraid are you of the following events: A large volcanic eruption?;2;Afraid
 Q16H;How afraid are you of the following events: A large volcanic eruption?;3;Slightly afraid
 Q16H;How afraid are you of the following events: A large volcanic eruption?;4;Not afraid
-Q16I;How afraid are you of the following events: The collapse of the electrical grid?;-1;Web blank
+Q16I;How afraid are you of the following events: The collapse of the electrical grid?;-1;
 Q16I;How afraid are you of the following events: The collapse of the electrical grid?;1;Very afraid
 Q16I;How afraid are you of the following events: The collapse of the electrical grid?;2;Afraid
 Q16I;How afraid are you of the following events: The collapse of the electrical grid?;3;Slightly afraid
 Q16I;How afraid are you of the following events: The collapse of the electrical grid?;4;Not afraid
-Q16J;How afraid are you of the following events: A nuclear weapons attack?;-1;Web blank
+Q16J;How afraid are you of the following events: A nuclear weapons attack?;-1;
 Q16J;How afraid are you of the following events: A nuclear weapons attack?;1;Very afraid
 Q16J;How afraid are you of the following events: A nuclear weapons attack?;2;Afraid
 Q16J;How afraid are you of the following events: A nuclear weapons attack?;3;Slightly afraid
@@ -438,12 +438,12 @@ Q16K;How afraid are you of the following events: A nuclear accident/meltdown;1;V
 Q16K;How afraid are you of the following events: A nuclear accident/meltdown;2;Afraid
 Q16K;How afraid are you of the following events: A nuclear accident/meltdown;3;Slightly afraid
 Q16K;How afraid are you of the following events: A nuclear accident/meltdown;4;Not afraid
-Q16L;How afraid are you of the following events: Economic/financial collapse?;-1;Web blank
+Q16L;How afraid are you of the following events: Economic/financial collapse?;-1;
 Q16L;How afraid are you of the following events: Economic/financial collapse?;1;Very afraid
 Q16L;How afraid are you of the following events: Economic/financial collapse?;2;Afraid
 Q16L;How afraid are you of the following events: Economic/financial collapse?;3;Slightly afraid
 Q16L;How afraid are you of the following events: Economic/financial collapse?;4;Not afraid
-Q16M;How afraid are you of the following events: A pandemic or a major epidemic?;-1;Web blank
+Q16M;How afraid are you of the following events: A pandemic or a major epidemic?;-1;
 Q16M;How afraid are you of the following events: A pandemic or a major epidemic?;1;Very afraid
 Q16M;How afraid are you of the following events: A pandemic or a major epidemic?;2;Afraid
 Q16M;How afraid are you of the following events: A pandemic or a major epidemic?;3;Slightly afraid
@@ -452,22 +452,22 @@ Q16N;How afraid are you of the following events: Widespread civil unrest?;1;Very
 Q16N;How afraid are you of the following events: Widespread civil unrest?;2;Afraid
 Q16N;How afraid are you of the following events: Widespread civil unrest?;3;Slightly afraid
 Q16N;How afraid are you of the following events: Widespread civil unrest?;4;Not afraid
-Q16O;How afraid are you of the following events: The US becoming involved in another world war?;-1;Web blank
+Q16O;How afraid are you of the following events: The US becoming involved in another world war?;-1;
 Q16O;How afraid are you of the following events: The US becoming involved in another world war?;1;Very afraid
 Q16O;How afraid are you of the following events: The US becoming involved in another world war?;2;Afraid
 Q16O;How afraid are you of the following events: The US becoming involved in another world war?;3;Slightly afraid
 Q16O;How afraid are you of the following events: The US becoming involved in another world war?;4;Not afraid
-Q16P;How afraid are you of the following events: Whites no longer being the majority in the US?;-1;Web blank
+Q16P;How afraid are you of the following events: Whites no longer being the majority in the US?;-1;
 Q16P;How afraid are you of the following events: Whites no longer being the majority in the US?;1;Very afraid
 Q16P;How afraid are you of the following events: Whites no longer being the majority in the US?;2;Afraid
 Q16P;How afraid are you of the following events: Whites no longer being the majority in the US?;3;Slightly afraid
 Q16P;How afraid are you of the following events: Whites no longer being the majority in the US?;4;Not afraid
-Q16Q;How afraid are you of the following events: Illegal immigration?;-1;Web blank
+Q16Q;How afraid are you of the following events: Illegal immigration?;-1;
 Q16Q;How afraid are you of the following events: Illegal immigration?;1;Very afraid
 Q16Q;How afraid are you of the following events: Illegal immigration?;2;Afraid
 Q16Q;How afraid are you of the following events: Illegal immigration?;3;Slightly afraid
 Q16Q;How afraid are you of the following events: Illegal immigration?;4;Not afraid
-Q16R;How afraid are you of the following events: Biological warfare?;-1;Web blank
+Q16R;How afraid are you of the following events: Biological warfare?;-1;
 Q16R;How afraid are you of the following events: Biological warfare?;1;Very afraid
 Q16R;How afraid are you of the following events: Biological warfare?;2;Afraid
 Q16R;How afraid are you of the following events: Biological warfare?;3;Slightly afraid
@@ -480,32 +480,32 @@ Q16T;How afraid are you of the following events: North Korea using nuclear weapo
 Q16T;How afraid are you of the following events: North Korea using nuclear weapons?;2;Afraid
 Q16T;How afraid are you of the following events: North Korea using nuclear weapons?;3;Slightly afraid
 Q16T;How afraid are you of the following events: North Korea using nuclear weapons?;4;Not afraid
-Q16U;How afraid are you of the following events: Iran using nuclear weapons?;-1;Web blank
+Q16U;How afraid are you of the following events: Iran using nuclear weapons?;-1;
 Q16U;How afraid are you of the following events: Iran using nuclear weapons?;1;Very afraid
 Q16U;How afraid are you of the following events: Iran using nuclear weapons?;2;Afraid
 Q16U;How afraid are you of the following events: Iran using nuclear weapons?;3;Slightly afraid
 Q16U;How afraid are you of the following events: Iran using nuclear weapons?;4;Not afraid
-Q17A;How afraid are you of the following: Blood?;-1;Web blank
+Q17A;How afraid are you of the following: Blood?;-1;
 Q17A;How afraid are you of the following: Blood?;1;Very afraid
 Q17A;How afraid are you of the following: Blood?;2;Afraid
 Q17A;How afraid are you of the following: Blood?;3;Slightly afraid
 Q17A;How afraid are you of the following: Blood?;4;Not afraid
-Q17B;How afraid are you of the following: Needles?;-1;Web blank
+Q17B;How afraid are you of the following: Needles?;-1;
 Q17B;How afraid are you of the following: Needles?;1;Very afraid
 Q17B;How afraid are you of the following: Needles?;2;Afraid
 Q17B;How afraid are you of the following: Needles?;3;Slightly afraid
 Q17B;How afraid are you of the following: Needles?;4;Not afraid
-Q17C;How afraid are you of the following: Insects/arachnids (spiders, bees, etc.)?;-1;Web blank
+Q17C;How afraid are you of the following: Insects/arachnids (spiders, bees, etc.)?;-1;
 Q17C;How afraid are you of the following: Insects/arachnids (spiders, bees, etc.)?;1;Very afraid
 Q17C;How afraid are you of the following: Insects/arachnids (spiders, bees, etc.)?;2;Afraid
 Q17C;How afraid are you of the following: Insects/arachnids (spiders, bees, etc.)?;3;Slightly afraid
 Q17C;How afraid are you of the following: Insects/arachnids (spiders, bees, etc.)?;4;Not afraid
-Q17D;How afraid are you of the following: Reptiles (snakes, lizards, etc.)?;-1;Web blank
+Q17D;How afraid are you of the following: Reptiles (snakes, lizards, etc.)?;-1;
 Q17D;How afraid are you of the following: Reptiles (snakes, lizards, etc.)?;1;Very afraid
 Q17D;How afraid are you of the following: Reptiles (snakes, lizards, etc.)?;2;Afraid
 Q17D;How afraid are you of the following: Reptiles (snakes, lizards, etc.)?;3;Slightly afraid
 Q17D;How afraid are you of the following: Reptiles (snakes, lizards, etc.)?;4;Not afraid
-Q17E;How afraid are you of the following: Animals (dogs, rats, etc.)?;-1;Web blank
+Q17E;How afraid are you of the following: Animals (dogs, rats, etc.)?;-1;
 Q17E;How afraid are you of the following: Animals (dogs, rats, etc.)?;1;Very afraid
 Q17E;How afraid are you of the following: Animals (dogs, rats, etc.)?;2;Afraid
 Q17E;How afraid are you of the following: Animals (dogs, rats, etc.)?;3;Slightly afraid
@@ -514,22 +514,22 @@ Q17F;How afraid are you of the following: Sharks?;1;Very afraid
 Q17F;How afraid are you of the following: Sharks?;2;Afraid
 Q17F;How afraid are you of the following: Sharks?;3;Slightly afraid
 Q17F;How afraid are you of the following: Sharks?;4;Not afraid
-Q17G;How afraid are you of the following: Clowns?;-1;Web blank
+Q17G;How afraid are you of the following: Clowns?;-1;
 Q17G;How afraid are you of the following: Clowns?;1;Very afraid
 Q17G;How afraid are you of the following: Clowns?;2;Afraid
 Q17G;How afraid are you of the following: Clowns?;3;Slightly afraid
 Q17G;How afraid are you of the following: Clowns?;4;Not afraid
-Q17H;How afraid are you of the following: Germs?;-1;Web blank
+Q17H;How afraid are you of the following: Germs?;-1;
 Q17H;How afraid are you of the following: Germs?;1;Very afraid
 Q17H;How afraid are you of the following: Germs?;2;Afraid
 Q17H;How afraid are you of the following: Germs?;3;Slightly afraid
 Q17H;How afraid are you of the following: Germs?;4;Not afraid
-Q17I;How afraid are you of the following: Deep lakes and oceans?;-1;Web blank
+Q17I;How afraid are you of the following: Deep lakes and oceans?;-1;
 Q17I;How afraid are you of the following: Deep lakes and oceans?;1;Very afraid
 Q17I;How afraid are you of the following: Deep lakes and oceans?;2;Afraid
 Q17I;How afraid are you of the following: Deep lakes and oceans?;3;Slightly afraid
 Q17I;How afraid are you of the following: Deep lakes and oceans?;4;Not afraid
-Q17J;How afraid are you of the following: Flying?;-1;Web blank
+Q17J;How afraid are you of the following: Flying?;-1;
 Q17J;How afraid are you of the following: Flying?;1;Very afraid
 Q17J;How afraid are you of the following: Flying?;2;Afraid
 Q17J;How afraid are you of the following: Flying?;3;Slightly afraid
@@ -538,7 +538,7 @@ Q17K;How afraid are you of the following: Ghosts?;1;Very afraid
 Q17K;How afraid are you of the following: Ghosts?;2;Afraid
 Q17K;How afraid are you of the following: Ghosts?;3;Slightly afraid
 Q17K;How afraid are you of the following: Ghosts?;4;Not afraid
-Q17L;How afraid are you of the following: Murder hornets?;-1;Web blank
+Q17L;How afraid are you of the following: Murder hornets?;-1;
 Q17L;How afraid are you of the following: Murder hornets?;1;Very afraid
 Q17L;How afraid are you of the following: Murder hornets?;2;Afraid
 Q17L;How afraid are you of the following: Murder hornets?;3;Slightly afraid
@@ -551,27 +551,27 @@ Q17N;How afraid are you of the following: Public speaking?;1;Very afraid
 Q17N;How afraid are you of the following: Public speaking?;2;Afraid
 Q17N;How afraid are you of the following: Public speaking?;3;Slightly afraid
 Q17N;How afraid are you of the following: Public speaking?;4;Not afraid
-Q17O;How afraid are you of the following: Small, enclosed spaces?;-1;Web blank
+Q17O;How afraid are you of the following: Small, enclosed spaces?;-1;
 Q17O;How afraid are you of the following: Small, enclosed spaces?;1;Very afraid
 Q17O;How afraid are you of the following: Small, enclosed spaces?;2;Afraid
 Q17O;How afraid are you of the following: Small, enclosed spaces?;3;Slightly afraid
 Q17O;How afraid are you of the following: Small, enclosed spaces?;4;Not afraid
-Q17P;How afraid are you of the following: Zombies?;-1;Web blank
+Q17P;How afraid are you of the following: Zombies?;-1;
 Q17P;How afraid are you of the following: Zombies?;1;Very afraid
 Q17P;How afraid are you of the following: Zombies?;2;Afraid
 Q17P;How afraid are you of the following: Zombies?;3;Slightly afraid
 Q17P;How afraid are you of the following: Zombies?;4;Not afraid
-Q17Q;How afraid are you of the following: Strangers?;-1;Web blank
+Q17Q;How afraid are you of the following: Strangers?;-1;
 Q17Q;How afraid are you of the following: Strangers?;1;Very afraid
 Q17Q;How afraid are you of the following: Strangers?;2;Afraid
 Q17Q;How afraid are you of the following: Strangers?;3;Slightly afraid
 Q17Q;How afraid are you of the following: Strangers?;4;Not afraid
-Q17R;How afraid are you of the following: Walking alone at night?;-1;Web blank
+Q17R;How afraid are you of the following: Walking alone at night?;-1;
 Q17R;How afraid are you of the following: Walking alone at night?;1;Very afraid
 Q17R;How afraid are you of the following: Walking alone at night?;2;Afraid
 Q17R;How afraid are you of the following: Walking alone at night?;3;Slightly afraid
 Q17R;How afraid are you of the following: Walking alone at night?;4;Not afraid
-Q18A;How afraid are you of being the victim of the following crimes: Mugging?;-1;Web blank
+Q18A;How afraid are you of being the victim of the following crimes: Mugging?;-1;
 Q18A;How afraid are you of being the victim of the following crimes: Mugging?;1;Very afraid
 Q18A;How afraid are you of being the victim of the following crimes: Mugging?;2;Afraid
 Q18A;How afraid are you of being the victim of the following crimes: Mugging?;3;Slightly afraid
@@ -584,17 +584,17 @@ Q18C;How afraid are you of being the victim of the following crimes: Murder by a
 Q18C;How afraid are you of being the victim of the following crimes: Murder by a stranger?;2;Afraid
 Q18C;How afraid are you of being the victim of the following crimes: Murder by a stranger?;3;Slightly afraid
 Q18C;How afraid are you of being the victim of the following crimes: Murder by a stranger?;4;Not afraid
-Q18D;How afraid are you of being the victim of the following crimes: Murder by someone you know?;-1;Web blank
+Q18D;How afraid are you of being the victim of the following crimes: Murder by someone you know?;-1;
 Q18D;How afraid are you of being the victim of the following crimes: Murder by someone you know?;1;Very afraid
 Q18D;How afraid are you of being the victim of the following crimes: Murder by someone you know?;2;Afraid
 Q18D;How afraid are you of being the victim of the following crimes: Murder by someone you know?;3;Slightly afraid
 Q18D;How afraid are you of being the victim of the following crimes: Murder by someone you know?;4;Not afraid
-Q18E;How afraid are you of being the victim of the following crimes: Being hit by a drunk driver?;-1;Web blank
+Q18E;How afraid are you of being the victim of the following crimes: Being hit by a drunk driver?;-1;
 Q18E;How afraid are you of being the victim of the following crimes: Being hit by a drunk driver?;1;Very afraid
 Q18E;How afraid are you of being the victim of the following crimes: Being hit by a drunk driver?;2;Afraid
 Q18E;How afraid are you of being the victim of the following crimes: Being hit by a drunk driver?;3;Slightly afraid
 Q18E;How afraid are you of being the victim of the following crimes: Being hit by a drunk driver?;4;Not afraid
-Q18F;How afraid are you of being the victim of the following crimes: Police brutality?;-1;Web blank
+Q18F;How afraid are you of being the victim of the following crimes: Police brutality?;-1;
 Q18F;How afraid are you of being the victim of the following crimes: Police brutality?;1;Very afraid
 Q18F;How afraid are you of being the victim of the following crimes: Police brutality?;2;Afraid
 Q18F;How afraid are you of being the victim of the following crimes: Police brutality?;3;Slightly afraid
@@ -603,22 +603,22 @@ Q18G;How afraid are you of being the victim of the following crimes: Sexual assa
 Q18G;How afraid are you of being the victim of the following crimes: Sexual assault by a stranger?;2;Afraid
 Q18G;How afraid are you of being the victim of the following crimes: Sexual assault by a stranger?;3;Slightly afraid
 Q18G;How afraid are you of being the victim of the following crimes: Sexual assault by a stranger?;4;Not afraid
-Q18H;How afraid are you of being the victim of the following crimes: Sexual assault by someone you know?;-1;Web blank
+Q18H;How afraid are you of being the victim of the following crimes: Sexual assault by someone you know?;-1;
 Q18H;How afraid are you of being the victim of the following crimes: Sexual assault by someone you know?;1;Very afraid
 Q18H;How afraid are you of being the victim of the following crimes: Sexual assault by someone you know?;2;Afraid
 Q18H;How afraid are you of being the victim of the following crimes: Sexual assault by someone you know?;3;Slightly afraid
 Q18H;How afraid are you of being the victim of the following crimes: Sexual assault by someone you know?;4;Not afraid
-Q18I;How afraid are you of being the victim of the following crimes: Racial/hate crime?;-1;Web blank
+Q18I;How afraid are you of being the victim of the following crimes: Racial/hate crime?;-1;
 Q18I;How afraid are you of being the victim of the following crimes: Racial/hate crime?;1;Very afraid
 Q18I;How afraid are you of being the victim of the following crimes: Racial/hate crime?;2;Afraid
 Q18I;How afraid are you of being the victim of the following crimes: Racial/hate crime?;3;Slightly afraid
 Q18I;How afraid are you of being the victim of the following crimes: Racial/hate crime?;4;Not afraid
-Q18J;How afraid are you of being the victim of the following crimes: Random/mass shooting?;-1;Web blank
+Q18J;How afraid are you of being the victim of the following crimes: Random/mass shooting?;-1;
 Q18J;How afraid are you of being the victim of the following crimes: Random/mass shooting?;1;Very afraid
 Q18J;How afraid are you of being the victim of the following crimes: Random/mass shooting?;2;Afraid
 Q18J;How afraid are you of being the victim of the following crimes: Random/mass shooting?;3;Slightly afraid
 Q18J;How afraid are you of being the victim of the following crimes: Random/mass shooting?;4;Not afraid
-Q18K;How afraid are you of being the victim of the following crimes: Break-ins?;-1;Web blank
+Q18K;How afraid are you of being the victim of the following crimes: Break-ins?;-1;
 Q18K;How afraid are you of being the victim of the following crimes: Break-ins?;1;Very afraid
 Q18K;How afraid are you of being the victim of the following crimes: Break-ins?;2;Afraid
 Q18K;How afraid are you of being the victim of the following crimes: Break-ins?;3;Slightly afraid
@@ -631,7 +631,7 @@ Q18M;How afraid are you of being the victim of the following crimes: Gang violen
 Q18M;How afraid are you of being the victim of the following crimes: Gang violence?;2;Afraid
 Q18M;How afraid are you of being the victim of the following crimes: Gang violence?;3;Slightly afraid
 Q18M;How afraid are you of being the victim of the following crimes: Gang violence?;4;Not afraid
-Q18N;How afraid are you of being the victim of the following crimes: Abduction/Kidnapping?;-1;Web blank
+Q18N;How afraid are you of being the victim of the following crimes: Abduction/Kidnapping?;-1;
 Q18N;How afraid are you of being the victim of the following crimes: Abduction/Kidnapping?;1;Very afraid
 Q18N;How afraid are you of being the victim of the following crimes: Abduction/Kidnapping?;2;Afraid
 Q18N;How afraid are you of being the victim of the following crimes: Abduction/Kidnapping?;3;Slightly afraid
@@ -640,12 +640,12 @@ Q18O;How afraid are you of being the victim of the following crimes: Identity th
 Q18O;How afraid are you of being the victim of the following crimes: Identity theft?;2;Afraid
 Q18O;How afraid are you of being the victim of the following crimes: Identity theft?;3;Slightly afraid
 Q18O;How afraid are you of being the victim of the following crimes: Identity theft?;4;Not afraid
-Q18P;How afraid are you of being the victim of the following crimes: Credit card fraud?;-1;Web blank
+Q18P;How afraid are you of being the victim of the following crimes: Credit card fraud?;-1;
 Q18P;How afraid are you of being the victim of the following crimes: Credit card fraud?;1;Very afraid
 Q18P;How afraid are you of being the victim of the following crimes: Credit card fraud?;2;Afraid
 Q18P;How afraid are you of being the victim of the following crimes: Credit card fraud?;3;Slightly afraid
 Q18P;How afraid are you of being the victim of the following crimes: Credit card fraud?;4;Not afraid
-Q18Q;How afraid are you of being the victim of the following crimes: Financial fraud (such as a Ponzi Scheme, embezzlement, etc.)?;-1;Web blank
+Q18Q;How afraid are you of being the victim of the following crimes: Financial fraud (such as a Ponzi Scheme, embezzlement, etc.)?;-1;
 Q18Q;How afraid are you of being the victim of the following crimes: Financial fraud (such as a Ponzi Scheme, embezzlement, etc.)?;1;Very afraid
 Q18Q;How afraid are you of being the victim of the following crimes: Financial fraud (such as a Ponzi Scheme, embezzlement, etc.)?;2;Afraid
 Q18Q;How afraid are you of being the victim of the following crimes: Financial fraud (such as a Ponzi Scheme, embezzlement, etc.)?;3;Slightly afraid
@@ -654,13 +654,13 @@ Q18R;How afraid are you of being the victim of the following crimes: Terrorism?;
 Q18R;How afraid are you of being the victim of the following crimes: Terrorism?;2;Afraid
 Q18R;How afraid are you of being the victim of the following crimes: Terrorism?;3;Slightly afraid
 Q18R;How afraid are you of being the victim of the following crimes: Terrorism?;4;Not afraid
-Q19A;How afraid are you of the following: Antifa?;-1;Web blank
+Q19A;How afraid are you of the following: Antifa?;-1;
 Q19A;How afraid are you of the following: Antifa?;1;Very afraid
 Q19A;How afraid are you of the following: Antifa?;2;Afraid
 Q19A;How afraid are you of the following: Antifa?;3;Slightly afraid
 Q19A;How afraid are you of the following: Antifa?;4;Not afraid
 Q19A;How afraid are you of the following: Antifa?;5;I don't know who/what this is
-Q19B;How afraid are you of the following: White supremacists?;-1;Web blank
+Q19B;How afraid are you of the following: White supremacists?;-1;
 Q19B;How afraid are you of the following: White supremacists?;1;Very afraid
 Q19B;How afraid are you of the following: White supremacists?;2;Afraid
 Q19B;How afraid are you of the following: White supremacists?;3;Slightly afraid
@@ -671,7 +671,7 @@ Q19C;How afraid are you of the following: Black Lives Matter (BLM)?;2;Afraid
 Q19C;How afraid are you of the following: Black Lives Matter (BLM)?;3;Slightly afraid
 Q19C;How afraid are you of the following: Black Lives Matter (BLM)?;4;Not afraid
 Q19C;How afraid are you of the following: Black Lives Matter (BLM)?;5;I don't know who/what this is
-Q19D;How afraid are you of the following: How afraid are you of the following: The Proud Boys?;-1;Web blank
+Q19D;How afraid are you of the following: How afraid are you of the following: The Proud Boys?;-1;
 Q19D;How afraid are you of the following: How afraid are you of the following: The Proud Boys?;1;Very afraid
 Q19D;How afraid are you of the following: How afraid are you of the following: The Proud Boys?;2;Afraid
 Q19D;How afraid are you of the following: How afraid are you of the following: The Proud Boys?;3;Slightly afraid
@@ -701,22 +701,22 @@ Q20A;Please indicate your level of agreement with the following statements. The 
 Q20A;Please indicate your level of agreement with the following statements. The government is concealing what it knows about...Alien encounters?;2;Agree
 Q20A;Please indicate your level of agreement with the following statements. The government is concealing what it knows about...Alien encounters?;3;Disagree
 Q20A;Please indicate your level of agreement with the following statements. The government is concealing what it knows about...Alien encounters?;4;Strongly disagree
-Q20B;Please indicate your level of agreement with the following statements. The government is concealing what it knows about...The 9/11 attacks?;-1;Web blank
+Q20B;Please indicate your level of agreement with the following statements. The government is concealing what it knows about...The 9/11 attacks?;-1;
 Q20B;Please indicate your level of agreement with the following statements. The government is concealing what it knows about...The 9/11 attacks?;1;Strongly agree
 Q20B;Please indicate your level of agreement with the following statements. The government is concealing what it knows about...The 9/11 attacks?;2;Agree
 Q20B;Please indicate your level of agreement with the following statements. The government is concealing what it knows about...The 9/11 attacks?;3;Disagree
 Q20B;Please indicate your level of agreement with the following statements. The government is concealing what it knows about...The 9/11 attacks?;4;Strongly disagree
-Q20C;Please indicate your level of agreement with the following statements. The government is concealing what it knows about...The South Dakota crash?;-1;Web blank
+Q20C;Please indicate your level of agreement with the following statements. The government is concealing what it knows about...The South Dakota crash?;-1;
 Q20C;Please indicate your level of agreement with the following statements. The government is concealing what it knows about...The South Dakota crash?;1;Strongly agree
 Q20C;Please indicate your level of agreement with the following statements. The government is concealing what it knows about...The South Dakota crash?;2;Agree
 Q20C;Please indicate your level of agreement with the following statements. The government is concealing what it knows about...The South Dakota crash?;3;Disagree
 Q20C;Please indicate your level of agreement with the following statements. The government is concealing what it knows about...The South Dakota crash?;4;Strongly disagree
-Q20D;Please indicate your level of agreement with the following statements. The government is concealing what it knows about...Global warming?;-1;Web blank
+Q20D;Please indicate your level of agreement with the following statements. The government is concealing what it knows about...Global warming?;-1;
 Q20D;Please indicate your level of agreement with the following statements. The government is concealing what it knows about...Global warming?;1;Strongly agree
 Q20D;Please indicate your level of agreement with the following statements. The government is concealing what it knows about...Global warming?;2;Agree
 Q20D;Please indicate your level of agreement with the following statements. The government is concealing what it knows about...Global warming?;3;Disagree
 Q20D;Please indicate your level of agreement with the following statements. The government is concealing what it knows about...Global warming?;4;Strongly disagree
-Q20E;Please indicate your level of agreement with the following statements. The government is concealing what it knows about...The JFK assassination?;-1;Web blank
+Q20E;Please indicate your level of agreement with the following statements. The government is concealing what it knows about...The JFK assassination?;-1;
 Q20E;Please indicate your level of agreement with the following statements. The government is concealing what it knows about...The JFK assassination?;1;Strongly agree
 Q20E;Please indicate your level of agreement with the following statements. The government is concealing what it knows about...The JFK assassination?;2;Agree
 Q20E;Please indicate your level of agreement with the following statements. The government is concealing what it knows about...The JFK assassination?;3;Disagree
@@ -725,82 +725,82 @@ Q20F;Please indicate your level of agreement with the following statements. The 
 Q20F;Please indicate your level of agreement with the following statements. The government is concealing what it knows about...The moon landing?;2;Agree
 Q20F;Please indicate your level of agreement with the following statements. The government is concealing what it knows about...The moon landing?;3;Disagree
 Q20F;Please indicate your level of agreement with the following statements. The government is concealing what it knows about...The moon landing?;4;Strongly disagree
-Q20G;Please indicate your level of agreement with the following statements. The government is concealing what it knows about...The Illuminati/New World Order?;-1;Web blank
+Q20G;Please indicate your level of agreement with the following statements. The government is concealing what it knows about...The Illuminati/New World Order?;-1;
 Q20G;Please indicate your level of agreement with the following statements. The government is concealing what it knows about...The Illuminati/New World Order?;1;Strongly agree
 Q20G;Please indicate your level of agreement with the following statements. The government is concealing what it knows about...The Illuminati/New World Order?;2;Agree
 Q20G;Please indicate your level of agreement with the following statements. The government is concealing what it knows about...The Illuminati/New World Order?;3;Disagree
 Q20G;Please indicate your level of agreement with the following statements. The government is concealing what it knows about...The Illuminati/New World Order?;4;Strongly disagree
-Q20H;Please indicate your level of agreement with the following statements. The government is concealing what it knows about...Mass shootings such as those at Sandy Hook, Las Vegas, and Parkland?;-1;Web blank
+Q20H;Please indicate your level of agreement with the following statements. The government is concealing what it knows about...Mass shootings such as those at Sandy Hook, Las Vegas, and Parkland?;-1;
 Q20H;Please indicate your level of agreement with the following statements. The government is concealing what it knows about...Mass shootings such as those at Sandy Hook, Las Vegas, and Parkland?;1;Strongly agree
 Q20H;Please indicate your level of agreement with the following statements. The government is concealing what it knows about...Mass shootings such as those at Sandy Hook, Las Vegas, and Parkland?;2;Agree
 Q20H;Please indicate your level of agreement with the following statements. The government is concealing what it knows about...Mass shootings such as those at Sandy Hook, Las Vegas, and Parkland?;3;Disagree
 Q20H;Please indicate your level of agreement with the following statements. The government is concealing what it knows about...Mass shootings such as those at Sandy Hook, Las Vegas, and Parkland?;4;Strongly disagree
-Q20I;Please indicate your level of agreement with the following statements. The government is concealing what it knows about...Q'Anon?;-1;Web blank
+Q20I;Please indicate your level of agreement with the following statements. The government is concealing what it knows about...Q'Anon?;-1;
 Q20I;Please indicate your level of agreement with the following statements. The government is concealing what it knows about...Q'Anon?;1;Strongly agree
 Q20I;Please indicate your level of agreement with the following statements. The government is concealing what it knows about...Q'Anon?;2;Agree
 Q20I;Please indicate your level of agreement with the following statements. The government is concealing what it knows about...Q'Anon?;3;Disagree
 Q20I;Please indicate your level of agreement with the following statements. The government is concealing what it knows about...Q'Anon?;4;Strongly disagree
-Q21A;How afraid are you of the following: Government use of drones within the U.S.?;-1;Web blank
+Q21A;How afraid are you of the following: Government use of drones within the U.S.?;-1;
 Q21A;How afraid are you of the following: Government use of drones within the U.S.?;1;Very afraid
 Q21A;How afraid are you of the following: Government use of drones within the U.S.?;2;Afraid
 Q21A;How afraid are you of the following: Government use of drones within the U.S.?;3;Slightly afraid
 Q21A;How afraid are you of the following: Government use of drones within the U.S.?;4;Not afraid
-Q21B;How afraid are you of the following: Corrupt government officials?;-1;Web blank
+Q21B;How afraid are you of the following: Corrupt government officials?;-1;
 Q21B;How afraid are you of the following: Corrupt government officials?;1;Very afraid
 Q21B;How afraid are you of the following: Corrupt government officials?;2;Afraid
 Q21B;How afraid are you of the following: Corrupt government officials?;3;Slightly afraid
 Q21B;How afraid are you of the following: Corrupt government officials?;4;Not afraid
-Q21C;How afraid are you of the following: Government restrictions on firearms and ammunition?;-1;Web blank
+Q21C;How afraid are you of the following: Government restrictions on firearms and ammunition?;-1;
 Q21C;How afraid are you of the following: Government restrictions on firearms and ammunition?;1;Very afraid
 Q21C;How afraid are you of the following: Government restrictions on firearms and ammunition?;2;Afraid
 Q21C;How afraid are you of the following: Government restrictions on firearms and ammunition?;3;Slightly afraid
 Q21C;How afraid are you of the following: Government restrictions on firearms and ammunition?;4;Not afraid
-Q21D;How afraid are you of the following: Government interference with the coronavirus (COVID-19) vaccine approval?;-1;Web blank
+Q21D;How afraid are you of the following: Government interference with the coronavirus (COVID-19) vaccine approval?;-1;
 Q21D;How afraid are you of the following: Government interference with the coronavirus (COVID-19) vaccine approval?;1;Very afraid
 Q21D;How afraid are you of the following: Government interference with the coronavirus (COVID-19) vaccine approval?;2;Afraid
 Q21D;How afraid are you of the following: Government interference with the coronavirus (COVID-19) vaccine approval?;3;Slightly afraid
 Q21D;How afraid are you of the following: Government interference with the coronavirus (COVID-19) vaccine approval?;4;Not afraid
-Q22A;Please indicate your level of agreement with the following statements about immigration issues. Immigrants are more likely to commit crime than US citizens.;-1;Web blank
+Q22A;Please indicate your level of agreement with the following statements about immigration issues. Immigrants are more likely to commit crime than US citizens.;-1;
 Q22A;Please indicate your level of agreement with the following statements about immigration issues. Immigrants are more likely to commit crime than US citizens.;1;Strongly agree
 Q22A;Please indicate your level of agreement with the following statements about immigration issues. Immigrants are more likely to commit crime than US citizens.;2;Agree
 Q22A;Please indicate your level of agreement with the following statements about immigration issues. Immigrants are more likely to commit crime than US citizens.;3;Disagree
 Q22A;Please indicate your level of agreement with the following statements about immigration issues. Immigrants are more likely to commit crime than US citizens.;4;Strongly disagree
-Q22B;Please indicate your level of agreement with the following statements about immigration issues. Recent immigrants are more reluctant to assimilate than previous immigrants.;-1;Web blank
+Q22B;Please indicate your level of agreement with the following statements about immigration issues. Recent immigrants are more reluctant to assimilate than previous immigrants.;-1;
 Q22B;Please indicate your level of agreement with the following statements about immigration issues. Recent immigrants are more reluctant to assimilate than previous immigrants.;1;Strongly agree
 Q22B;Please indicate your level of agreement with the following statements about immigration issues. Recent immigrants are more reluctant to assimilate than previous immigrants.;2;Agree
 Q22B;Please indicate your level of agreement with the following statements about immigration issues. Recent immigrants are more reluctant to assimilate than previous immigrants.;3;Disagree
 Q22B;Please indicate your level of agreement with the following statements about immigration issues. Recent immigrants are more reluctant to assimilate than previous immigrants.;4;Strongly disagree
-Q22C;Please indicate your level of agreement with the following statements about immigration issues. Immigrants are a drain on the economy.;-1;Web blank
+Q22C;Please indicate your level of agreement with the following statements about immigration issues. Immigrants are a drain on the economy.;-1;
 Q22C;Please indicate your level of agreement with the following statements about immigration issues. Immigrants are a drain on the economy.;1;Strongly agree
 Q22C;Please indicate your level of agreement with the following statements about immigration issues. Immigrants are a drain on the economy.;2;Agree
 Q22C;Please indicate your level of agreement with the following statements about immigration issues. Immigrants are a drain on the economy.;3;Disagree
 Q22C;Please indicate your level of agreement with the following statements about immigration issues. Immigrants are a drain on the economy.;4;Strongly disagree
-Q22D;Please indicate your level of agreement with the following statements about immigration issues. Immigrants bring diseases into the US.;-1;Web blank
+Q22D;Please indicate your level of agreement with the following statements about immigration issues. Immigrants bring diseases into the US.;-1;
 Q22D;Please indicate your level of agreement with the following statements about immigration issues. Immigrants bring diseases into the US.;1;Strongly agree
 Q22D;Please indicate your level of agreement with the following statements about immigration issues. Immigrants bring diseases into the US.;2;Agree
 Q22D;Please indicate your level of agreement with the following statements about immigration issues. Immigrants bring diseases into the US.;3;Disagree
 Q22D;Please indicate your level of agreement with the following statements about immigration issues. Immigrants bring diseases into the US.;4;Strongly disagree
-Q22E;Please indicate your level of agreement with the following statements about immigration issues. Police should be allowed to raid businesses and homes in order to find undocumented workers.;-1;Web blank
+Q22E;Please indicate your level of agreement with the following statements about immigration issues. Police should be allowed to raid businesses and homes in order to find undocumented workers.;-1;
 Q22E;Please indicate your level of agreement with the following statements about immigration issues. Police should be allowed to raid businesses and homes in order to find undocumented workers.;1;Strongly agree
 Q22E;Please indicate your level of agreement with the following statements about immigration issues. Police should be allowed to raid businesses and homes in order to find undocumented workers.;2;Agree
 Q22E;Please indicate your level of agreement with the following statements about immigration issues. Police should be allowed to raid businesses and homes in order to find undocumented workers.;3;Disagree
 Q22E;Please indicate your level of agreement with the following statements about immigration issues. Police should be allowed to raid businesses and homes in order to find undocumented workers.;4;Strongly disagree
-Q22F;Please indicate your level of agreement with the following statements about immigration issues. Deportation is a good solution for immigration issues.;-1;Web blank
+Q22F;Please indicate your level of agreement with the following statements about immigration issues. Deportation is a good solution for immigration issues.;-1;
 Q22F;Please indicate your level of agreement with the following statements about immigration issues. Deportation is a good solution for immigration issues.;1;Strongly agree
 Q22F;Please indicate your level of agreement with the following statements about immigration issues. Deportation is a good solution for immigration issues.;2;Agree
 Q22F;Please indicate your level of agreement with the following statements about immigration issues. Deportation is a good solution for immigration issues.;3;Disagree
 Q22F;Please indicate your level of agreement with the following statements about immigration issues. Deportation is a good solution for immigration issues.;4;Strongly disagree
-Q22G;"Please indicate your level of agreement with the following statements about immigration issues. Creating a ""pathway to citizenship"" will encourage illegal immigration.";-1;Web blank
+Q22G;"Please indicate your level of agreement with the following statements about immigration issues. Creating a ""pathway to citizenship"" will encourage illegal immigration.";-1;
 Q22G;"Please indicate your level of agreement with the following statements about immigration issues. Creating a ""pathway to citizenship"" will encourage illegal immigration.";1;Strongly agree
 Q22G;"Please indicate your level of agreement with the following statements about immigration issues. Creating a ""pathway to citizenship"" will encourage illegal immigration.";2;Agree
 Q22G;"Please indicate your level of agreement with the following statements about immigration issues. Creating a ""pathway to citizenship"" will encourage illegal immigration.";3;Disagree
 Q22G;"Please indicate your level of agreement with the following statements about immigration issues. Creating a ""pathway to citizenship"" will encourage illegal immigration.";4;Strongly disagree
-Q22H;Please indicate your level of agreement with the following statements about immigration issues. America should cease all immigration from Muslim countries.;-1;Web blank
+Q22H;Please indicate your level of agreement with the following statements about immigration issues. America should cease all immigration from Muslim countries.;-1;
 Q22H;Please indicate your level of agreement with the following statements about immigration issues. America should cease all immigration from Muslim countries.;1;Strongly agree
 Q22H;Please indicate your level of agreement with the following statements about immigration issues. America should cease all immigration from Muslim countries.;2;Agree
 Q22H;Please indicate your level of agreement with the following statements about immigration issues. America should cease all immigration from Muslim countries.;3;Disagree
 Q22H;Please indicate your level of agreement with the following statements about immigration issues. America should cease all immigration from Muslim countries.;4;Strongly disagree
-Q22I;Please indicate your level of agreement with the following statements about immigration issues. America should build a wall on the border with Mexico.;-1;Web blank
+Q22I;Please indicate your level of agreement with the following statements about immigration issues. America should build a wall on the border with Mexico.;-1;
 Q22I;Please indicate your level of agreement with the following statements about immigration issues. America should build a wall on the border with Mexico.;1;Strongly agree
 Q22I;Please indicate your level of agreement with the following statements about immigration issues. America should build a wall on the border with Mexico.;2;Agree
 Q22I;Please indicate your level of agreement with the following statements about immigration issues. America should build a wall on the border with Mexico.;3;Disagree
@@ -809,26 +809,26 @@ Q23A;Have you done any of the following because of your fears: Purchased a gun?;
 Q23A;Have you done any of the following because of your fears: Purchased a gun?;2;No
 Q23B;Have you done any of the following because of your fears: Voted for a particular party or candidate?;1;Yes
 Q23B;Have you done any of the following because of your fears: Voted for a particular party or candidate?;2;No
-Q23C;Have you done any of the following because of your fears: Installed an alarm system in your home?;-1;Web blank
+Q23C;Have you done any of the following because of your fears: Installed an alarm system in your home?;-1;
 Q23C;Have you done any of the following because of your fears: Installed an alarm system in your home?;1;Yes
 Q23C;Have you done any of the following because of your fears: Installed an alarm system in your home?;2;No
 Q23D;Have you done any of the following because of your fears: Stockpiled toilet paper or other supplies?;1;Yes
 Q23D;Have you done any of the following because of your fears: Stockpiled toilet paper or other supplies?;2;No
-Q23E;Have you done any of the following because of your fears: Avoided public spaces, such as grocery stores or restaurants?;-1;Web blank
+Q23E;Have you done any of the following because of your fears: Avoided public spaces, such as grocery stores or restaurants?;-1;
 Q23E;Have you done any of the following because of your fears: Avoided public spaces, such as grocery stores or restaurants?;1;Yes
 Q23E;Have you done any of the following because of your fears: Avoided public spaces, such as grocery stores or restaurants?;2;No
-Q24;Have you had the coronavirus (COVID-19)?;-1;Web blank
+Q24;Have you had the coronavirus (COVID-19)?;-1;
 Q24;Have you had the coronavirus (COVID-19)?;1;Yes
 Q24;Have you had the coronavirus (COVID-19)?;2;No
 Q24;Have you had the coronavirus (COVID-19)?;3;I'm not sure
 Q25;Do you know someone personally who has had the coronavirus (COVID-19)?;1;Yes
 Q25;Do you know someone personally who has had the coronavirus (COVID-19)?;2;No
 Q25;Do you know someone personally who has had the coronavirus (COVID-19)?;3;I'm not sure
-Q26;Do you know someone personally who died or was hospitalized because of the coronavirus (COVID-19)?;-1;Web blank
+Q26;Do you know someone personally who died or was hospitalized because of the coronavirus (COVID-19)?;-1;
 Q26;Do you know someone personally who died or was hospitalized because of the coronavirus (COVID-19)?;1;Yes
 Q26;Do you know someone personally who died or was hospitalized because of the coronavirus (COVID-19)?;2;No
 Q26;Do you know someone personally who died or was hospitalized because of the coronavirus (COVID-19)?;3;I'm not sure
-Q27;Did you lose your job or were you laid off as a result of the coronavirus (COVID-19)?;-1;Web blank
+Q27;Did you lose your job or were you laid off as a result of the coronavirus (COVID-19)?;-1;
 Q27;Did you lose your job or were you laid off as a result of the coronavirus (COVID-19)?;1;Yes, lost job or permanently laid off
 Q27;Did you lose your job or were you laid off as a result of the coronavirus (COVID-19)?;2;Yes, temporarily laid off
 Q27;Did you lose your job or were you laid off as a result of the coronavirus (COVID-19)?;3;No
@@ -836,7 +836,7 @@ Q28A;[DO NOT DISPLAY ITEM A IF Q24=1] How afraid are you of the following: Contr
 Q28A;[DO NOT DISPLAY ITEM A IF Q24=1] How afraid are you of the following: Contracting the coronavirus (COVID-19)?;2;Afraid
 Q28A;[DO NOT DISPLAY ITEM A IF Q24=1] How afraid are you of the following: Contracting the coronavirus (COVID-19)?;3;Slightly afraid
 Q28A;[DO NOT DISPLAY ITEM A IF Q24=1] How afraid are you of the following: Contracting the coronavirus (COVID-19)?;4;Not afraid
-Q28B;How afraid are you of the following: A loved one contracting the coronavirus (COVID-19)?;-1;Web blank
+Q28B;How afraid are you of the following: A loved one contracting the coronavirus (COVID-19)?;-1;
 Q28B;How afraid are you of the following: A loved one contracting the coronavirus (COVID-19)?;1;Very afraid
 Q28B;How afraid are you of the following: A loved one contracting the coronavirus (COVID-19)?;2;Afraid
 Q28B;How afraid are you of the following: A loved one contracting the coronavirus (COVID-19)?;3;Slightly afraid
@@ -849,7 +849,7 @@ Q29A;Please indicate your level of agreement with the following statements about
 Q29A;Please indicate your level of agreement with the following statements about the coronavirus (COVID-19). The government has gone too far in restricting businesses and individuals during the coronavirus (COVID-19) pandemic.;2;Agree
 Q29A;Please indicate your level of agreement with the following statements about the coronavirus (COVID-19). The government has gone too far in restricting businesses and individuals during the coronavirus (COVID-19) pandemic.;3;Disagree
 Q29A;Please indicate your level of agreement with the following statements about the coronavirus (COVID-19). The government has gone too far in restricting businesses and individuals during the coronavirus (COVID-19) pandemic.;4;Strongly disagree
-Q29B;Please indicate your level of agreement with the following statements about the coronavirus (COVID-19). The benefits of wearing a mask outweigh the consequences of not wearing one.;-1;Web blank
+Q29B;Please indicate your level of agreement with the following statements about the coronavirus (COVID-19). The benefits of wearing a mask outweigh the consequences of not wearing one.;-1;
 Q29B;Please indicate your level of agreement with the following statements about the coronavirus (COVID-19). The benefits of wearing a mask outweigh the consequences of not wearing one.;1;Strongly agree
 Q29B;Please indicate your level of agreement with the following statements about the coronavirus (COVID-19). The benefits of wearing a mask outweigh the consequences of not wearing one.;2;Agree
 Q29B;Please indicate your level of agreement with the following statements about the coronavirus (COVID-19). The benefits of wearing a mask outweigh the consequences of not wearing one.;3;Disagree
@@ -858,7 +858,7 @@ Q29C;Please indicate your level of agreement with the following statements about
 Q29C;Please indicate your level of agreement with the following statements about the coronavirus (COVID-19). Social media companies (Facebook, Twitter, Instagram, etc.) should be responsible for identifying and removing misleading information about the coronavirus.;2;Agree
 Q29C;Please indicate your level of agreement with the following statements about the coronavirus (COVID-19). Social media companies (Facebook, Twitter, Instagram, etc.) should be responsible for identifying and removing misleading information about the coronavirus.;3;Disagree
 Q29C;Please indicate your level of agreement with the following statements about the coronavirus (COVID-19). Social media companies (Facebook, Twitter, Instagram, etc.) should be responsible for identifying and removing misleading information about the coronavirus.;4;Strongly disagree
-Q29D;Please indicate your level of agreement with the following statements about the coronavirus (COVID-19). The coronavirus (COVID-19) is a pretext to insert microchips into people to track them.;-1;Web blank
+Q29D;Please indicate your level of agreement with the following statements about the coronavirus (COVID-19). The coronavirus (COVID-19) is a pretext to insert microchips into people to track them.;-1;
 Q29D;Please indicate your level of agreement with the following statements about the coronavirus (COVID-19). The coronavirus (COVID-19) is a pretext to insert microchips into people to track them.;1;Strongly agree
 Q29D;Please indicate your level of agreement with the following statements about the coronavirus (COVID-19). The coronavirus (COVID-19) is a pretext to insert microchips into people to track them.;2;Agree
 Q29D;Please indicate your level of agreement with the following statements about the coronavirus (COVID-19). The coronavirus (COVID-19) is a pretext to insert microchips into people to track them.;3;Disagree
@@ -867,7 +867,7 @@ Q29E;Please indicate your level of agreement with the following statements about
 Q29E;Please indicate your level of agreement with the following statements about the coronavirus (COVID-19). The coronavirus (COVID-19) pandemic was exaggerated in order to undermine President Trump.;2;Agree
 Q29E;Please indicate your level of agreement with the following statements about the coronavirus (COVID-19). The coronavirus (COVID-19) pandemic was exaggerated in order to undermine President Trump.;3;Disagree
 Q29E;Please indicate your level of agreement with the following statements about the coronavirus (COVID-19). The coronavirus (COVID-19) pandemic was exaggerated in order to undermine President Trump.;4;Strongly disagree
-Q29F;Please indicate your level of agreement with the following statements about the coronavirus (COVID-19). Natural remedies are an effective means to treat or prevent coronavirus symptoms.;-1;Web blank
+Q29F;Please indicate your level of agreement with the following statements about the coronavirus (COVID-19). Natural remedies are an effective means to treat or prevent coronavirus symptoms.;-1;
 Q29F;Please indicate your level of agreement with the following statements about the coronavirus (COVID-19). Natural remedies are an effective means to treat or prevent coronavirus symptoms.;1;Strongly agree
 Q29F;Please indicate your level of agreement with the following statements about the coronavirus (COVID-19). Natural remedies are an effective means to treat or prevent coronavirus symptoms.;2;Agree
 Q29F;Please indicate your level of agreement with the following statements about the coronavirus (COVID-19). Natural remedies are an effective means to treat or prevent coronavirus symptoms.;3;Disagree
@@ -880,42 +880,42 @@ Q29H;Please indicate your level of agreement with the following statements about
 Q29H;Please indicate your level of agreement with the following statements about the coronavirus (COVID-19). When a safe and effective coronavirus (COVID-19) vaccine becomes available, I will get it as soon as possible.;2;Agree
 Q29H;Please indicate your level of agreement with the following statements about the coronavirus (COVID-19). When a safe and effective coronavirus (COVID-19) vaccine becomes available, I will get it as soon as possible.;3;Disagree
 Q29H;Please indicate your level of agreement with the following statements about the coronavirus (COVID-19). When a safe and effective coronavirus (COVID-19) vaccine becomes available, I will get it as soon as possible.;4;Strongly disagree
-Q30A;Please indicate your level of agreement with the following statements about vaccines. I have concerns about the safety of vaccines.;-1;Web blank
+Q30A;Please indicate your level of agreement with the following statements about vaccines. I have concerns about the safety of vaccines.;-1;
 Q30A;Please indicate your level of agreement with the following statements about vaccines. I have concerns about the safety of vaccines.;1;Strongly agree
 Q30A;Please indicate your level of agreement with the following statements about vaccines. I have concerns about the safety of vaccines.;2;Agree
 Q30A;Please indicate your level of agreement with the following statements about vaccines. I have concerns about the safety of vaccines.;3;Disagree
 Q30A;Please indicate your level of agreement with the following statements about vaccines. I have concerns about the safety of vaccines.;4;Strongly disagree
-Q30B;Please indicate your level of agreement with the following statements about vaccines. Someone I know has experienced adverse effects from a vaccine.;-1;Web blank
+Q30B;Please indicate your level of agreement with the following statements about vaccines. Someone I know has experienced adverse effects from a vaccine.;-1;
 Q30B;Please indicate your level of agreement with the following statements about vaccines. Someone I know has experienced adverse effects from a vaccine.;1;Strongly agree
 Q30B;Please indicate your level of agreement with the following statements about vaccines. Someone I know has experienced adverse effects from a vaccine.;2;Agree
 Q30B;Please indicate your level of agreement with the following statements about vaccines. Someone I know has experienced adverse effects from a vaccine.;3;Disagree
 Q30B;Please indicate your level of agreement with the following statements about vaccines. Someone I know has experienced adverse effects from a vaccine.;4;Strongly disagree
-Q30C;Please indicate your level of agreement with the following statements about vaccines. The benefits of vaccines are greater than the risks.;-1;Web blank
+Q30C;Please indicate your level of agreement with the following statements about vaccines. The benefits of vaccines are greater than the risks.;-1;
 Q30C;Please indicate your level of agreement with the following statements about vaccines. The benefits of vaccines are greater than the risks.;1;Strongly agree
 Q30C;Please indicate your level of agreement with the following statements about vaccines. The benefits of vaccines are greater than the risks.;2;Agree
 Q30C;Please indicate your level of agreement with the following statements about vaccines. The benefits of vaccines are greater than the risks.;3;Disagree
 Q30C;Please indicate your level of agreement with the following statements about vaccines. The benefits of vaccines are greater than the risks.;4;Strongly disagree
-Q30D;Please indicate your level of agreement with the following statements about vaccines. Mandatory vaccination is a violation of personal and medical freedom.;-1;Web blank
+Q30D;Please indicate your level of agreement with the following statements about vaccines. Mandatory vaccination is a violation of personal and medical freedom.;-1;
 Q30D;Please indicate your level of agreement with the following statements about vaccines. Mandatory vaccination is a violation of personal and medical freedom.;1;Strongly agree
 Q30D;Please indicate your level of agreement with the following statements about vaccines. Mandatory vaccination is a violation of personal and medical freedom.;2;Agree
 Q30D;Please indicate your level of agreement with the following statements about vaccines. Mandatory vaccination is a violation of personal and medical freedom.;3;Disagree
 Q30D;Please indicate your level of agreement with the following statements about vaccines. Mandatory vaccination is a violation of personal and medical freedom.;4;Strongly disagree
-Q30E;Please indicate your level of agreement with the following statements about vaccines. Vaccines should contain only natural ingredients.;-1;Web blank
+Q30E;Please indicate your level of agreement with the following statements about vaccines. Vaccines should contain only natural ingredients.;-1;
 Q30E;Please indicate your level of agreement with the following statements about vaccines. Vaccines should contain only natural ingredients.;1;Strongly agree
 Q30E;Please indicate your level of agreement with the following statements about vaccines. Vaccines should contain only natural ingredients.;2;Agree
 Q30E;Please indicate your level of agreement with the following statements about vaccines. Vaccines should contain only natural ingredients.;3;Disagree
 Q30E;Please indicate your level of agreement with the following statements about vaccines. Vaccines should contain only natural ingredients.;4;Strongly disagree
-Q30F;Please indicate your level of agreement with the following statements about vaccines. Billionaires without medical degrees should not be able to shape vaccine research or policy.;-1;Web blank
+Q30F;Please indicate your level of agreement with the following statements about vaccines. Billionaires without medical degrees should not be able to shape vaccine research or policy.;-1;
 Q30F;Please indicate your level of agreement with the following statements about vaccines. Billionaires without medical degrees should not be able to shape vaccine research or policy.;1;Strongly agree
 Q30F;Please indicate your level of agreement with the following statements about vaccines. Billionaires without medical degrees should not be able to shape vaccine research or policy.;2;Agree
 Q30F;Please indicate your level of agreement with the following statements about vaccines. Billionaires without medical degrees should not be able to shape vaccine research or policy.;3;Disagree
 Q30F;Please indicate your level of agreement with the following statements about vaccines. Billionaires without medical degrees should not be able to shape vaccine research or policy.;4;Strongly disagree
-Q30G;Please indicate your level of agreement with the following statements about vaccines. Parents should have a larger role in shaping vaccine policy.;-1;Web blank
+Q30G;Please indicate your level of agreement with the following statements about vaccines. Parents should have a larger role in shaping vaccine policy.;-1;
 Q30G;Please indicate your level of agreement with the following statements about vaccines. Parents should have a larger role in shaping vaccine policy.;1;Strongly agree
 Q30G;Please indicate your level of agreement with the following statements about vaccines. Parents should have a larger role in shaping vaccine policy.;2;Agree
 Q30G;Please indicate your level of agreement with the following statements about vaccines. Parents should have a larger role in shaping vaccine policy.;3;Disagree
 Q30G;Please indicate your level of agreement with the following statements about vaccines. Parents should have a larger role in shaping vaccine policy.;4;Strongly disagree
-Q30H;Please indicate your level of agreement with the following statements about vaccines. Vaccine manufacturers should be protected from liability.;-1;Web blank
+Q30H;Please indicate your level of agreement with the following statements about vaccines. Vaccine manufacturers should be protected from liability.;-1;
 Q30H;Please indicate your level of agreement with the following statements about vaccines. Vaccine manufacturers should be protected from liability.;1;Strongly agree
 Q30H;Please indicate your level of agreement with the following statements about vaccines. Vaccine manufacturers should be protected from liability.;2;Agree
 Q30H;Please indicate your level of agreement with the following statements about vaccines. Vaccine manufacturers should be protected from liability.;3;Disagree
@@ -931,59 +931,59 @@ Q32A;Have you ever done any of the following: Participated in a protest or rally
 Q32B;Have you ever done any of the following: Posted online content that was deleted, suppressed or flagged as false or misleading by the platform it was posted to?;1;Yes
 Q32B;Have you ever done any of the following: Posted online content that was deleted, suppressed or flagged as false or misleading by the platform it was posted to?;2;No
 Q32B;Have you ever done any of the following: Posted online content that was deleted, suppressed or flagged as false or misleading by the platform it was posted to?;3;Doesn't apply to me
-Q32C;Have you ever done any of the following: Refused or delayed a vaccine for yourself?;-1;Web blank
+Q32C;Have you ever done any of the following: Refused or delayed a vaccine for yourself?;-1;
 Q32C;Have you ever done any of the following: Refused or delayed a vaccine for yourself?;1;Yes
 Q32C;Have you ever done any of the following: Refused or delayed a vaccine for yourself?;2;No
 Q32C;Have you ever done any of the following: Refused or delayed a vaccine for yourself?;3;Doesn't apply to me
-Q32D;Have you ever done any of the following: Refused or delayed a vaccine for a child?;-1;Web blank
+Q32D;Have you ever done any of the following: Refused or delayed a vaccine for a child?;-1;
 Q32D;Have you ever done any of the following: Refused or delayed a vaccine for a child?;1;Yes
 Q32D;Have you ever done any of the following: Refused or delayed a vaccine for a child?;2;No
 Q32D;Have you ever done any of the following: Refused or delayed a vaccine for a child?;3;Doesn't apply to me
-Q32E;Have you ever done any of the following: Read information about vaccines online that scared you?;-1;Web blank
+Q32E;Have you ever done any of the following: Read information about vaccines online that scared you?;-1;
 Q32E;Have you ever done any of the following: Read information about vaccines online that scared you?;1;Yes
 Q32E;Have you ever done any of the following: Read information about vaccines online that scared you?;2;No
 Q32E;Have you ever done any of the following: Read information about vaccines online that scared you?;3;Doesn't apply to me
-Q33A;Please indicate your level of agreement with the following statements: I support the Black Lives Matter (BLM) movement.;-1;Web blank
+Q33A;Please indicate your level of agreement with the following statements: I support the Black Lives Matter (BLM) movement.;-1;
 Q33A;Please indicate your level of agreement with the following statements: I support the Black Lives Matter (BLM) movement.;1;Strongly agree
 Q33A;Please indicate your level of agreement with the following statements: I support the Black Lives Matter (BLM) movement.;2;Agree
 Q33A;Please indicate your level of agreement with the following statements: I support the Black Lives Matter (BLM) movement.;3;Disagree
 Q33A;Please indicate your level of agreement with the following statements: I support the Black Lives Matter (BLM) movement.;4;Strongly disagree
-Q33B;Please indicate your level of agreement with the following statements: Local governments should enact curfews during protests.;-1;Web blank
+Q33B;Please indicate your level of agreement with the following statements: Local governments should enact curfews during protests.;-1;
 Q33B;Please indicate your level of agreement with the following statements: Local governments should enact curfews during protests.;1;Strongly agree
 Q33B;Please indicate your level of agreement with the following statements: Local governments should enact curfews during protests.;2;Agree
 Q33B;Please indicate your level of agreement with the following statements: Local governments should enact curfews during protests.;3;Disagree
 Q33B;Please indicate your level of agreement with the following statements: Local governments should enact curfews during protests.;4;Strongly disagree
-Q33C;Please indicate your level of agreement with the following statements: The National Guard should be called in to cities to stop protests when needed.;-1;Web blank
+Q33C;Please indicate your level of agreement with the following statements: The National Guard should be called in to cities to stop protests when needed.;-1;
 Q33C;Please indicate your level of agreement with the following statements: The National Guard should be called in to cities to stop protests when needed.;1;Strongly agree
 Q33C;Please indicate your level of agreement with the following statements: The National Guard should be called in to cities to stop protests when needed.;2;Agree
 Q33C;Please indicate your level of agreement with the following statements: The National Guard should be called in to cities to stop protests when needed.;3;Disagree
 Q33C;Please indicate your level of agreement with the following statements: The National Guard should be called in to cities to stop protests when needed.;4;Strongly disagree
-Q33D;Please indicate your level of agreement with the following statements: Our nation needs to reform the entire system of law enforcement.;-1;Web blank
+Q33D;Please indicate your level of agreement with the following statements: Our nation needs to reform the entire system of law enforcement.;-1;
 Q33D;Please indicate your level of agreement with the following statements: Our nation needs to reform the entire system of law enforcement.;1;Strongly agree
 Q33D;Please indicate your level of agreement with the following statements: Our nation needs to reform the entire system of law enforcement.;2;Agree
 Q33D;Please indicate your level of agreement with the following statements: Our nation needs to reform the entire system of law enforcement.;3;Disagree
 Q33D;Please indicate your level of agreement with the following statements: Our nation needs to reform the entire system of law enforcement.;4;Strongly disagree
-Q33E;Please indicate your level of agreement with the following statements: We should defund the police.;-1;Web blank
+Q33E;Please indicate your level of agreement with the following statements: We should defund the police.;-1;
 Q33E;Please indicate your level of agreement with the following statements: We should defund the police.;1;Strongly agree
 Q33E;Please indicate your level of agreement with the following statements: We should defund the police.;2;Agree
 Q33E;Please indicate your level of agreement with the following statements: We should defund the police.;3;Disagree
 Q33E;Please indicate your level of agreement with the following statements: We should defund the police.;4;Strongly disagree
-Q34A;Please indicate your level of agreement with the following statements: Aliens have visited the Earth in our ancient past.;-1;Web blank
+Q34A;Please indicate your level of agreement with the following statements: Aliens have visited the Earth in our ancient past.;-1;
 Q34A;Please indicate your level of agreement with the following statements: Aliens have visited the Earth in our ancient past.;1;Strongly agree
 Q34A;Please indicate your level of agreement with the following statements: Aliens have visited the Earth in our ancient past.;2;Agree
 Q34A;Please indicate your level of agreement with the following statements: Aliens have visited the Earth in our ancient past.;3;Disagree
 Q34A;Please indicate your level of agreement with the following statements: Aliens have visited the Earth in our ancient past.;4;Strongly disagree
-Q34B;Please indicate your level of agreement with the following statements: Aliens have come to Earth in modern times.;-1;Web blank
+Q34B;Please indicate your level of agreement with the following statements: Aliens have come to Earth in modern times.;-1;
 Q34B;Please indicate your level of agreement with the following statements: Aliens have come to Earth in modern times.;1;Strongly agree
 Q34B;Please indicate your level of agreement with the following statements: Aliens have come to Earth in modern times.;2;Agree
 Q34B;Please indicate your level of agreement with the following statements: Aliens have come to Earth in modern times.;3;Disagree
 Q34B;Please indicate your level of agreement with the following statements: Aliens have come to Earth in modern times.;4;Strongly disagree
-Q34C;Please indicate your level of agreement with the following statements: Fortune tellers and psychics can foresee the future.;-1;Web blank
+Q34C;Please indicate your level of agreement with the following statements: Fortune tellers and psychics can foresee the future.;-1;
 Q34C;Please indicate your level of agreement with the following statements: Fortune tellers and psychics can foresee the future.;1;Strongly agree
 Q34C;Please indicate your level of agreement with the following statements: Fortune tellers and psychics can foresee the future.;2;Agree
 Q34C;Please indicate your level of agreement with the following statements: Fortune tellers and psychics can foresee the future.;3;Disagree
 Q34C;Please indicate your level of agreement with the following statements: Fortune tellers and psychics can foresee the future.;4;Strongly disagree
-Q34D;Please indicate your level of agreement with the following statements: Bigfoot is a real creature.;-1;Web blank
+Q34D;Please indicate your level of agreement with the following statements: Bigfoot is a real creature.;-1;
 Q34D;Please indicate your level of agreement with the following statements: Bigfoot is a real creature.;1;Strongly agree
 Q34D;Please indicate your level of agreement with the following statements: Bigfoot is a real creature.;2;Agree
 Q34D;Please indicate your level of agreement with the following statements: Bigfoot is a real creature.;3;Disagree
@@ -992,27 +992,27 @@ Q34E;Please indicate your level of agreement with the following statements: Plac
 Q34E;Please indicate your level of agreement with the following statements: Places can be haunted by spirits.;2;Agree
 Q34E;Please indicate your level of agreement with the following statements: Places can be haunted by spirits.;3;Disagree
 Q34E;Please indicate your level of agreement with the following statements: Places can be haunted by spirits.;4;Strongly disagree
-Q34F;Please indicate your level of agreement with the following statements: Ancient advanced civilizations, such as Atlantis, once existed.;-1;Web blank
+Q34F;Please indicate your level of agreement with the following statements: Ancient advanced civilizations, such as Atlantis, once existed.;-1;
 Q34F;Please indicate your level of agreement with the following statements: Ancient advanced civilizations, such as Atlantis, once existed.;1;Strongly agree
 Q34F;Please indicate your level of agreement with the following statements: Ancient advanced civilizations, such as Atlantis, once existed.;2;Agree
 Q34F;Please indicate your level of agreement with the following statements: Ancient advanced civilizations, such as Atlantis, once existed.;3;Disagree
 Q34F;Please indicate your level of agreement with the following statements: Ancient advanced civilizations, such as Atlantis, once existed.;4;Strongly disagree
-Q34G;Please indicate your level of agreement with the following statements: Some people can move objects with their minds.;-1;Web blank
+Q34G;Please indicate your level of agreement with the following statements: Some people can move objects with their minds.;-1;
 Q34G;Please indicate your level of agreement with the following statements: Some people can move objects with their minds.;1;Strongly agree
 Q34G;Please indicate your level of agreement with the following statements: Some people can move objects with their minds.;2;Agree
 Q34G;Please indicate your level of agreement with the following statements: Some people can move objects with their minds.;3;Disagree
 Q34G;Please indicate your level of agreement with the following statements: Some people can move objects with their minds.;4;Strongly disagree
-Q35A;When deciding whether to get the coronavirus (COVID-19) vaccine once available, how important to you is each of the following: The potential side effects of the vaccine?;-1;Web blank
+Q35A;When deciding whether to get the coronavirus (COVID-19) vaccine once available, how important to you is each of the following: The potential side effects of the vaccine?;-1;
 Q35A;When deciding whether to get the coronavirus (COVID-19) vaccine once available, how important to you is each of the following: The potential side effects of the vaccine?;1;Very important
 Q35A;When deciding whether to get the coronavirus (COVID-19) vaccine once available, how important to you is each of the following: The potential side effects of the vaccine?;2;Somewhat important
 Q35A;When deciding whether to get the coronavirus (COVID-19) vaccine once available, how important to you is each of the following: The potential side effects of the vaccine?;3;Not very important
 Q35A;When deciding whether to get the coronavirus (COVID-19) vaccine once available, how important to you is each of the following: The potential side effects of the vaccine?;4;Not important at all
-Q35B;When deciding whether to get the coronavirus (COVID-19) vaccine once available, how important to you is each of the following: The effectiveness of the vaccine?;-1;Web blank
+Q35B;When deciding whether to get the coronavirus (COVID-19) vaccine once available, how important to you is each of the following: The effectiveness of the vaccine?;-1;
 Q35B;When deciding whether to get the coronavirus (COVID-19) vaccine once available, how important to you is each of the following: The effectiveness of the vaccine?;1;Very important
 Q35B;When deciding whether to get the coronavirus (COVID-19) vaccine once available, how important to you is each of the following: The effectiveness of the vaccine?;2;Somewhat important
 Q35B;When deciding whether to get the coronavirus (COVID-19) vaccine once available, how important to you is each of the following: The effectiveness of the vaccine?;3;Not very important
 Q35B;When deciding whether to get the coronavirus (COVID-19) vaccine once available, how important to you is each of the following: The effectiveness of the vaccine?;4;Not important at all
-Q35C;When deciding whether to get the coronavirus (COVID-19) vaccine once available, how important to you is each of the following: Pressure from friends/family?;-1;Web blank
+Q35C;When deciding whether to get the coronavirus (COVID-19) vaccine once available, how important to you is each of the following: Pressure from friends/family?;-1;
 Q35C;When deciding whether to get the coronavirus (COVID-19) vaccine once available, how important to you is each of the following: Pressure from friends/family?;1;Very important
 Q35C;When deciding whether to get the coronavirus (COVID-19) vaccine once available, how important to you is each of the following: Pressure from friends/family?;2;Somewhat important
 Q35C;When deciding whether to get the coronavirus (COVID-19) vaccine once available, how important to you is each of the following: Pressure from friends/family?;3;Not very important
@@ -1021,12 +1021,12 @@ Q35D;When deciding whether to get the coronavirus (COVID-19) vaccine once availa
 Q35D;When deciding whether to get the coronavirus (COVID-19) vaccine once available, how important to you is each of the following: Protecting those who are at risk or who have compromised immune systems?;2;Somewhat important
 Q35D;When deciding whether to get the coronavirus (COVID-19) vaccine once available, how important to you is each of the following: Protecting those who are at risk or who have compromised immune systems?;3;Not very important
 Q35D;When deciding whether to get the coronavirus (COVID-19) vaccine once available, how important to you is each of the following: Protecting those who are at risk or who have compromised immune systems?;4;Not important at all
-Q35E;When deciding whether to get the coronavirus (COVID-19) vaccine once available, how important to you is each of the following: Your family's/household's health?;-1;Web blank
+Q35E;When deciding whether to get the coronavirus (COVID-19) vaccine once available, how important to you is each of the following: Your family's/household's health?;-1;
 Q35E;When deciding whether to get the coronavirus (COVID-19) vaccine once available, how important to you is each of the following: Your family's/household's health?;1;Very important
 Q35E;When deciding whether to get the coronavirus (COVID-19) vaccine once available, how important to you is each of the following: Your family's/household's health?;2;Somewhat important
 Q35E;When deciding whether to get the coronavirus (COVID-19) vaccine once available, how important to you is each of the following: Your family's/household's health?;3;Not very important
 Q35E;When deciding whether to get the coronavirus (COVID-19) vaccine once available, how important to you is each of the following: Your family's/household's health?;4;Not important at all
-Q35F;When deciding whether to get the coronavirus (COVID-19) vaccine once available, how important to you is each of the following: The health of your local community?;-1;Web blank
+Q35F;When deciding whether to get the coronavirus (COVID-19) vaccine once available, how important to you is each of the following: The health of your local community?;-1;
 Q35F;When deciding whether to get the coronavirus (COVID-19) vaccine once available, how important to you is each of the following: The health of your local community?;1;Very important
 Q35F;When deciding whether to get the coronavirus (COVID-19) vaccine once available, how important to you is each of the following: The health of your local community?;2;Somewhat important
 Q35F;When deciding whether to get the coronavirus (COVID-19) vaccine once available, how important to you is each of the following: The health of your local community?;3;Not very important
@@ -1066,7 +1066,7 @@ Z5;[ASK IF Z4=3] Would you say you are...?;3;A student
 Z5;[ASK IF Z4=3] Would you say you are...?;4;Temporarily unemployed
 Z5;[ASK IF Z4=3] Would you say you are...?;5;Disabled/handicapped
 Z5;[ASK IF Z4=3] Would you say you are...?;7;Other
-Z9;What is your total annual household income from all sources, and before taxes?;-1;Web blank
+Z9;What is your total annual household income from all sources, and before taxes?;-1;
 Z9;What is your total annual household income from all sources, and before taxes?;1;Less than $15,000
 Z9;What is your total annual household income from all sources, and before taxes?;2;$15,000 but less than $20,000
 Z9;What is your total annual household income from all sources, and before taxes?;3;$25,000 but less than $30,000
@@ -1076,7 +1076,7 @@ Z9;What is your total annual household income from all sources, and before taxes
 Z9;What is your total annual household income from all sources, and before taxes?;7;$75,000 but less than $100,000
 Z9;What is your total annual household income from all sources, and before taxes?;8;$100,000 and over
 Z9;What is your total annual household income from all sources, and before taxes?;9;$20,000 but less than $25,000
-Z9A;[ASK IF Z9=99] Could you say if your total annual household income falls into one of these broader categories?;-1;Web blank
+Z9A;[ASK IF Z9=99] Could you say if your total annual household income falls into one of these broader categories?;-1;
 Z9A;[ASK IF Z9=99] Could you say if your total annual household income falls into one of these broader categories?;1;Less than $50,000
 Z9A;[ASK IF Z9=99] Could you say if your total annual household income falls into one of these broader categories?;2;$50,000 but less than $100,000
 Z9B;[ASK IF Z9=8] Would that be:;1;$100,000 to under $150,000
@@ -1092,12 +1092,12 @@ PRACE;Race;6;Asian/Chinese/Japanese
 PRACE;Race;7;Native American/American Indian/Alaska Native
 PRACE;Race;9;Other race
 PRACE;Race;10;Mixed
-PRACE;Race;99;Refused
+PRACE;Race;99;
 PREGION;Census Region;1;Northeast
 PREGION;Census Region;2;North Central
 PREGION;Census Region;3;South
 PREGION;Census Region;4;West
-PREGION;Census Region;9;Refused
+PREGION;Census Region;9;
 PSEX;Sex;1;Male
 PSEX;Sex;2;Female
 PSEX;Sex;3;Other
@@ -1107,7 +1107,7 @@ PMSTATUS;Marital Status;3;Married
 PMSTATUS;Marital Status;4;Separated
 PMSTATUS;Marital Status;5;Widowed
 PMSTATUS;Marital Status;6;Divorced
-PMSTATUS;Marital Status;9;Refused
+PMSTATUS;Marital Status;9;
 PADULTS;Number of adults in household;1;
 PADULTS;Number of adults in household;2;
 PADULTS;Number of adults in household;3;
@@ -1116,7 +1116,7 @@ PADULTS;Number of adults in household;5;
 PADULTS;Number of adults in household;6;
 PADULTS;Number of adults in household;7;
 PADULTS;Number of adults in household;8;Eight or more
-PADULTS;Number of adults in household;9;Refused
+PADULTS;Number of adults in household;9;
 PKIDS1217;Number of kids 12 to 17 in household;0;
 PKIDS1217;Number of kids 12 to 17 in household;1;
 PKIDS1217;Number of kids 12 to 17 in household;2;
@@ -1135,17 +1135,17 @@ PKIDSLESS6;Number of kids under six in household;3;
 PKIDSLESS6;Number of kids under six in household;4;
 PPARENT;Parent of child in household;1;Yes
 PPARENT;Parent of child in household;2;No
-PPARENT;Parent of child in household;9;Refused
+PPARENT;Parent of child in household;9;
 PAGE2;Age for those refusing to give a number;1;18-29
 PAGE2;Age for those refusing to give a number;2;30-49
 PAGE2;Age for those refusing to give a number;3;50-64
 PAGE2;Age for those refusing to give a number;4;65+
-PAGE2;Age for those refusing to give a number;9;Refused
+PAGE2;Age for those refusing to give a number;9;
 PAGEFINAL;Age collapsed (PAGE1 + PAGE2);1;18-29
 PAGEFINAL;Age collapsed (PAGE1 + PAGE2);2;30-49
 PAGEFINAL;Age collapsed (PAGE1 + PAGE2);3;50-64
 PAGEFINAL;Age collapsed (PAGE1 + PAGE2);4;65+
-PAGEFINAL;Age collapsed (PAGE1 + PAGE2);9;Refused
+PAGEFINAL;Age collapsed (PAGE1 + PAGE2);9;
 PRELIGION;Religion;1;Baptist
 PRELIGION;Religion;2;Catholic, Roman Catholic
 PRELIGION;Religion;5;Evangelical
@@ -1168,7 +1168,7 @@ PRELIGION;Religion;90;Nothing in particular
 PRELIGION;Religion;95;Atheist
 PRELIGION;Religion;96;Agnostic
 PRELIGION;Religion;97;Other
-PRELIGION;Religion;99;Refused
+PRELIGION;Religion;99;
 PREGVOTE;Registered to Vote;1;Yes
 PREGVOTE;Registered to Vote;2;No
 DEVICECATEGORY;Device used for survey completion;1;PC or equivalent
@@ -1196,21 +1196,21 @@ NEWINCOME;Recoded income from Z9, Z9a, Z9b;13;$150,000 to under $200,000
 NEWINCOME;Recoded income from Z9, Z9a, Z9b;14;$200,000 to under $250,000
 NEWINCOME;Recoded income from Z9, Z9a, Z9b;15;$250,000 or more
 NEWINCOME;Recoded income from Z9, Z9a, Z9b;17;$20,000 but less than $25,000
-NEWINCOME;Recoded income from Z9, Z9a, Z9b;99;Refused
-I-MARITAL;Marital Status (Recoded for use with online analysis);1;Single
-I-MARITAL;Marital Status (Recoded for use with online analysis);2;Separated, widowed, or divorced
-I-MARITAL;Marital Status (Recoded for use with online analysis);3;Married
-I-RACE;Race (Recoded for use with online analysis);1;White
-I-RACE;Race (Recoded for use with online analysis);2;Black
-I-RACE;Race (Recoded for use with online analysis);3;Hispanic
-I-RACE;Race (Recoded for use with online analysis);4;Other
-I-SEX;Sex (Recoded for use with online analysis);1;Male
-I-SEX;Sex (Recoded for use with online analysis);2;Female
-I-AGE;Age collapsed (PAGE1 + PAGE2) (Recoded for use with online analysis);1;18-29
-I-AGE;Age collapsed (PAGE1 + PAGE2) (Recoded for use with online analysis);2;30-49
-I-AGE;Age collapsed (PAGE1 + PAGE2) (Recoded for use with online analysis);3;50-64
-I-AGE;Age collapsed (PAGE1 + PAGE2) (Recoded for use with online analysis);4;65+
-I-RELIGION;Religion (Recoded for use with online analysis);1;Protestant
-I-RELIGION;Religion (Recoded for use with online analysis);2;Catholic
-I-RELIGION;Religion (Recoded for use with online analysis);3;Other
-I-RELIGION;Religion (Recoded for use with online analysis);4;Nothing in particular, atheist, or agnostic
+NEWINCOME;Recoded income from Z9, Z9a, Z9b;99;
+I_MARITAL;Marital Status (Recoded for use with online analysis);1;Single
+I_MARITAL;Marital Status (Recoded for use with online analysis);2;Separated, widowed, or divorced
+I_MARITAL;Marital Status (Recoded for use with online analysis);3;Married
+I_RACE;Race (Recoded for use with online analysis);1;White
+I_RACE;Race (Recoded for use with online analysis);2;Black
+I_RACE;Race (Recoded for use with online analysis);3;Hispanic
+I_RACE;Race (Recoded for use with online analysis);4;Other
+I_SEX;Sex (Recoded for use with online analysis);1;Male
+I_SEX;Sex (Recoded for use with online analysis);2;Female
+I_AGE;Age collapsed (PAGE1 + PAGE2) (Recoded for use with online analysis);1;18-29
+I_AGE;Age collapsed (PAGE1 + PAGE2) (Recoded for use with online analysis);2;30-49
+I_AGE;Age collapsed (PAGE1 + PAGE2) (Recoded for use with online analysis);3;50-64
+I_AGE;Age collapsed (PAGE1 + PAGE2) (Recoded for use with online analysis);4;65+
+I_RELIGION;Religion (Recoded for use with online analysis);1;Protestant
+I_RELIGION;Religion (Recoded for use with online analysis);2;Catholic
+I_RELIGION;Religion (Recoded for use with online analysis);3;Other
+I_RELIGION;Religion (Recoded for use with online analysis);4;Nothing in particular, atheist, or agnostic

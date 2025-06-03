@@ -12,6 +12,7 @@ def labels_to_csv(labels_path, output_filename):
         if len(strings) <= 5:
             continue
         Q_NAME = strings[0].split(") ")[1]
+        Q_NAME = Q_NAME.replace("-", "_")
         descr = strings[1]
         for option in strings[5:]:
             if ")" not in option:
@@ -20,6 +21,8 @@ def labels_to_csv(labels_path, output_filename):
             br_ix = option.index(")")
             opt_num = option[:br_ix]
             opt_text = option[br_ix + 2:]
+            if opt_text in ("Web blank", "Refused"):
+                opt_text = None
             data.append((Q_NAME, descr, opt_num, opt_text))
     pd.DataFrame([fields] + data).to_csv(output_filename, index=False, header=False, sep=";")
     
